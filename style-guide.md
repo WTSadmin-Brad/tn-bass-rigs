@@ -21,7 +21,9 @@ This is a human-made aesthetic. The references are drawn by hand. Modern image g
 
 Each rig has one dominant chromatic accent. Warm and cool neutral grays carry the secondary parts (line, hooks, swivels, hardware). Black ink for contours and detail. White paper as the dominant background.
 
-### Per-rig accent palette (proposed — confirm in Phase 0)
+### Per-rig accent palette (locked 2026-04-27 — adjust on collision)
+
+Locked as the working palette. Best-judgment overrides are allowed mid-stream when a real collision surfaces during rendering or comparison-sheet layout — log the swap in `decisions.md` when it happens rather than re-litigating the whole table.
 
 | Rig | Accent | Notes |
 |---|---|---|
@@ -84,7 +86,7 @@ The reference images barely use callouts. We're adding them. Lock these conventi
 - Callouts radiate left and right into the margins.
 - Title in a corner (top-left or top-right), set in the same industrial sans-serif as the labels but larger.
 - Bottom margin holds the "when to throw it" condensed reference (one line per condition).
-- Watermark or signature lower right.
+- No logo, watermark, or signature on the rendered output. Brad applies his own mark to finished sheets after the fact (see `decisions.md` 2026-04-27). Lower-right area is left clean.
 
 ### Comparison sheet
 

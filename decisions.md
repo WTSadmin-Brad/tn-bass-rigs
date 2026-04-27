@@ -178,6 +178,31 @@ The @bassniper section in every dossier is required. Confirmations of pro consen
 
 **Affects:** `style-guide.md`, every infographic.
 
+## 2026-04-27 — Phase 0 lock for first production session
+
+**Context:** First research session opened. Phase 0 confirmation gate per `CLAUDE.md` and the 2026-04-26 confirmation-gate entry. Brad confirmed scope, first rig, palette approach, watermark policy, and species-grouping treatment.
+
+**Decision:**
+- **First rig is Drop Shot.** Selected because it exercises every section of the schema (leader, terminal hardware, smallmouth variant on highland reservoirs) and produces the cleanest calibration signal for both schema and visual style.
+- **Hover Rig and Damiki/minnow rig are out of Phase 1.** Supersedes the 2026-04-26 "Phase 1 rig list" deferral on these two. Reconsider in a later phase if recent TN tournament evidence surfaces a strong case.
+- **No logo, watermark, or signature is rendered on the infographics.** Brad will apply his own mark to finished sheets after the fact. Supersedes the 2026-04-26 deferred "Signature/watermark" item. `style-guide.md` updated to reflect.
+- **Spotted/Kentucky bass remain grouped under "other allowable TN species."** No dedicated variant note added to the schema. Reservoir-specific spotted-bass patterns surface in the Tennessee-specific notes section with `[TN-LOCAL]` tagging if they appear. Resolves the 2026-04-26 deferred item.
+- **Per-rig accent palette as proposed in `style-guide.md` is locked as the working palette.** Best-judgment overrides allowed mid-stream when an actual collision shows up in rendering or comparison-sheet layout — log the swap here when it happens. Resolves the 2026-04-26 deferred "Final accent color palette" item.
+
+**Rationale:** Drop Shot first preserves calibration value. Hover/Damiki lack the verified TN tournament base to justify Phase 1 inclusion. Brad applying his own mark removes a moving target from every image prompt. Spotted/Kentucky bass patterns haven't surfaced as deep enough to justify their own variant treatment; keeping the schema tight is worth more than pre-emptive structural complexity. Locking the palette without re-litigating each color frees the session for content; the visual style guide is robust enough to absorb a swap if one is needed.
+
+**Affects:** `style-guide.md` (single-rig sheet composition + palette section header), `rigs/drop-shot/` (next workspace), Phase 1 scope (10 rigs not 12), schema unchanged.
+
+## 2026-04-27 — Sponsorship is non-blocking when actual usage is documented
+
+**Context:** Brad's framing during Phase 0 lock: "I couldn't care less who pays them, but I definitely want to know what they catch them on." This sharpens the 2026-04-26 "confidence calibration, not corruption flag" stance.
+
+**Decision:** Sponsorship is not a blocker on a claim. The relevant question is whether the pro is actually fishing the bait/component they credit with the win. The `[SPONSOR-FLAG]` inline tag in the schema remains — it's still useful audit metadata — but its presence does not require a non-sponsored corroborating source before a claim can stand. Tournament-documented usage by a sponsored pro is evidence in its own right. The "consensus across pros with different sponsorships" threshold in `source-hierarchy.md` for component-level brand specificity is treated as a heuristic, not a hard gate: when sponsored pros across multiple brands all converge on the same usage, that's the same signal under a different label, and the brand-specific claim earns its place.
+
+**Rationale:** Tournament results force pros to throw what catches fish. Treating sponsorship as a blocker introduces a bias against actual usage data, which is the highest-signal evidence available. The existing methodology was already in this direction; this entry tightens it so dossier work doesn't over-cautiously downgrade tournament-cited brand-specific claims.
+
+**Affects:** `source-hierarchy.md` interpretation (no rewrite — heuristic framing), `pro-roster.md` framing (no structural change), `[SPONSOR-FLAG]` usage in every dossier.
+
 ---
 
 ## Deferred decisions
@@ -185,14 +210,6 @@ The @bassniper section in every dossier is required. Confirmations of pro consen
 Items raised but not yet settled. Resolve and convert to a dated entry above when decided.
 
 **Highland reservoir / smallmouth-specific dossiers.** Whether smallmouth-dominant reservoirs (Dale Hollow, Center Hill, Norris, Tims Ford) eventually warrant their own dossier set distinct from the largemouth-primary core. Currently handled as variants within each rig dossier, but if the smallmouth-specific patterns turn out to be deep enough, they could justify a parallel series. Revisit after the first three dossiers reveal how much smallmouth content the variant approach actually carries.
-
-**Spotted/Kentucky bass treatment.** Currently grouped under "other allowable TN species" without dedicated treatment. May deserve its own variant note if patterns turn out to be meaningfully different from largemouth or smallmouth, particularly on lakes like Tims Ford and Center Hill where spotted bass are common.
-
-**Signature/watermark on infographics.** "Hustlers Tackle" was floated but not confirmed. Style guide currently uses placeholder language. Brad to confirm the actual mark or text used on each finished sheet.
-
-**Hover Rig and Damiki/minnow rig inclusion in Phase 1.** Both flagged as proposed additions for smallmouth-dominant patterns. Needs verification of recent TN tournament evidence before scope expansion.
-
-**Final accent color palette.** Proposed in `style-guide.md`, pending Phase 0 confirmation.
 
 **Comparison sheet content rules.** Single-rig sheets are well-specified. Comparison sheets ("Texas vs. Carolina vs. Free") need explicit rules for which components get shared callouts vs. duplicate ones, and whether the comparison is structured as parallel diagrams or a unified split-rig diagram.
 
