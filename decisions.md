@@ -203,6 +203,29 @@ The @bassniper section in every dossier is required. Confirmations of pro consen
 
 **Affects:** `source-hierarchy.md` interpretation (no rewrite — heuristic framing), `pro-roster.md` framing (no structural change), `[SPONSOR-FLAG]` usage in every dossier.
 
+## 2026-04-27 — Research protocol locked
+
+**Context:** Session 1 (2026-04-27) collapsed before per-rig dossier work began. Three failure patterns: raw web pages bloated main context every turn; parallel fetches hit 503 from rate-limited fishing sites; many target domains hard-block Anthropic's WebFetch entirely. YouTube content (mandatory @bassniper coverage per `CLAUDE.md`) is also unreachable via WebFetch. Session 2 designed the protocol to prevent recurrence, working from `the-loadout.md` (now distilled and deleted) as the candidate-tools framework.
+
+**Decision:** Locked `research-protocol.md` at repo root with six sections:
+
+1. **Per-rig workflow — Subagent fork/merge.** Three parallel subagents per rig (component specs / TN-local + tournament / @bassniper empirical), each producing a ≤500-word structured report. Reports are what land in main context; raw fetched pages do not.
+2. **Web-fetch stack.** Playwright MCP + a free YouTube transcript MCP. Hard constraint: completely free. Firecrawl, Browserbase, and Apify rejected on cost.
+3. **Source-caching rule.** Every fetched excerpt is saved to `sources/articles/` or `sources/transcripts/` before being cited. Codifies existing practice.
+4. **Rate-limit-aware fetch discipline.** Sequential not parallel; exponential backoff (1s → 32s); three-strikes abort with WebSearch snippet fallback as lead-only (not citable). Blocked URLs go to `sources/articles/blocked.md`.
+5. **Pre-seeding workflow for YouTube.** Brad drops transcripts into `sources/transcripts/` before the session starts; Subagent C reads pre-seeded transcripts first.
+6. **Token discipline.** Source-excerpts-stay-out-of-main-context is the load-bearing rule. Subagent fork/merge implements it. `/compact` between rigs, `/clear` between sessions. CLAUDE.md stays under 200 lines.
+
+Two phases carved out into their own chats, in order:
+- **Phase A — Fetch-tool installation and validation.** Runs before session 3. Install both MCPs, validate against ≥3 blocked URLs, append a test report to `research-protocol.md`, delete `next-session-brief.md`.
+- **Phase B — Skill packaging.** Runs immediately after the protocol is exercised end-to-end on drop-shot in session 3. Package as `.claude/skills/per-rig-research/SKILL.md` so `/per-rig-research <rig-name>` becomes the standard entry point for every rig in every new session. Skill is committed, not optional.
+
+`the-loadout.md` is deleted as part of this entry — its content is distilled into `research-protocol.md` and was always temporary per the brief.
+
+**Rationale:** Subagent fork/merge keeps raw pages out of main context, which is the single biggest input-token win available to this project — input tokens dominate long research sessions because every turn re-sends the full context. Subagents beat agent teams on cost (no peer-debate value across the three independent research domains) and beat single-session on context discipline. Playwright MCP is the only browser-automation stack that meets the completely-free constraint. The "test first, package immediately after" sequencing for the skill exists so the skill body reflects what actually worked, not what was planned. Carving out installation/validation and skill packaging into separate chats prevents the protocol-design session from over-extending the same way session 1 did.
+
+**Affects:** `research-protocol.md` (new), `CLAUDE.md` (folder map + per-rig workflow cross-references + load-on-demand entry), `the-loadout.md` (deleted), every per-rig research session going forward, the skill packaging in Phase B, the fetch-tool install in Phase A.
+
 ---
 
 ## Deferred decisions

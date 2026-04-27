@@ -26,6 +26,7 @@ tn-bass-rigs/
 ├── style-guide.md         # Visual style codification, per-rig palette, callout system, image prompt template.
 ├── pro-roster.md          # Named pros, sponsorship flags, TN relevance notes.
 ├── source-hierarchy.md    # Source ranking. @bassniper weighting and rationale.
+├── research-protocol.md   # Per-rig research workflow, fetch tool stack, source caching, rate-limit discipline, token discipline.
 ├── decisions.md           # Rejected ideas + scope changes. Append-only log.
 ├── sources/
 │   ├── style-references/  # Marker-rendering aesthetic refs (glue gun, fire extinguisher, carabiner). Project-wide.
@@ -49,12 +50,13 @@ tn-bass-rigs/
 
 When working on a rig, follow this order. Do not skip steps.
 
-1. **Load context.** Read `schema.md`, `pro-roster.md`, `source-hierarchy.md`, and `style-guide.md` if not already loaded this session. Skim `decisions.md` for prior scope calls that may affect this rig.
-2. **Open or create `rigs/<rig-name>/working-notes.md`.** Log every source consulted with date, link, and a one-line takeaway. Open questions and contradictions live here, not in the dossier. This step catches problems before they get baked into the final output. Skipping it produces dossiers that paper over disagreements.
-3. **Build the dossier in `rigs/<rig-name>/dossier.md`.** Follow `schema.md` exactly — same headers, same order, same fields. Cite inline. Flag contested claims with `[CONTESTED]`. Surface @bassniper findings that contradict pro consensus as feature moments, not footnotes (see `source-hierarchy.md`).
-4. **Pause for Brad's review.** Do not draft image prompts before the dossier is reviewed. Calibration after the first dossier prevents repeated structural errors across the series.
-5. **Draft image prompts in `rigs/<rig-name>/image-prompts.md`.** Use the template from `style-guide.md`. Version each iteration as `## v1`, `## v2`, with a one-line note on what changed.
-6. **Append learnings to `decisions.md`.** Anything that affects future rigs — rejected approaches, scope clarifications, surprising findings, methodological corrections.
+1. **Load context.** Read `schema.md`, `pro-roster.md`, `source-hierarchy.md`, `style-guide.md`, and `research-protocol.md` if not already loaded this session. Skim `decisions.md` for prior scope calls that may affect this rig.
+2. **Run research per `research-protocol.md`.** The protocol governs the subagent fork/merge workflow, web-fetch stack, source caching, rate-limit discipline, and pre-seeding. Subagents file fetched excerpts to `sources/articles/` or `sources/transcripts/` and return ≤500-word structured reports — raw pages do not enter main context.
+3. **Open or create `rigs/<rig-name>/working-notes.md`.** Synthesize from the subagent reports. Log every source consulted with date, link, and a one-line takeaway. Open questions and contradictions live here, not in the dossier. This step catches problems before they get baked into the final output. Skipping it produces dossiers that paper over disagreements.
+4. **Build the dossier in `rigs/<rig-name>/dossier.md`.** Follow `schema.md` exactly — same headers, same order, same fields. Cite inline. Flag contested claims with `[CONTESTED]`. Surface @bassniper findings that contradict pro consensus as feature moments, not footnotes (see `source-hierarchy.md`).
+5. **Pause for Brad's review.** Do not draft image prompts before the dossier is reviewed. Calibration after the first dossier prevents repeated structural errors across the series.
+6. **Draft image prompts in `rigs/<rig-name>/image-prompts.md`.** Use the template from `style-guide.md`. Version each iteration as `## v1`, `## v2`, with a one-line note on what changed.
+7. **Append learnings to `decisions.md`.** Anything that affects future rigs — rejected approaches, scope clarifications, surprising findings, methodological corrections.
 
 ## Context efficiency — what to load when
 
@@ -68,6 +70,7 @@ When working on a rig, follow this order. Do not skip steps.
 - `style-guide.md` when drafting image prompts or making visual decisions
 - `pro-roster.md` when validating sources or checking sponsor relationships
 - `source-hierarchy.md` when ranking source quality or resolving a citation question
+- `research-protocol.md` when running per-rig research (subagent dispatch, web-fetch stack, source caching, rate-limit discipline, token discipline)
 - Specific files in `sources/` when extracting data for a dossier
 
 Loading everything every session burns context budget you will need for synthesis. Pull on demand.
