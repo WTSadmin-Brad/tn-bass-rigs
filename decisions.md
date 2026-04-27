@@ -226,6 +226,23 @@ Two phases carved out into their own chats, in order:
 
 **Affects:** `research-protocol.md` (new), `CLAUDE.md` (folder map + per-rig workflow cross-references + load-on-demand entry), `the-loadout.md` (deleted), every per-rig research session going forward, the skill packaging in Phase B, the fetch-tool install in Phase A.
 
+## 2026-04-27 — Phase A fetch-tool stack installed and validated
+
+**Context:** Phase A per `research-protocol.md` § Carved-out phases. Install Playwright MCP and a free YouTube transcript MCP, validate against ≥3 of session 1's blocked domains plus one YouTube transcript pull, document caveats so session 3 isn't blocked on tooling.
+
+**Decision:** Stack locked at:
+
+- **Playwright MCP** — `@playwright/mcp@latest` (v0.0.70 at install, Playwright 1.59.1, Chromium Headless Shell 147). User scope, `claude mcp add playwright -s user -- npx -y @playwright/mcp@latest`.
+- **YouTube transcript MCP** — `@kimtaeyoon83/mcp-server-youtube-transcript` (v0.1.1). User scope, `claude mcp add youtube-transcript -s user -- npx -y @kimtaeyoon83/mcp-server-youtube-transcript`. `sinco-lab/mcp-youtube-transcript` is the documented backup if the primary breaks.
+
+Both MCPs `✓ Connected` per `claude mcp list`. Three previously-blocked domains (wired2fish.com, majorleaguefishing.com, bassresource.com) returned 200 with real homepage content under Playwright headless. One full @bassniper drop-shot transcript pulled end-to-end (549 segments / 20,752 chars). Test report appended to the bottom of `research-protocol.md`. `next-session-brief.md` deleted.
+
+**Workaround / known limitation logged:** `westernbass.com` and `onthewater.com` returned Cloudflare bot challenges ("Just a moment…" / "Checking your browser…") under headless Chromium. Vanilla Playwright doesn't bypass these. If a citation target lands on a Cloudflare-protected domain in session 3, options are (a) `playwright-extra` + stealth plugin, (b) Playwright MCP in non-headless mode, or (c) WebSearch snippet capture as lead-only per protocol § 4. Address per-URL when it actually blocks a citation; not pre-emptively engineered.
+
+**Rationale:** The "completely free" hard constraint rules out Firecrawl / Browserbase / Apify — confirmed during session 2 protocol design. Playwright MCP is the only browser-automation stack that meets it. For YouTube, kimtaeyoon83's MCP has the strongest maintenance signal among free candidates (highest stars, most commits, MIT license, no API key or paid service in the chain). Validating the underlying npm packages directly proves the same backends the MCPs wrap; end-to-end MCP-tool invocation will be exercised first in session 3 since MCP tools register on session start.
+
+**Affects:** `C:\Users\bradm\.claude.json` (mcpServers config), `research-protocol.md` (Phase A test report appended), `next-session-brief.md` (deleted), session 3 readiness, Phase B skill packaging (the skill body will reference these two MCPs by name).
+
 ---
 
 ## Deferred decisions

@@ -153,3 +153,43 @@ Runs **immediately after** the protocol has been exercised end-to-end on the dro
 - Add a `decisions.md` entry covering what got packaged and why.
 
 The skill is **committed, not optional.** "Test first, package immediately after" sequencing exists so the skill body reflects what actually worked, not what was planned.
+
+---
+
+## Phase A test report — 2026-04-27
+
+**Tools installed (user scope, `C:\Users\bradm\.claude.json`):**
+
+- `playwright` MCP — `npx -y @playwright/mcp@latest` — `@playwright/mcp` v0.0.70, Playwright runtime v1.59.1, Chromium Headless Shell 147.0.7727.15. Local FOSS, no API key, no metered tier.
+- `youtube-transcript` MCP — `npx -y @kimtaeyoon83/mcp-server-youtube-transcript` — package v0.1.1. MIT-licensed, ~530 GitHub stars, calls YouTube's public caption endpoint directly with no API key or paid backend. Backend library `youtube-transcript@1.3.1` validated below as the cost-free reference implementation.
+
+Both registered via `claude mcp add … -s user` and confirmed via `claude mcp list` showing **✓ Connected** for both. MCP tools become invocable on next Claude Code session start.
+
+**Candidate cost-check (YouTube transcript MCP):** Considered `kimtaeyoon83/mcp-server-youtube-transcript` (chosen), `sinco-lab/mcp-youtube-transcript` (backup), and `jkawamoto/mcp-youtube-transcript` (Python). All three are MIT-licensed and use unofficial transcript scraping with no API-key or paid-service dependency. Picked kimtaeyoon83 on maintenance signal (more stars, more commits, longer track record). Backup is sinco-lab if the primary breaks.
+
+**Validation method:** Installed `playwright` and `youtube-transcript` npm packages directly into a scratch dir and exercised the same backends the MCPs wrap. The MCP wrappers expose those backends over the MCP protocol; if the underlying browser/library reaches a domain, the MCP will too. End-to-end MCP-tool invocation is deferred to the first real research session (session 3) since MCP tools register on session start.
+
+**URLs tested (Playwright, headless Chromium):**
+
+| URL | Session 1 status | Phase A status | Body chars | Notes |
+|---|---|---|---|---|
+| `https://www.wired2fish.com/` | 503 | **200** | 4,065 | Real homepage content rendered |
+| `https://majorleaguefishing.com/` | 503 | **200** | 6,658 | Real homepage content rendered |
+| `https://www.bassresource.com/` | 503 | **200** | 3,398 | Real homepage content rendered |
+| `https://www.bassresource.com/fishing/drop_shotting.html` | n/a | 404 | 319 | Domain reachable; URL doesn't exist on the site |
+| `https://www.westernbass.com/` | 403 hard-block | 403 (Cloudflare) | 0 | "Just a moment…" Cloudflare bot challenge — see caveat below |
+| `https://www.onthewater.com/` | 503 | 403 (Cloudflare) | 58 | "Checking your browser…" Cloudflare bot challenge |
+
+The three explicitly-named target domains (wired2fish, majorleaguefishing, bassresource) all serve real content under Playwright. That meets the ≥3 requirement. Real article paths can be confirmed during session 3 when actual citation targets are pulled.
+
+**YouTube transcript pulled end-to-end:**
+
+- `https://www.youtube.com/watch?v=fDr2IsatWLg` — @bassniper (channel branding "fish the moment"), "Drop Shot Length, Weight, and Bait Testing | Underwater Bass Fishing Rig Test" (2020-03-04). Pulled 549 segments, 20,752 characters, full opening-to-outro coverage. This is the first video on the priority list in session 1's brief; transcript is now available without re-fetching when session 3 begins (Brad: drop into `sources/transcripts/` ahead of session 3 if you want to skip the MCP call entirely per the pre-seeding workflow).
+
+**Caveats:**
+
+- **Cloudflare-protected domains.** `westernbass.com` and `onthewater.com` (and likely `1source.basspro.com`, `gameandfishmag.com`, `thefishingwire.com` — not retested) return Cloudflare bot challenges under headless Chromium. Vanilla Playwright doesn't bypass these; options if a citation target is on one of those domains are (1) Playwright with `playwright-extra` + stealth plugin, (2) running Playwright MCP in non-headless mode, or (3) WebSearch snippet capture as lead-only per § 4. Treat as a known-limitation, address per-URL when it actually blocks a citation in session 3.
+- **Bot-detection drift.** Both fetch tools rely on undocumented endpoints (Playwright on a real browser fingerprint, `youtube-transcript` on YouTube's public caption endpoint). YouTube periodically breaks transcript scrapers; if the YouTube MCP starts erroring across the board mid-session, fall back to the sinco-lab backup MCP and log an entry here.
+- **Sequential-not-parallel still applies.** Session 1's rate-limit failure was independent of which fetch backend is used. The discipline in § 4 governs all stacks, including this one.
+
+**Result:** Phase A passes. Session 3 can proceed with the protocol as written.
