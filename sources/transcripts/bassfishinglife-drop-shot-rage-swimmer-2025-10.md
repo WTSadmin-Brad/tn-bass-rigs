@@ -1,0 +1,26 @@
+# A Drop Shot Lure You MUST Try (Watch Underwater)
+
+**URL:** https://www.youtube.com/watch?v=P0wmmiOU3FI
+**Author / channel:** The Bass Fishing Life (host: Steve Rogers)
+**Date:** 2025-10-06
+**Tier:** A (controlled underwater observation; methodology-elevation candidate per decisions.md 2026-04-26)
+**Flags:** none
+
+## Notes
+
+- **Attribution correction.** Brad's session prompt listed this video under "@bassniper" priority targets. The actual channel/host is The Bass Fishing Life / Steve Rogers, not @bassniper. Methodology-elevation candidate flagged in Subagent C report.
+- Pulled 2026-04-27 via `youtube-transcript` v1.3.1 npm backend (74 segments, 2,846 chars).
+- Tests Strike King Rage Swimmer 2-3/4" boot-tail swimbait on a drop shot, rigged on a small #2 EWG via embedded nose hook.
+
+## Extracted findings
+
+- **Lure tested:** Strike King Rage Swimmer 2-3/4 inch (small ribbed boot-tail swimmer). Rigged via embedded nose hook on a #2 EWG, leaving as much body as possible free of the stiff hook to allow easier swim.
+- **Why this lure works on a drop shot:** The thin connecting plastic between the body and the boot tail means very little movement is required to make the tail swim — even ambient water movement.
+- **Application 1 — current:** In current, you can hold this drop shot rig in one position and the current alone will make the boot tail swim. Mimics resident baitfish (minnows) holding in current seams behind/in front of rocks and wood, darting only slightly. The angler doesn't impart action; the current does.
+- **Application 2 — slack-water lake/pond:** You can fish the boot-tail drop shot "so slow and just inch it along" — like a jighead suspended in the water column, but without the constant retrieve-speed minimum that a jighead requires to stay up. The drop-shot weight holds the depth; the thin tail joint still produces tail action even at near-zero forward speed.
+- **Rigging note:** Author specifies "small number 2 EWG" with embedded nose hook, deliberately leaving the body free of hook stiffness. Cross-references Matt Stefen as the rigging-method source.
+- **Implication for the dossier:** Boot-tail swimbaits (e.g., Keitech Swing Impact FAT, Strike King Rage Swimmer, Z-Man minnowZ) on a drop shot are a legitimate technique variant — particularly relevant for current-swept ledge / ridge spots, which maps directly to TVA-managed Tennessee fisheries.
+
+## Transcript
+
+This soft plastic has now been added to my list of favorite drop shot lures. Matt Stefen did a video about unique ways to rig a swimbait. A drop shot was one of them. I love it and for two very specific reasons. When you take a small ribbed swimmer, this one is the 2 and 3/4 in Rage Swimmer. The connecting plastic between the body and the tail is thin and as a result it takes very little movement to make it swim. The first situation where this can be another tool in your toolbox for a drop shot is when you are fishing current. You'll hear various pro anglers talk about this specifically. You can take this little drop shot with the boot tail and literally hold it in one position and the current will make it swim. Let's look at these minnows in a shallow river as an example. You can see that a lot of them are holding in basically one place. They may dart to the left or right or or move forward and backward a little, but they are pretty consistent in their location waiting for food to wash to them. This little lure on a drop shot in current can do the same thing. You can hit all the different current seams and work carefully in front of and behind rocks, wood, etc., and let that little lure work for you without much added action on our part. Now, let's say you are fishing in a lake or a pond. Because of this thin connection between the body and tail, you can fish this on a drop shot so slow and just inch it along. In other words, you can think of it like you would traditionally fish this on a jig head up in the water column above the bottom a little. But with the jig head, you have to maintain a certain speed to keep the lure up and not fall to the lake bed. With it on a drop shot, you can fish it slower. still bring that tail to life and it doesn't fall to the bottom unless you want it to. You can easily mimic a bait fish carelessly swimming along. And of course, we can do this with many drop shot lures, but this boot tail gives it a little more of that swimming look. Now, as far as the rigging, I have used the embedded nose hook method. I often like to use a small number two EWG, but I wanted to leave as much of this body free of the stiff hook as I could to help it swim easier. I don't know why I haven't used one of these before on a drop shot. It's definitely my loss. If you have used a small swimmer like this drop shot fishing, leave some of your favorite tips and advice down below. And hey, if you would like to watch a video on one of the best Texas rig worm tips that I know, I've got some side byside footage of how we would traditionally fish this worm. And then with this little tip, go ahead and check this one out right here. And make sure that you go out and encourage someone today. You never know how you might just change their life. For the bass fishing life, I'm your host, Steve Rogers.

@@ -243,6 +243,36 @@ Both MCPs `✓ Connected` per `claude mcp list`. Three previously-blocked domain
 
 **Affects:** `C:\Users\bradm\.claude.json` (mcpServers config), `research-protocol.md` (Phase A test report appended), `next-session-brief.md` (deleted), session 3 readiness, Phase B skill packaging (the skill body will reference these two MCPs by name).
 
+## 2026-04-27 — [STALE] policy: keep, don't drop, when 2024+ corroborates pre-2024 specifics
+
+**Context:** During session 3 drop-shot synthesis, multiple pre-2024 sources surfaced specifics that 2024+ tournament data corroborated almost verbatim — #1–#2 hook sizes (Bassmaster 2017 → St. Lawrence 2024 dominance), 1/4-oz tungsten weight (multiple eras), 10–12" leader (2015 Bassmaster pros → 2024 Iaconelli blog), Roboworm 4–6" finesse worm (2017 → Gore Wheeler 2024). The triggering question Brad's session-3 brief flagged: should `[STALE]`-tagged claims be dropped from the dossier when 2024+ data agrees, or kept with the tag as confidence-calibration?
+
+**Decision:** `[STALE]` is a confidence-calibration tag, not a drop signal. When 2024+ tournament or named-pro data corroborates the same specifics a `[STALE]` source carries, the claim stands and the `[STALE]` tag stays. Pattern longevity is itself part of the signal — a hook size that has stayed the tournament default across 7+ years of evidence is more durable than one that emerged this season.
+
+**Rationale:** Dropping `[STALE]`-tagged-but-corroborated claims would either (a) silently delete useful evidence the dossier already has on file or (b) force a rewrite to recharacterize 2024+ sources as sole-evidence when the 2017–2022 sources actually carry equal weight. Honest tagging beats either. Per the existing 2026-04-26 flag-inventory entry, the flags' job is to make confidence visible, not to gate inclusion.
+
+**Affects:** `schema.md` flag inventory interpretation (no rewrite — clarification of existing semantics), `source-hierarchy.md` (no structural change), every dossier going forward, this session's `rigs/drop-shot/dossier.md` (already authored under this rule).
+
+## 2026-04-27 — The Bass Fishing Life elevated to pro-roster Tier 4 under methodology-not-channel rule
+
+**Context:** During session 3 Subagent C found that four of five "priority @bassniper videos" listed in the session brief were actually produced by other channels — three by The Bass Fishing Life (Steve Rogers), one by TacticalBassin, one by Derek Kira. The Bass Fishing Life's three drop-shot pieces all run controlled-comparison methodology (side-by-side leader-length tests, multi-lure single-retrieve tests, explicit variable isolation) — the same Tier-A bar the 2026-04-26 @bassniper-weighting decision set.
+
+**Decision:** Add **The Bass Fishing Life (Steve Rogers)** to `pro-roster.md` Tier 4 alongside @bassniper, TacticalBassin, BassResource, and LakeForkGuy. His controlled-comparison drop-shot pieces from 2025 are treated as Tier A on each piece, per the methodology-not-channel rule. The dossier section `@bassniper empirical findings` retains its name for now (schema requirement), but Bass Fishing Life findings are embedded in it under explicit `(methodology-elevated; The Bass Fishing Life)` annotation. The schema-rename question (e.g., to "Underwater empirical findings") is logged in `rigs/drop-shot/working-notes.md` as an open question for Brad's review during dossier calibration.
+
+**Rationale:** The 2026-04-26 @bassniper-weighting decision explicitly anticipated this case: "the same elevation extends to other creators when they apply the same methodology... the threshold is the methodology, not the channel name." Adding Bass Fishing Life to the roster operationalizes that principle. Renaming the dossier section is a schema change that should be raised explicitly to Brad rather than executed silently per the `CLAUDE.md` "propose the schema change to Brad first" rule.
+
+**Affects:** `pro-roster.md` (Tier 4 entry to be added), `schema.md` (no edit yet — section name carries open question), `rigs/drop-shot/dossier.md` (already includes Bass Fishing Life findings under the existing section header), every future dossier (Bass Fishing Life is now in the search-and-cite roster).
+
+## 2026-04-27 — youtube-transcript MCP serialization caveat — fall back to direct npm library
+
+**Context:** During session 3, Subagent C invoked `mcp__youtube-transcript__get_transcript` (the kimtaeyoon83 backend installed in Phase A) for the five additional priority transcripts. The MCP returned the literal string `[object Object]` to the agent harness for every call, despite the underlying `youtube-transcript@1.3.1` npm library functioning correctly. Subagent C worked around the issue by spinning up a `/tmp/yt-scratch` Node project and invoking the same library directly — all five transcripts pulled cleanly first try (87 / 87 / 74 / 64 / 134 segments).
+
+**Decision:** Document the caveat. The MCP install from Phase A remains the canonical Phase B skill recommendation for YouTube transcript fetches, but if a future research session sees the `[object Object]` symptom, the documented workaround is direct `youtube-transcript@1.3.1` npm-library invocation in a scratch Node project. The `sinco-lab/mcp-youtube-transcript` backup MCP from `decisions.md` 2026-04-27 Phase A remains the secondary fallback. Skill packaging in Phase B should mention both fallbacks in its troubleshooting note.
+
+**Rationale:** The transcript content is what matters; the MCP wrapper is plumbing. Phase A validated the underlying library against real targets, so a serialization issue in the wrapper does not invalidate the stack. Documenting the workaround prevents the same diagnosis cost from recurring across future sessions. This is a non-blocking operational caveat, not a change to the protocol or the fetch-stack architecture.
+
+**Affects:** `research-protocol.md` Phase A test report (existing caveat list — would benefit from a one-line append referencing this entry), Phase B skill packaging (skill body should include the workaround in its troubleshooting note), every future research session that pulls YouTube transcripts.
+
 ---
 
 ## Deferred decisions

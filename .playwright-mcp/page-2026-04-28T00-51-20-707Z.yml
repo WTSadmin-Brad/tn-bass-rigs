@@ -1,0 +1,1098 @@
+- generic [active] [ref=e1]:
+  - dialog "We value your privacy" [ref=e3]:
+    - generic [ref=e5]:
+      - heading "We value your privacy" [level=3] [ref=e6]
+      - button "close banner" [ref=e7] [cursor=pointer]:
+        - img [ref=e8]
+    - generic [ref=e12]:
+      - paragraph [ref=e14]:
+        - text: We use cookies and similar technologies on our site to personalize ads or content. Third parties may use this information for their marketing and business purposes. To change your preferences, click Your Privacy Choices. See our
+        - link "Privacy Policy (opens in a new tab)" [ref=e15] [cursor=pointer]:
+          - /url: https://majorleaguefishing.com/privacy-policy/
+          - text: Privacy Policy
+        - text: and
+        - link "Terms of Use (opens in a new tab)" [ref=e16] [cursor=pointer]:
+          - /url: https://majorleaguefishing.com/terms-of-use/
+          - text: Terms of Use
+        - text: .
+      - button "Your Privacy Choices" [ref=e18] [cursor=pointer]
+    - link "Learn more about Ketch for data privacy (opens in a new tab)" [ref=e20] [cursor=pointer]:
+      - /url: https://www.ketch.com/?utm_campaign=customer%20banner&utm_source=ketchcookiebanner&utm_medium=banner&org=major_league_fishing
+      - img [ref=e21]
+  - banner [ref=e29]:
+    - navigation [ref=e30]:
+      - generic [ref=e31]:
+        - link [ref=e32] [cursor=pointer]:
+          - /url: /
+        - list [ref=e34]:
+          - listitem [ref=e35]:
+            - link "Circuits" [ref=e36] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e37]: Circuits
+          - listitem [ref=e38]:
+            - link "Results" [ref=e39] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/results/
+              - generic [ref=e40]: Results
+          - listitem [ref=e41]:
+            - link "Schedule" [ref=e42] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/schedule/
+              - generic [ref=e43]: Schedule
+          - listitem [ref=e44]:
+            - link "Watch" [ref=e45] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/watch/
+              - generic [ref=e46]: Watch
+          - listitem [ref=e47]:
+            - link "Membership" [ref=e48] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/join/
+              - generic [ref=e49]: Membership
+          - listitem [ref=e50]:
+            - link "Sweepstakes" [ref=e51] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/promos/
+              - generic [ref=e52]: Sweepstakes
+          - listitem [ref=e53]:
+            - link "Fantasy Fishing" [ref=e54] [cursor=pointer]:
+              - /url: /fantasy-fishing/
+              - generic [ref=e55]: Fantasy Fishing
+          - listitem [ref=e56]:
+            - link "• • •" [ref=e57] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e58]: • • •
+        - generic [ref=e59]:
+          - link "Play Now!" [ref=e60] [cursor=pointer]:
+            - /url: /fantasy-fishing/
+            - text: Play Now!
+          - link "Shop" [ref=e62] [cursor=pointer]:
+            - /url: https://shopmlf.com/
+            - text: Shop
+          - link [ref=e66] [cursor=pointer]:
+            - /url: /account/
+  - generic [ref=e71]:
+    - iframe [ref=e76]:
+      - generic [active] [ref=f16e1]:
+        - link "Advertisement" [ref=f16e4] [cursor=pointer]:
+          - /url: https://ad.doubleclick.net/pcs/click?xai=AKAOjsuYxc2bnBwQfP8l2YHxvkh_dMLA-fiK7IcW0T1W989P-dCC9EZlTw8tOX2mw1K_uf18AgUXkqmamJRDQUTOFCYJ664iUPQpEpEKHXykYjvUn2W72TftLt0yFBaxmzuHjesdT3JitVXeRaHgf2Z7MURLrGpWtK3FNul8FRnRQFZi3ibfDH2CbZZiiqF5xeLVTAnspd4jfOwHZUjnHCZLwAGWituijPbeDh2tK4GCTm8Zb_oruBXCPTz6bUf5xJK8OM0A1VZO4k-z_iYiV9j3i7UHOWnojv2N3HAOA4aJ14P3x6Ogsxj9kDxHDpRb0oEtFLtqPUsIkKXjDFEK9IqE6epp2pARnvIqUZxjpmc2jG0oTfoy_vAs0WllYJ78nu4Mxye_nJZhCrtNhP7Ntt9XjVicebrGV92T_yPrhBmiMseWPQjZyZqtH2O7WZ7aKtllTDbfdm4-n7eMl3wnMlbN3LcrgUUQGJKzYAh0A0R90mpO0Lgss8w3Qyo8n6N8dJZe2WYLdG8TEDPaoH81HGHe7hyoDqkNXbz2HzxnLNVC6q8MyinhhrKrzYJbMQWmNOfJNFwGo8Yrd12bmmTiXj9NtMETQjUkMzddZYzQWN-iOMgjn15Ddn7Qgq2Q4VX7WrJ_sxIrXDQJsIkSPx0jR3qD6AbBTHG4wGdTdQ4LHmte2ztCemGtyzP_XE9EBEvs_IE6ELWt-ivV5H__OJf05X93_p_P1n4RDxuxDp3bpzUiJrs1Guo&sai=AMfl-YQc8IM1eGB7ZybzRTeSVLSxpg1_zTIEcLsfNuj4fLF_NBfBTD3QqDU6Eh5h8bTCFEEpBbO2tnjZ0G_sOoE8tfZ3MI4sMXasTUqVZCgsHtoIwgDklg7R0afU-yhM7hXE1eyTPgFYecQdPV3jwFyDYGKjHC9rSqJN8pr4ifl0tCtvJ5AhXkQQo8Zw4Ye6Aw6MJSVu0wzMqR28lFYCfU0HxClntQXdCMhomMU0B12dpB0C7Fq835kq_Ghq1BqYTOoEMCFoufJ9-IOx7w-dvN9UKVUXnaGMAB-WhFIzq78WPZXiGn9Kee8l0QP0pMHWiRNW7xSJTx4n6VZyk810uJSvm0uRVVUSN2u5hBSYsHeUJw1Z-wW2faflImtNXTKFAA8P0-29m7beWYRyf7WAEZrdsDZCaxb-lxNq3VhtxpCLpUJmXck&sig=Cg0ArKJSzPo_rkZLjL3z&fbs_aeid=%5Bgw_fbsaeid%5D&crd=aHR0cHM6Ly90b3lvdGEuY29t&urlfix=1&adurl=https://d.agkn.com/pixel/2389/%3Fche%3D3622081844%26col%3D34920444,5894696,436854900,629670219,247613517%26l1%3Dhttps://www.toyota.com/trucks/adventure-detours/%3Fcid%3DDFA:34920444:5894696:436854900:629670219:247613517%26dclid%3D%25edclid!%26gad_source%3D7%26gad_campaignid%3D23379085186
+          - img "Advertisement" [ref=f16e5]
+        - iframe
+        - generic:
+          - generic:
+            - img [ref=f16e7] [cursor=pointer]
+            - img [ref=f16e9] [cursor=pointer]
+    - generic [ref=e77]:
+      - generic [ref=e78]:
+        - iframe [ref=e83]:
+          - generic [active] [ref=f24e1]:
+            - link "Advertisement" [ref=f24e4] [cursor=pointer]:
+              - /url: https://ad.doubleclick.net/pcs/click?xai=AKAOjstPUkeU5KwSwzAVT3yEiZq-mYCnXPzhAeB5VqVlv5ysUw0gkZs_1L0Dpe_Z7kE9QPyu06-2psIr-eZnQ7H7G7opckLgrAsbSXJx8_ujDVd55PpjqvQhBpCsBDkoL23FXEDDm2x6TjUe1Uz90pyfeII5Yt3n9WprjuYnsSR0J0AHXDgWMzzJyE4YpBSOamvIliduaxZpIY0vSn-yfU3MKzPkV_q0nCxAlLNBlljmJc3yco09iShZzsqcg9byhlzp5NuUP01-M5MEsi_PuC-kVSG1lAxI1ynzWEAwGGMGBvRUQe6eGGLBFNU92zrD411tIs_QtXyGLyANPJ3zHut25_txGuRoX87RWC1ecbsmOvs1kprTz8bSn5TkP3kGth27vpmm74_6h13EgJCwOkrwdYw7JtGfnl50Apw95t1qADKnarxICrG-u9HVBLx_J81x21t35HHzr_bG2dybOETkruodTHUg8CIv-YkPGyqrn72sIMJbDJ7HRhGkZ-uZUdMK0ncYUTJLjVywxVkBYDnmlvTzNVADXcisYZJg8Sqf8f6R8DCBoSaLkFIGZ7hPS7kO8M2dyCjF5WgzT53NksLiJA08tly-VFwyDm9xC0i09s2f35T0lGYxP3RGlsjrdxBPqxjbIxq4A059qtp2VhJNREhAy01oukXxpZUFCBSNFC2yJGA5NhN3oPx2MEOQyuuiWhtL7ofM9VYFNwgYRkmxU21CFh-ie4tG1EmE0T61IV565I3w&sai=AMfl-YRIco5KUEVmw2GiMU9Cr-_lBjZTp4TjHPpWQJa6UCUS4GhnSvmXshP2GMTYzAxbgun_JDeCHO2ixbgkljbfppSJiem8uIT3dCffT1jQ867-dYonbakTlB-WhkIn8GEFted8YyTbJMu1bQayg_gKTYb8TqYkVVT7LMZMJzAA5AEwmPR_LnZLCbc7DuzCip9keISqEzfoM3VUPsenOJPnFVsujYM6w9aXXsWeTuLcKNZYPFitonwUl9SZ6Zms5ZwTtAnAYv3jIlMRFvOSDfuPi5H2RXmzjBP55p3ht2qwVv2RIcSRKX2SlipcivW0ROz_NpHC_BHG36Ny_Up2vBb3jBnxkQMUGRQ7l69X3LPYd-brWVXFVufVCtvdg4_83D3_Jg&sig=Cg0ArKJSzMlGfjPgk8Pr&fbs_aeid=%5Bgw_fbsaeid%5D&crd=aHR0cHM6Ly90b3lvdGEuY29t&urlfix=1&adurl=https://d.agkn.com/pixel/2389/%3Fche%3D1534899889%26col%3D34920444,5894696,436855245,629670219,247613514%26l1%3Dhttps://www.toyota.com/trucks/adventure-detours/%3Fcid%3DDFA:34920444:5894696:436855245:629670219:247613514%26dclid%3D%25edclid!%26gad_source%3D7%26gad_campaignid%3D23369966769
+              - img "Advertisement" [ref=f24e5]
+            - iframe
+            - generic:
+              - generic:
+                - img [ref=f24e7] [cursor=pointer]
+                - img [ref=f24e9] [cursor=pointer]
+        - generic [ref=e84]:
+          - link "A Morning with Wesley Strader on Watts Bar Lake 6y • Mason Prince • Angler News" [ref=e85] [cursor=pointer]:
+            - /url: https://majorleaguefishing.com/angler-news/a-morning-with-wesley-strader-on-watts-bar-reservoir/
+            - generic [ref=e86]: A Morning with Wesley Strader on Watts Bar Lake
+            - generic [ref=e87]: 6y • Mason Prince • Angler News
+          - link "Alton Jones announces plan to retire following 2026 season 3m • Mitchell Forde • Bass Pro Tour" [ref=e88] [cursor=pointer]:
+            - /url: https://majorleaguefishing.com/bass-pro-tour/alton-jones-announces-plan-to-retire-following-2026-season/
+            - generic [ref=e89]: Alton Jones announces plan to retire following 2026 season
+            - generic [ref=e90]: 3m • Mitchell Forde • Bass Pro Tour
+          - link "Forrest Wood Cup champion Dion Hibdon dies at 58 3m • Mitchell Forde • Angler News" [ref=e91] [cursor=pointer]:
+            - /url: https://majorleaguefishing.com/angler-news/forrest-wood-cup-champion-dion-hibdon-dies-at-58/
+            - generic [ref=e92]: Forrest Wood Cup champion Dion Hibdon dies at 58
+            - generic [ref=e93]: 3m • Mitchell Forde • Angler News
+          - 'link "Century Club Spotlight: a member thrice over and more 4m • Major League Fishing • Angler News" [ref=e94] [cursor=pointer]':
+            - /url: https://majorleaguefishing.com/angler-news/century-club-spotlight-a-member-thrice-over-and-more/
+            - generic [ref=e95]: "Century Club Spotlight: a member thrice over and more"
+            - generic [ref=e96]: 4m • Major League Fishing • Angler News
+          - 'link "Century Club Spotlight: 4 more (and familiar) names in 100-tournament club 4m • MLF • Angler News" [ref=e97] [cursor=pointer]':
+            - /url: https://majorleaguefishing.com/angler-news/century-club-spotlight-4-more-and-familiar-names-in-100-tournament-club/
+            - generic [ref=e98]: "Century Club Spotlight: 4 more (and familiar) names in 100-tournament club"
+            - generic [ref=e99]: 4m • MLF • Angler News
+          - link "Skeet Reese announces plan to retire following 2025 Bass Pro Tour season 1y • Mitchell Forde • Bass Pro Tour" [ref=e100] [cursor=pointer]:
+            - /url: https://majorleaguefishing.com/bass-pro-tour/skeet-reese-announces-plan-to-retire-following-2025-bass-pro-tour-season/
+            - generic [ref=e101]: Skeet Reese announces plan to retire following 2025 Bass Pro Tour season
+            - generic [ref=e102]: 1y • Mitchell Forde • Bass Pro Tour
+          - link "Sprinting to the scales and other tales from a bass tournament in China 1y • Mitchell Forde • Bass Pro Tour" [ref=e103] [cursor=pointer]:
+            - /url: https://majorleaguefishing.com/bass-pro-tour/sprinting-to-the-scales-and-other-tales-from-a-bass-tournament-in-china/
+            - generic [ref=e104]: Sprinting to the scales and other tales from a bass tournament in China
+            - generic [ref=e105]: 1y • Mitchell Forde • Bass Pro Tour
+          - 'link "KEVIN VANDAM: Just breathe 1y • Dynamic Sponsorships • Angler News" [ref=e106] [cursor=pointer]':
+            - /url: https://majorleaguefishing.com/angler-news/just-breathe/
+            - generic [ref=e107]: "KEVIN VANDAM: Just breathe"
+            - generic [ref=e108]: 1y • Dynamic Sponsorships • Angler News
+          - link "Alfred Williams casts historic line as first African-American inducted into Bass Fishing Hall of Fame 1y • Charity Muehlenweg • Angler News" [ref=e109] [cursor=pointer]:
+            - /url: https://majorleaguefishing.com/angler-news/alfred-williams-casts-historic-line/
+            - generic [ref=e110]: Alfred Williams casts historic line as first African-American inducted into Bass Fishing Hall of Fame
+            - generic [ref=e111]: 1y • Charity Muehlenweg • Angler News
+          - link "Summertime is the right time for “Big Show” Scroggins’ crab leg creation 2y • Alan McGuckin • Angler News" [ref=e112] [cursor=pointer]:
+            - /url: https://majorleaguefishing.com/angler-news/summertime-is-the-right-time-for-big-show-scroggins-crab-leg-creation/
+            - generic [ref=e113]: Summertime is the right time for “Big Show” Scroggins’ crab leg creation
+            - generic [ref=e114]: 2y • Alan McGuckin • Angler News
+          - link "Howell’s 12th annual boat giveaway fundraiser underway through Nov. 12 3y • Angler News" [ref=e115] [cursor=pointer]:
+            - /url: https://majorleaguefishing.com/angler-news/howells-12th-annual-boat-giveaway-fundraiser-underway-through-nov-12/
+            - generic [ref=e116]: Howell’s 12th annual boat giveaway fundraiser underway through Nov. 12
+            - generic [ref=e117]: 3y • Angler News
+          - link "Bradley Roy’s High School Open Presented by Covercraft Continues for 10th Year 3y • J.D. Blackburn • High School Fishing" [ref=e118] [cursor=pointer]:
+            - /url: https://majorleaguefishing.com/high-school/bradley-roys-high-school-open-presented-by-covercraft-continues-for-10th-year/
+            - generic [ref=e119]: Bradley Roy’s High School Open Presented by Covercraft Continues for 10th Year
+            - generic [ref=e120]: 3y • J.D. Blackburn • High School Fishing
+          - link "From Bass Boat to Kayak in Two Days as Jackson Roumbanis Wins His First-Ever Kayak Tournament 3y • Kendra Cousineau • Angler News" [ref=e121] [cursor=pointer]:
+            - /url: https://majorleaguefishing.com/angler-news/from-bass-boat-to-kayak-in-two-days-as-jackson-roumbanis-wins-his-first-ever-kayak-tournament/
+            - generic [ref=e122]: From Bass Boat to Kayak in Two Days as Jackson Roumbanis Wins His First-Ever Kayak Tournament
+            - generic [ref=e123]: 3y • Kendra Cousineau • Angler News
+          - link "Biffle, Fennel, Martens Inducted into the Bass Fishing Hall of Fame 3y • Rachel Dubrovin • Angler News" [ref=e124] [cursor=pointer]:
+            - /url: https://majorleaguefishing.com/angler-news/biffle-fennel-martens-inducted-into-the-bass-fishing-hall-of-fame/
+            - generic [ref=e125]: Biffle, Fennel, Martens Inducted into the Bass Fishing Hall of Fame
+            - generic [ref=e126]: 3y • Rachel Dubrovin • Angler News
+          - link "VanDam Goes to NASCAR’s Victory Lane 3y • Alan McGuckin • Angler News" [ref=e127] [cursor=pointer]:
+            - /url: https://majorleaguefishing.com/angler-news/vandam-goes-to-nascars-victory-lane/
+            - generic [ref=e128]: VanDam Goes to NASCAR’s Victory Lane
+            - generic [ref=e129]: 3y • Alan McGuckin • Angler News
+      - generic [ref=e130]:
+        - generic [ref=e132]:
+          - heading "A Morning with Wesley Strader on Watts Bar Lake" [level=1] [ref=e133]
+          - heading [level=5]
+          - generic [ref=e134]:
+            - img "Image for A Morning with Wesley Strader on Watts Bar Lake" [ref=e135]
+            - generic [ref=e136]: Tales from a morning spent with Wesley Strader on his home lake of Watts Bar Reservoir. Photo by Mason Prince
+            - generic [ref=e137]:
+              - text: October 2, 2019 • Mason Prince •
+              - link "Angler News" [ref=e138] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/angler-news/
+            - paragraph [ref=e139]: WATTS BAR, Tenn. – After feasting on a boil of Gulf shrimp, sausage, corn and potatoes provided by Brandon Coulter the night before, Wesley Strader and I are well rested before our excursion on Watts Bar Lake in east Tennessee. Strader grew up fishing on Watts Bar and had plenty of stories to tell and knowledge to share about the reservoir, which is the reservoir above Lake Chickamauga on the Tennessee River.
+            - paragraph [ref=e140]:
+              - strong [ref=e141]: 7:15 a.m. ET
+              - text: – I meet Strader on a dock just outside of his buddy Coulter’s house. The weather is beautiful with not a cloud in the sky as we prepare for a morning of fishing. Strader feels confident that he’ll have success today. “I caught a 4-pounder here yesterday, so I have some good spots in mind,” he boasts.
+            - figure "Strader checks his Lowrance unit for signs of activity. Photo by Mason Prince" [ref=e142]:
+              - generic [ref=e143]: Strader checks his Lowrance unit for signs of activity. Photo by Mason Prince
+            - paragraph [ref=e144]:
+              - strong [ref=e145]: 7:20 a.m. ET
+              - text: – We arrive at our first location and Strader begins by throwing a Zorro Buzzbait with a
+              - link "Zoom Horny Toad trailer (opens in a new tab)" [ref=e146] [cursor=pointer]:
+                - /url: https://www.basspro.com/shop/en/zoom-horny-toad
+                - text: Zoom Horny Toad trailer
+              - text: . I notice how impressively far his casting distance is and he simply says, “Brakes are for sissies.” We have a laugh and he explains that his wrists are actually starting to hurt after a strenuous Bass Pro Tour season.
+            - paragraph [ref=e147]:
+              - strong [ref=e148]: 8:00 a.m. ET
+              - text: – With not much luck on our first stop, we make the move to a spot with a little bit of sentimental value for Strader. He pulls up to a point along the bank and says that this is where he caught his first fish, a 2-pound, 6-ounce bass that his dad had mounted for him when he was just a kid. He says the lake has changed a lot since then.
+            - paragraph [ref=e149]:
+              - strong [ref=e150]: 8:11 a.m. ET
+              - text: – Strader begins to tell me how the Tennessee Valley Authority killed off a lot of the hydrilla in the 1990s, causing the fishing to take a serious hit. The Tennessee native recalls swimming in the lake as a teenager and watching the TVA dump grass-killing chemicals into the water. It’s been almost 30 years since then, and Strader says that Watts Bar is finally starting to come back as one of the best fishing lakes in the state.
+            - paragraph [ref=e151]:
+              - strong [ref=e152]: 8:45 a.m. ET
+              - text: – It takes a little while but we finally have our first fish of the day. Strader has switched up to a vibrating jig to catch this bass, but it doesn’t look to be scoreable. “I don’t really care how big he was, I’m just excited to get a bite,” Strader jokes.
+            - figure "Strader with a drum he caught using a vibrating jig. Photo by Mason Prince" [ref=e153]:
+              - generic [ref=e154]: Strader with a drum he caught using a vibrating jig. Photo by Mason Prince
+            - paragraph [ref=e155]:
+              - strong [ref=e156]: 9:30 a.m. ET
+              - text: – Still working the vibrating jig, Strader sets the hook and exclaims, “Oh I got a big one!” I step toward the front of the boat to get a picture. As the line gets shorter and the fight gets tougher, Strader begins to think he doesn’t have a largemouth on the other end of that line. “It’s got to be a drum,” he sighs. He’s right.
+            - paragraph [ref=e157]:
+              - strong [ref=e158]: 9:47 a.m. ET
+              - text: – After using a buzzbait or a vibrating jig all morning, Strader reaches for something else as he spies some schooling shad near the surface. He quickly ties on a PH Custom Lures P1 crankbait and casts near the boiling shad. Sadly, no luck. He says that he made the quick change because he had missed one on his vibrating jig and he believed that with more hooks on the crankbait, he would have a better shot at getting one hooked.
+            - paragraph [ref=e159]:
+              - strong [ref=e160]: 10:11 a.m. ET
+              - text: – Strader works his way around some boat docks. “I saw some minnows underneath this dock,” he says. “Docks are great this time of year because they provide shade for the minnows and the bass just love to hang out there.” He picks up his 4 1/4-inch green pumpkin
+              - link "Zoom Salty Super Tube (opens in a new tab)" [ref=e161] [cursor=pointer]:
+                - /url: https://www.basspro.com/shop/en/zoom-salty-super-tube
+                - text: Zoom Salty Super Tube
+              - text: to pitch in between the submerged wooden planks.
+            - figure "Strader shows off his Zoom Salty Super Tube that he likes to pitch under docks in the fall. Photo by Mason Prince" [ref=e162]:
+              - generic [ref=e163]: Strader shows off his Zoom Salty Super Tube that he likes to pitch under docks in the fall. Photo by Mason Prince
+            - paragraph [ref=e164]:
+              - strong [ref=e165]: 10:49 a.m. ET
+              - text: – Our time and luck are beginning to run out. We’re scheduled to head back in at 11 and so far all we’ve gotten are a small bass and a drum, or “vermin of the shallows” as Strader so affectionately puts it. He’d confounded as to why he hasn’t gotten many bites today. As we prepare to head back to the dock, Strader tells me even after a rough day, his confidence in Watts Bar never waivers.
+            - paragraph [ref=e166]:
+              - text: “I don’t think, I
+              - emphasis [ref=e167]: know
+              - text: that Watts Bar Lake is about to be the new Lake Chickamauga in about five years,” Strader predicts. “The combination of the grass coming back that was killed off 30 years ago, plus the influx of Florida strain largemouths will make Watts Bar a go-to lake in Tennessee. I can’t wait to see what the future holds for it. Maybe we’ll see an MLF event here one day.”
+        - generic [ref=e169]:
+          - heading "Alton Jones announces plan to retire following 2026 season" [level=1] [ref=e170]
+          - heading [level=5]
+          - generic [ref=e171]:
+            - img "Image for Alton Jones announces plan to retire following 2026 season" [ref=e172]
+            - generic [ref=e173]: Bass Pro Tour angler Alton Jones announced that his 36th season as a touring pro will be his last. Photo by Tyler Brinks.
+            - generic [ref=e174]:
+              - text: January 15, 2026 • Mitchell Forde •
+              - link "Bass Pro Tour" [ref=e175] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/bass-pro-tour/
+            - paragraph [ref=e176]:
+              - text: Just before the start of his 36th season as a touring pro,
+              - link "Alton Jones" [ref=e177] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/alton-jones/
+              - text: announced that it will be his last. Jones, who is part of the field that blasted off for the first event of the
+              - link "Bass Pro Tour" [ref=e178] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/circuits/bass-pro-tour/
+              - text: season on
+              - link "Lake Guntersville" [ref=e179] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/events/2026-01-15-stage-1-lake-guntersville/
+              - text: Thursday morning,
+              - link "posted on his social media accounts" [ref=e180] [cursor=pointer]:
+                - /url: https://www.instagram.com/p/DTg4fTyCQiX/
+              - text: Wednesday that he will retire at the conclusion of the 2026 season.
+            - paragraph [ref=e181]: Speaking to MajorLeagueFishing.com about his decision last week, Jones said retiring isn’t something he took lightly, nor is it a recent development. The 62-year-old has been thinking about it for a while now and eyeing this season as his last for more than a year.
+            - paragraph [ref=e182]: “I wanted to fish through the ‘25 season, the whole thing, and I wanted to get to right now and ask myself, ‘OK, this is my last season, how does it feel?’” Jones said. “And it really feels like the right thing to do. I feel a lot of green lights.”
+            - heading "A career centered on family" [level=3] [ref=e183]
+            - figure "Alton Jones’ family has long accompanied him on the road, both when his wife homeschooled his two kids and once his son, Alton Jones Jr., joined him on tour. Photo by Phoenix Moore" [ref=e184]:
+              - generic [ref=e185]: Alton Jones’ family has long accompanied him on the road, both when his wife homeschooled his two kids and once his son, Alton Jones Jr., joined him on tour. Photo by Phoenix Moore
+            - paragraph [ref=e186]: Across his long career, Jones has put together one of the most impressive résumés in tournament bass fishing history. He won the 2008 Bassmaster Classic, one of his seven tour-level victories, and has surpassed the $3 million mark in earnings. The Texan also won the 2021 Heavy Hitters event in Raleigh, North Carolina, and finished third in the Angler of the Year standings on the Bass Pro Tour in 2022. While his skillset is versatile, he’s widely considered one of the best sight-fishermen of all time.
+            - paragraph [ref=e187]: But looking back across more than three decades of touring competition, Jones said those on-water accolades are “probably the least important thing to me.” The thing he’s treasured most, he said, are the relationships he’s formed with people he’s met along the way.
+            - paragraph [ref=e188]: The most important of those relationships have been with his family, which has long been an inextricable part of his pro career. Jones’ wife, Jimmye Sue, and his two children traveled with him on tour for years, with Jimmye Sue homeschooling their kids. Of everything he’s done in the past 36 years, Jones said he’s most proud that they were able to make that work so he didn’t have to leave his family for weeks at a time.
+            - paragraph [ref=e189]: “It was a lot of extra work, but an investment that was well worth it as far as our family relationships and preparing them for their futures,” he said. “For us, home became wherever we were together, which was all over the country. It wasn’t anything about a house in Waco, Texas.”
+            - paragraph [ref=e190]:
+              - text: That family dynamic has continued in recent years as Jones’ son,
+              - link "Alton Jones Jr." [ref=e191] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/alton-jones-jr/
+              - text: ", has traveled alongside his father while the two compete on the Bass Pro Tour together. They even teamed up for two"
+              - link "Fishing Clash Team Series" [ref=e192] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/circuits/team-series/
+              - text: events, including a win at the Summit Cup on the St. Clair River last August.
+            - paragraph [ref=e193]: “I’ve really treasured the time he and I have gotten to spend together competing against each other on the Bass Pro Tour,” Jones said of his son. “Following each other up and down the roads across America, staying with each other at the venues, strategizing about plans, I’ve enjoyed the relationship-building aspect of that.”
+            - heading "Excited to be grandpa" [level=3] [ref=e194]
+            - figure "Jones still plans to spend plenty of time on the water during retirement, just not as far away from his Texas home. Photo by Phoenix Moore" [ref=e195]:
+              - generic [ref=e196]: Jones still plans to spend plenty of time on the water during retirement, just not as far away from his Texas home. Photo by Phoenix Moore
+            - paragraph [ref=e197]: Several factors weighed into Jones’ decision to make 2026 his final year. For one, he said that, while he still loves to fish as much as he ever has, “I’m less mad at the fish than I used to be.” He pointed to that as one reason his results have slipped a bit the past couple years, when he failed to qualify for REDCREST after doing so each of the four previous seasons
+            - paragraph [ref=e198]: “For most of my career, if I needed to make a 20-mile run through rough water to get one extra bite, I’m like, ‘Yeah, let’s do this,’” he said. “At 62, I’m like, ‘You know what, I think I’ll just stay where I am and hope one bites.’”
+            - paragraph [ref=e199]: Still, Jones plans to spend plenty of time on the water during retirement. Through the years, he’s gained access to “some really fabulous, highly-managed private fisheries.” He’s excited to get more time to fish them, especially during the spring, when he’s usually on the road.
+            - paragraph [ref=e200]: “I get to take friends out there, and they’re a great way to develop relationships,” Jones said. “Some of (the fisheries) are so good, it does make it a little bit harder to say, hey, I want to go fish on Lake Waco today when I could go fish over here and I know I’m going to catch 40 fish over 5 pounds. So, I’m going to do a lot of that.”
+            - paragraph [ref=e201]: He’s also excited about getting some time back to play pickleball, pursue some additional ministry opportunities and spend time with Jimmye Sue.
+            - paragraph [ref=e202]: “While we’re still in good enough health to go do some fun things and spend a lot of quality time together, we want to go do that,” he said.
+            - paragraph [ref=e203]: But more than any of those reasons, Jones doesn’t want to be away from home as often because he’s found a role he loves even more than being a professional angler – being grandpa.
+            - paragraph [ref=e204]: “We now have four grandchildren under the age of 3, and they all live within 10 minutes of my house,” he said. “And so that makes it harder and harder to leave for weeks at a time to go to tournaments, because you’ve always got that pull of those grandkids there.
+            - paragraph [ref=e205]: “I just want to spend a lot of time being grandpa.”
+            - heading "Sprinting to the finish line" [level=3] [ref=e206]
+            - figure "Jones’ last solo win came at Heavy Hitters in 2021. He’s hoping to add one more trophy before he retires. Photo by Garrick Dixon" [ref=e207]:
+              - generic [ref=e208]: Jones’ last solo win came at Heavy Hitters in 2021. He’s hoping to add one more trophy before he retires. Photo by Garrick Dixon
+            - paragraph [ref=e209]: Just because Jones has made the decision that this season will be his last, don’t expect him to go through the motions in 2026. He emphasized that his drive to win is as strong as ever, and he still hopes to qualify for two Team Series events next fall as well REDCREST and Heavy Hitters in 2027
+            - paragraph [ref=e210]: “I’m approaching this final season not as ‘hey, let’s coast to the finish line,’” he said. “I want to sprint. My preparation, I think, is good. My drive is high. In some ways, I think it maybe even has ratcheted up my work ethic a little bit.”
+            - paragraph [ref=e211]: Adding to Jones’ motivation is the fact that this season’s schedule includes several events that excite him – most notably, the first tournament in his long career on fisheries that are local to him, Stage 3 on Lakes Waco and Whitney. He’ll also revisit the site of his Classic win at Stage 2 on Lake Hartwell.
+            - paragraph [ref=e212]: “This is sort of a God wink, I guess you could say,” Jones said. “I’ve fished my whole career, I’ve never had a professional tournament that I got to spend the night in my own bed at home and fish that tournament. And this year, we’ve got one. So, that’s really cool.”
+            - paragraph [ref=e213]: Jones will try to add one more trophy to his collection and treasure one last season traveling with his son in 2026. Just as much as the hardware he’s won and the relationships he formed, he expressed gratitude that he was able to make such a long career out of something he loves, and that he gets to end it on his terms.
+            - paragraph [ref=e214]: “I’m thankful that I’ve been able to have a successful career in bass fishing,” Jones said. “To be able to have this as a job, I really don’t feel like I’ve ever had a job. I’ve worked really hard at it, but it hasn’t been laborious. It’s been hard, it’s been all those type of things, but when you’re working hard at things you love and you’re passionate about, it’s not a job. So, I just feel very blessed and very thankful to have that as part of my story.”
+        - generic [ref=e216]:
+          - heading "Forrest Wood Cup champion Dion Hibdon dies at 58" [level=1] [ref=e217]
+          - heading [level=5]
+          - generic [ref=e218]:
+            - img "Image for Forrest Wood Cup champion Dion Hibdon dies at 58" [ref=e219]
+            - generic [ref=e220]: Dion Hibdon, winner of the 1997 Bassmaster Classic and 2000 Forrest Wood Cup, died Monday. Photo by Rob Matsuura.
+            - generic [ref=e221]:
+              - text: January 13, 2026 • Mitchell Forde •
+              - link "Angler News" [ref=e222] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/angler-news/
+            - paragraph [ref=e223]:
+              - text: Former Forrest Wood Cup and Bassmaster Classic champion
+              - link "Dion Hibdon" [ref=e224] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/dion-hibdon-175078/
+              - text: passed away Monday at the age of 58. The son of legendary angler Guido Hibdon, he is survived by his wife, Amy; his children, Payden, Connor and Lawson; and his siblings, Dotty and Chuck.
+            - paragraph [ref=e225]: Growing up in mid-Missouri, Dion decided early on to follow in the footsteps of his father, a fellow Bassmaster Classic champion and Bass Fishing Hall of Fame inductee, both in guiding on Lake of the Ozarks and, eventually, fishing professionally. He competed on the FLW Tour for 21 seasons and qualified for 11 Forrest Wood Cups.
+            - paragraph [ref=e226]: Longtime former FLW tournament director Bill Taylor remembered Dion as a kind, well-liked competitor who wore the Hibdon name well.
+            - paragraph [ref=e227]: “Dion was special,” Taylor said. “He had no enemies. Everyone loved both he and Guido. Especially Dion, he was there to help others as well as himself.
+            - paragraph [ref=e228]: “He got along great with all the other anglers and really epitomized what professional bass fishing is all about.”
+            - paragraph [ref=e229]: While his legacy is inextricably linked with his father, Dion experienced plenty of his own success. His breakthrough moment came at the 1997 Classic on Logan Martin Lake, which Dion won by a single ounce. He then added a Forrest Wood Cup title on the Red River in 2000. To this day, he is one of just five anglers ever to win both championships.
+            - paragraph [ref=e230]: “Dion didn’t necessarily depend on his dad the way he was going to fish,” Taylor said. “They went about it in two different ways. I think Dion was a little bit more versatile than his dad, to be honest.”
+            - figure "Dion Hibdon, right, and his father, Guido, are the only father-son duo to both win the Bassmaster Classic. Photo by Rob Newell" [ref=e231]:
+              - generic [ref=e232]: Dion Hibdon, right, and his father, Guido, are the only father-son duo to both win the Bassmaster Classic. Photo by Rob Newell
+            - paragraph [ref=e233]: Dion, however, was never concerned about paving his own way. After each of his major victories, he never failed to credit his father, with whom he traveled for much of his pro career.
+            - paragraph [ref=e234]:
+              - text: “When I won the Classic, people made a big deal about me becoming my own fisherman and getting out from beneath my father’s shadow,” he told longtime FLW writer Rob Newell in a 2000
+              - link "Bass Fishing Magazine interview" [ref=e235] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/archives/2001-01-01-hibdon-s-heritage/
+                - emphasis [ref=e236]: Bass Fishing
+                - text: Magazine interview
+              - text: . “We just do not see it that way and we never have. If you want to think about this in terms of proverbial shadows, then what people need to realize is that dad casts a pretty big shadow. There are a lot of fishermen under my father’s shadow, and we are going to be there for a long time. We can only hope, as bass fishermen, that one day we are half as good as he is. I am proud to be under his shadow.”
+            - paragraph [ref=e237]: Guido, meanwhile, credited Dion with inventing the bait that became synonymous with the family – the Guido Bug. The story goes that Dion made the soft-plastic crawfish imitator, which played a major role in both Guido’s Bassmaster Classic and Dion’s Forrest Wood Cup wins as a jig trailer, in a middle school science class.
+            - paragraph [ref=e238]: Dion went on to claim an FLW Series win in 2006 as well as a Toyota Series and two Phoenix Bass Fishing League victories on his home lake, Lake of the Ozarks. Two of his children, Payden and Lawson, have also earned BFL wins on Lake of the Ozarks.
+            - paragraph [ref=e239]: Funeral arrangements have not been made public as of this writing.
+        - generic [ref=e241]:
+          - 'heading "Century Club Spotlight: a member thrice over and more" [level=1] [ref=e242]'
+          - heading [level=5]
+          - generic [ref=e243]:
+            - 'img "Image for Century Club Spotlight: a member thrice over and more" [ref=e244]'
+            - generic [ref=e245]: Commercial & Advertising Photographer in Charleston, SC Andy Hagedon www.asmartimage.com
+            - generic [ref=e246]:
+              - text: December 12, 2025 • Major League Fishing •
+              - link "Angler News" [ref=e247] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/angler-news/
+            - paragraph [ref=e248]: The Century Club, which began in 2024 as a way for Major League Fishing to recognize and thank anglers who have fished 100 or more tournaments with MLF and its predecessors (FLW and Operation Bass), added 57 new members to its ranks in 2025. The total now stands at north of 1,200 members, dating back to the beginning of digital recordkeeping in 1994.
+            - paragraph [ref=e249]: This week, we’re highlighting four more members of the Century Club. Their ages and experience are varied, but each angler has had an impact on MLF and its predecessors dating back decades – including one who fished his first MLF derby in 1995.
+            - figure [ref=e250]
+            - heading "Joshua Weaver" [level=3] [ref=e251]
+            - paragraph [ref=e252]:
+              - text: “Consistent.” That’s one of the best words to describe the career of Macon, Georgia, pro
+              - link "Joshua Weaver" [ref=e253] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/joshua-weaver-366059/
+              - text: ", who didn’t take too awful long to go from his first BFL as a co-angler in 2010 to the Bass Pro Tour and a REDCREST appearance in 2024. Along the way, Weaver joined the Century Club and has tallied more than half-a-million dollars in career earnings including a Tackle Warehouse Pro Circuit win at Okeechobee in 2023."
+            - heading "Eddie Evans" [level=3] [ref=e254]
+            - paragraph [ref=e255]:
+              - text: If you’ve fished the BFL Mountain Division at any point in the last 30 years, you know the name
+              - link "Eddie Evans" [ref=e256] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/eddie-evans-131508/
+              - text: . Evans, who’s fished across a bunch of circuits and divisions under the MLF umbrella, fished his first Mountain Division derby in 1995 and finished 55th in points as a co-angler this season with his 189th MLF event.
+            - heading "Thomas Helton" [level=3] [ref=e257]
+            - paragraph [ref=e258]:
+              - link "Thomas Helton" [ref=e259] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/thomas-helton-156824/
+              - text: "had a 21-year stretch from 2000 to 2021 in which he fished every season in the BFL Choo Choo Division (as both a co-angler and boater). Also on his résumé: 10 years of Toyota Series competition, a handful of years on the FLW Tour, a pair of Toyota Series Championship showings and two BFL All-American starts. In total, Helton amassed 181 tournaments with MLF."
+            - heading "Bobby McMullin" [level=3] [ref=e260]
+            - paragraph [ref=e261]:
+              - text: Few people have fished as many tournaments under the MLF umbrella as
+              - link "Bobby McMullin" [ref=e262] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/bobby-mcmullin-173944/
+              - text: (303). The Pevely, Missouri, angler has had his fingerprints all over the organization since 1995 at nearly every level of the sport. He’s a BFL Illini Division staple and has a résumé that includes a bunch of Toyota Series tournaments, several years on the FLW Tour as both a pro and a co-angler, six Toyota Series Championships (two Top 10s) and a couple All-Americans, the first of which resulted in a fourth-place finish in 2002.
+        - generic [ref=e264]:
+          - 'heading "Century Club Spotlight: 4 more (and familiar) names in 100-tournament club" [level=1] [ref=e265]'
+          - heading [level=5]
+          - generic [ref=e266]:
+            - 'img "Image for Century Club Spotlight: 4 more (and familiar) names in 100-tournament club" [ref=e267]'
+            - generic [ref=e268]: Matt Becker is among the 57 anglers to join the century club this year.
+            - generic [ref=e269]:
+              - text: December 3, 2025 • MLF •
+              - link "Angler News" [ref=e270] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/angler-news/
+            - paragraph [ref=e271]: The Century Club, which began in 2024 as a way for Major League Fishing to recognize and thank anglers who have fished 100 or more tournaments with MLF and its predecessors (FLW and Operation Bass), added 57 new members to its ranks in 2025. The total now stands at north of 1,200 members, dating back to the beginning of digital recordkeeping in 1994.
+            - paragraph [ref=e272]: This week, we’re highlighting four more members of the Century Club. All four spent at least a few years (and as many as 27!) fishing the FLW Tour/Pro Circuit – one of whom has made quite a mark on the Bass Pro Tour in recent years.
+            - heading "Matt Becker" [level=3] [ref=e273]
+            - figure "So far, Becker’s career has raked in more than $1 million. Photo by Phoenix Moore" [ref=e274]:
+              - generic [ref=e275]: So far, Becker’s career has raked in more than $1 million. Photo by Phoenix Moore
+            - paragraph [ref=e276]:
+              - text: One of the rising stars in professional bass fishing for the last several years,
+              - link "Matt Becker" [ref=e277] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/matt-becker/
+              - text: eclipsed the 100-tournament mark with MLF in under 10 years of fishing with FLW/MLF – and the results over that span have been stellar. Becker won Angler of the Year and Rookie of the Year in his first year on the Bass Pro Tour after a handful of terrific years on the Tackle Warehouse Pro Circuit and a stout track record at the regional and grassroots levels.
+            - heading "Michael Hall" [level=3] [ref=e278]
+            - paragraph [ref=e279]:
+              - text: A staple of the Toyota Series Northern Division, Annandale, Virginia’s
+              - link "Michael Hall" [ref=e280] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/michael-hall-177306/
+              - text: has fished at least one event in the division every year since 2005 (with the exception of 2015 when Hall returned to the Pro Circuit). Even before that, he fished BFLs dating all the way back to 1995 with seven Top 10s and a Toyota Series win to his credit.
+            - heading "Rex Huff" [level=3] [ref=e281]
+            - paragraph [ref=e282]:
+              - text: In 153 events with FLW/MLF, Bean Station, Tennessee’s
+              - link "Rex Huff" [ref=e283] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/rex-huff-102493/
+              - text: turned in 23 Top 10s and three wins across multiple levels of competition (including a seven-year run on the FLW Tour/Pro Circuit) to the tune of more than $200,000 in career earnings.
+            - heading "Mike Surman" [level=3] [ref=e284]
+            - paragraph [ref=e285]:
+              - text: An elder statesman of the FLW days,
+              - link "Mike Surman" [ref=e286] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/mike-surman-174733/
+              - text: fished FLW’s top touring circuit every year from 1996 to 2022, earning 12 Top 10s and a trio of Top-10 AOY finishes in that span. In total, Surman has fished 259 tournaments (and counting) under the MLF umbrella and has compiled career earnings of nearly $800,000.
+        - generic [ref=e288]:
+          - heading "Skeet Reese announces plan to retire following 2025 Bass Pro Tour season" [level=1] [ref=e289]
+          - heading [level=5]
+          - generic [ref=e290]:
+            - img "Image for Skeet Reese announces plan to retire following 2025 Bass Pro Tour season" [ref=e291]
+            - generic [ref=e292]:
+              - text: "Ten-time tour-level winner Skeet Reese will retire at the end of the 2025 Bass Pro Tour season. Photo by Phoenix Moore. Angler:"
+              - link "Skeet Reese" [ref=e293] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/skeet-reese/
+              - text: .
+            - generic [ref=e294]:
+              - text: April 22, 2025 • Mitchell Forde •
+              - link "Bass Pro Tour" [ref=e295] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/bass-pro-tour/
+            - paragraph [ref=e296]:
+              - text: Bass Fishing Hall of Famer
+              - link "Skeet Reese" [ref=e297] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/skeet-reese/
+              - text: announced Tuesday that the 2025
+              - link "Bass Pro Tour" [ref=e298] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/circuits/bass-pro-tour/
+              - text: season will be his last. Reese, who is in the midst of his 28th season as a full-time touring pro, said following the conclusion of this season he will step back from competition to spend more time with his family and grow his newly launched company, Reese Fishing.
+            - paragraph [ref=e299]: “I think there’s lots of factors,” Reese said of his decision. “There is a part of it where it’s just family time, number one – how do I spend more time with my wife and not be on the road as many days a year? Two would be to be able to focus on Reese Fishing and the next chapter of business in my life. Three, I’m like the old man on the tour. I felt like I had run the peak of my career.
+            - paragraph [ref=e300]: “I can still win. Obviously, I proved that last year, that I can still win. But the sport is different now; the fishing is different now than it was for the last 25 years of my career. I’m fortunate that the industry has been good to me and we have the ability to make these kind of decisions.”
+            - paragraph [ref=e301]: A lifelong California resident, Reese got his start competing on the West Coast. His career went national in 1998, when he competed in both his first Redman All-American and Bassmaster Classic.
+            - paragraph [ref=e302]: In the years since, Reese has put together one of the most decorated résumés in the sport. He’s won 10 national tour events, including the 2009 Bassmaster Classic on the Red River. He claimed the 2007 Angler of the Year title on the Bassmaster Elite Series, which he said is still his proudest on-the-water accomplishment. He’s amassed more than $4 million in earnings.
+            - paragraph [ref=e303]:
+              - text: Reese was one of the founding members of the Bass Pro Tour in 2019. Last June, he proved that he could still win at the highest level by claiming his first BPT trophy on the
+              - link "James River" [ref=e304] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/events/2024-bass-pro-tour-stage-six-james-river/
+              - text: . That was the highlight of a year that saw him finish 26th in the Fishing Clash Angler of the Year standings, thus qualifying for REDCREST for the second time, and receive induction into the Hall of Fame.
+            - paragraph [ref=e305]: “Winning the Bass Pro Tour event last year was kind of like the icing on the cake for me to be able to be like, ‘alright, I did it,'” Reese said. “I know how hard it is to win a tournament at any level. We have a lot of guys on tour that have never won one. So, that was kind of like just a relief, I think. That felt good to be able to hoist a Bass Pro Tour trophy, and I feel content now.”
+            - figure "Reese won his long-awaited first Bass Pro Tour trophy at the James River last June. Photo by Phoenix Moore" [ref=e306]:
+              - generic [ref=e307]: Reese won his long-awaited first Bass Pro Tour trophy at the James River last June. Photo by Phoenix Moore
+            - paragraph [ref=e308]: Perhaps even more than his tournament success, Reese gained a fan following by always showing off his dynamic personality. His vibrant black-and-yellow color scheme became his calling card, and he always looked for opportunities to show off a dance move in the boat or on stage.
+            - paragraph [ref=e309]: Even in his retirement, that personality will still be in the spotlight. Reese plans to attend industry events and outdoor shows and remain active on social media. He has hopes to continue to grow Reese Fishing. But after nearly three decades of commuting from California to compete in 10-plus tournaments each year, he’s excited to have more control over his schedule.
+            - paragraph [ref=e310]: “(My wife) Kim and I were talking about this last night, and she said, ‘I kind of feel like you’re going to be busier now than you have been,” Reese said with a chuckle. “But I think now it’s a matter of we get to choose our schedule. I want to make sure that part of that time is set aside for us to do whatever (we want), but to not worry about travel logistics and finding houses and all the map studying. Being a professional angler, there’s a lot that goes into it. So, it’s going to be different.”
+            - paragraph [ref=e311]:
+              - text: Reese will compete in the final four events of the 2025 season, the next stop being
+              - link "O’Reilly Auto Parts Stage Four Presented by OPTIMA Batteries" [ref=e312] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/events/2025-05-01-stage-four-chickamauga-and-nickajack/
+              - text: ", which kicks off May 1 on Lake Chickamauga. He might have the chance to return for one last event in 2026, too, as he’s currently fourth in the standings to qualify for B&W Trailer Hitches Heavy Hitters."
+            - paragraph [ref=e313]: Expect Reese to do everything he can to try and add one more major win before he hangs up his black-and-yellow jersey. His competitive juices continue to flow. However, he recognizes that the time has come to direct more of his energy to his pursuits off the water.
+            - paragraph [ref=e314]: “I would have loved to have a REDCREST title and an AOY on the Bass Pro Tour, but I also know that I’m at the point that winning either one of those isn’t going to change what I’ve done in the sport,” Reese said. “It would be just for my own personal reasons. It’s not going to advance the needle in my popularity or my brand. I’ve already done that. I’ve spent the last 40 years fishing tournaments and meeting people and enjoying the process along the way.”
+        - generic [ref=e316]:
+          - heading "Sprinting to the scales and other tales from a bass tournament in China" [level=1] [ref=e317]
+          - heading [level=5]
+          - generic [ref=e318]:
+            - img "Image for Sprinting to the scales and other tales from a bass tournament in China" [ref=e319]
+            - generic [ref=e320]: Bass Pro Tour anglers Matt Becker, Brent Chapman and James Elam competed in an international tournament hosted by MLF China. Photo courtesy of MLF China
+            - generic [ref=e321]:
+              - text: November 13, 2024 • Mitchell Forde •
+              - link "Bass Pro Tour" [ref=e322] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/bass-pro-tour/
+            - paragraph [ref=e323]:
+              - text: When he flew halfway across the world
+              - link "to compete in a tournament" [ref=e324] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/bass-pro-tour/bass-fishing-on-the-other-side-of-the-world/
+              - text: in Zanhuang, China, last month,
+              - link "Brent Chapman" [ref=e325] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/brent-chapman/
+              - text: didn’t really know what to expect. One of his first clues that the competition on Tiantai Lake would be different than anything else he’d experienced across his 30-year pro career came while reading the rules.
+            - paragraph [ref=e326]:
+              - text: Chapman and fellow KastKing pro
+              - link "James Elam" [ref=e327] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/james-elam/
+              - text: ", who competed together as a team in the first-of-its-kind international event hosted by MLF China, noticed a clause in the rulebook that urged all competitors to be in good physical condition and to consult a doctor for an exam before competing."
+            - paragraph [ref=e328]: That’s odd, Chapman thought. But once the competition got underway, it didn’t take long for the guideline to make sense.
+            - paragraph [ref=e329]:
+              - text: Somewhat like the
+              - link "Bass Pro Tour" [ref=e330] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/circuits/bass-pro-tour/
+              - text: ", this tournament featured every-fish-counts scoring. The difference, however, was instead of having an official in each boat to weigh bass right away, anglers drove back to the launch ramp every time they put 10 keepers in the livewell. They’d weigh the haul and return to the water as fast as they could, then do it all over again. Chapman and Elam caught 72 bass on the first day, running up the steep boat dock eight times to weigh in their catch."
+            - paragraph [ref=e331]: “It’s like, oh wow, this is quite a workout, lugging a Rubbermaid container of fish up this hill,” Chapman said with a laugh. “If you move slow, the clock’s ticking. You better run up there, because you’re costing yourself casting time. You do that seven times throughout the day, and it’s like, man, this is a workout.”
+            - paragraph [ref=e332]:
+              - text: The unorthodox weigh-in procedure was one of several memorable experiences that Chapman, Elam and fellow BPT pro
+              - link "Matt Becker" [ref=e333] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/matt-becker/
+              - text: enjoyed during their trip to China. Now all back in the U.S., the three anglers shared a few highlights from the trip.
+            - heading "Breaking down a foreign fishery" [level=3] [ref=e334]
+            - figure "Matt Becker competed alongside former MLF angler Thomas Wang. Photo courtesy of MLF China" [ref=e335]:
+              - generic [ref=e336]: Matt Becker competed alongside former MLF angler Thomas Wang. Photo courtesy of MLF China
+            - paragraph [ref=e337]:
+              - text: The three anglers traveled to China with just a suitcase or two of tackle apiece — no rods, no boats and no information about the competition venue. They found Tiantai Lake to be a small, manmade reservoir — Elam didn’t know the exact size, but said it appeared smaller than anywhere he’s visited in
+              - link "General Tire Team Series" [ref=e338] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/circuits/team-series/
+              - text: or MLF Cup event competition — with plenty of standing timber, rock and manmade cover.
+            - paragraph [ref=e339]: While Becker said it reminded him of some Texas fisheries, one significant difference was the forage.
+            - paragraph [ref=e340]: “They had kind of a smaller shad in the lake, but there was a lot of shrimp,” Becker said. “A lot of bass were eating shrimp in there.”
+            - paragraph [ref=e341]: The anglers thought they would have a day of practice (or “test fishing,” as the Chinese called it) prior to the start of competition. But it turned out test fishing entailed only a brief opportunity to ride around the lake and make a few casts at the launch site.
+            - paragraph [ref=e342]: “We got down and got to see what was going to be our boat and just kind of get a feel for what the boat was going to be like, and we got to make a few casts off the dock,” Chapman said. “But just a few casts off the dock catching 1-pounders to 3-pounders, it was like, wow, if the rest of the lake is anything like what it is inside this marina, it’s going to be awesome. And it was.”
+            - figure "James Elam shows off two of the 72 keeper bass he and Brent Chapman caught during their first day on China’s Tiantai Lake. Photo courtesy of MLF China" [ref=e343]:
+              - generic [ref=e344]: James Elam shows off two of the 72 keeper bass he and Brent Chapman caught during their first day on China’s Tiantai Lake. Photo courtesy of MLF China
+            - paragraph [ref=e345]: While a few of the Chinese anglers sported bass boats that Chapman said were as tricked-out as anything an American pro might use on tour, most of the field fished from aluminum vessels. Chapman and Elam were given a 17- or 18-foot aluminum boat with an outboard that wasn’t powerful enough to get it on plane, a 12V trolling motor and no electronics.
+            - paragraph [ref=e346]: That didn’t prevent the duo from catching bass in a hurry, though. On the first morning of competition (after an opening ceremony that consisted of some colorful pyrotechnics), Chapman said he caught a 3-pounder on his fifth cast. It took him and Elam about 35 minutes to put their first 10-fish limit in the boat.
+            - paragraph [ref=e347]: “Everywhere we went, we were catching fish,” Chapman said. “It seemed like every hour we were catching 10. So, it was a lot of fun.”
+            - paragraph [ref=e348]:
+              - text: Becker teamed up with
+              - link "Thomas Wang" [ref=e349] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/thomas-wang-310578/
+              - text: ", a former MLF angler who moved to China around 2010 and who Becker said introduced tournament bass fishing to the Chinese people. Despite neither having been to the lake prior to the week of competition, they had similar success, catching 50 scorable bass on Day 1."
+            - paragraph [ref=e350]:
+              - text: Every time they returned to the dock with a 10-fish limit, Becker saw other anglers hustling up and down the ramp to the scales. So, he figured he better run, too. (See for yourself on
+              - link "Becker’s YouTube channel" [ref=e351] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UCK1BlXWqSfTiiFlpBY18gPg
+              - text: ", where he’s posted videos from test fishing and both days of competition.)"
+            - paragraph [ref=e352]: “I wasn’t really sure how serious everyone was going to be,” he said. “But the first 10 that we brought in, I look up and there’s guys literally sprinting back and forth on the dock with buckets of fish, running up to the scale. So, it was mayhem, for sure, but it was fun.”
+            - heading "‘A bass is a bass’" [level=3] [ref=e353]
+            - figure "Every time they weighed in, anglers had to hustle up the ramp to the scales. Photo courtesy of MLF China" [ref=e354]:
+              - generic [ref=e355]: Every time they weighed in, anglers had to hustle up the ramp to the scales. Photo courtesy of MLF China
+            - paragraph [ref=e356]: "All three of Chapman, Elam and Becker relied primarily on standard American power-fishing tactics: winding ChatterBaits and spinnerbaits, pitching jigs and creature baits. In Becker’s words: “A bass is a bass on either side of the world.”"
+            - paragraph [ref=e357]: While effective, those techniques stood in stark contrast to most of the local anglers’ presentations.
+            - paragraph [ref=e358]: Becker said he saw a few Chinese anglers throwing traditional hard baits like bladed jigs and crankbaits, but it was clear that the Japanese bass fishing scene has had a major influence on Chinese anglers. Even though the bass didn’t seem to be shy about biting big baits on heavy line, most of the top local performers opted for small finesse presentations. With the minimum length of a keeper bass being just 20 centimeters (7.87 inches), their goal was to get as many bites as possible.
+            - paragraph [ref=e359]: “A lot of guys were throwing tiny little baits — little craws or little Ned rig type baits — just to catch as many fish as they could,” Becker said.
+            - figure "KastKing pros Brent Chapman and James Elam finished eighth in the 45-boat field. Photo courtesy of MLF China" [ref=e360]:
+              - generic [ref=e361]: KastKing pros Brent Chapman and James Elam finished eighth in the 45-boat field. Photo courtesy of MLF China
+            - paragraph [ref=e362]: In another similarity to the Japanese lure scene, the Chinese offerings were quite a bit more detailed than most American baits.
+            - paragraph [ref=e363]: “The guy who won was a fellow KastKing pro, but he was a Chinese KastKing pro, and he won the tournament throwing a finessey-type spinnerbait,” Chapman said. “But he’s throwing it on like 8-pound braid with a fluorocarbon leader, and he’s throwing some little, tiny Texas-rigged craw that was probably an inch and a half long.
+            - paragraph [ref=e364]:
+              - text: “The second day, I’m throwing a 1/2-ounce
+              - link "War Eagle spinnerbait" [ref=e365] [cursor=pointer]:
+                - /url: https://www.basspro.com/shop/en/war-eagle-tandem-willow-spinnerbaits
+              - text: . The War Eagle spinnerbaits, they don’t have eyes on their heads. This guy didn’t understand how I was catching bass on a spinnerbait that didn’t have eyes.”
+            - paragraph [ref=e366]: Like just about everyone else, Chapman and Elam found the bite slower the second day, which Elam attributed to fishing pressure put on the small body of water by the 45-boat field. Still, they brought another 30 to 40 bass to the scales.
+            - paragraph [ref=e367]: “You could definitely notice that pressure took a toll, because all the fish had gotten caught and moved,” Elam said. “So, that really did make a big difference. And they were holding the fish (in tanks) also during the tournament. So, naturally, there’s just less to be caught.”
+            - paragraph [ref=e368]: The event concluded with an awards ceremony that could rival just about any American tour-level event. Each international duo received an commemorative trophy, while Chapman and Elam also earned an award for finishing eighth overall.
+            - heading "Food, traffic and other new experiences" [level=3] [ref=e369]
+            - figure "The anglers reported a strong turnout from Chinese fans, many of whom had never witnessed a bass tournament or seen a foreigner. Photo courtesy of MLF China" [ref=e370]:
+              - generic [ref=e371]: The anglers reported a strong turnout from Chinese fans, many of whom had never witnessed a bass tournament or seen a foreigner. Photo courtesy of MLF China
+            - paragraph [ref=e372]: While the competition brought Becker, Chapman and Elam to China, it was far from the only memorable aspect of their trip. Their sightseeing itinerary included a day in Beijing and stops at Tiananmen Square and The Forbidden City. All three anglers raved about the opportunity to experience a new culture and how welcoming the Chinese people were.
+            - paragraph [ref=e373]: That was especially true in Zanhuang, a small, remote town that Becker said had never received foreign visitors before. Several locals asked his girlfriend, Brittany, to pose for photos because they’d never seen a woman with blonde hair in person.
+            - paragraph [ref=e374]: “They had never seen Americans before, ever,” Becker said. “We were the first foreigners to ever go to this little town. So that was kind of cool to see that and be a part of that.”
+            - paragraph [ref=e375]: Trying new food represented another highlight. All three anglers noted that the cuisine in China is drastically different from the “Chinese food” found in the U.S.
+            - figure [ref=e376]:
+              - iframe [ref=e378]:
+                
+            - paragraph [ref=e379]: Becker said that, while there were quite a few items that might make most Americans squeamish (the Chinese cook every part of an animal and thus made dishes out of chicken feet or tendons), he found just about everything he tried to be tasty. Both he and Elam pointed to the duck as one of their favorites.
+            - paragraph [ref=e380]: “I gotta say, American Chinese food is nothing like Chinese food,” Becker said with a chuckle. “It’s a little different, but much better. We ate a lot of strange things, that’s for sure. But it was all good. Everything we ate was good and fresh. You could tell that they took pride in their food.”
+            - paragraph [ref=e381]: "Another shared observation: Motorists in China drove quite a bit faster and more aggressively than in America. That translated to the water, too, even though most of the boats weren’t equipped with high-power outboards. Yet Elam noted that he never saw a wreck."
+            - paragraph [ref=e382]: “They drive a lot more aggressively, like close to the dock and things like that,” he said. “That’s how they drive on the road, and I just saw that mirrored in the way that they drive their boat. And they don’t ever really get into any accidents or anything like that. You don’t ever see a car wreck over there.”
+            - paragraph [ref=e383]: All in all, each of the anglers enjoyed the experience. Chapman hopes the event achieves its intent of growing the sport of bass fishing in China, because he wants to make the competition an annual trip.
+            - paragraph [ref=e384]: “I said, ‘hey, sign me up.’” he said. “I’ll gladly come back to the next one.”
+        - generic [ref=e386]:
+          - 'heading "KEVIN VANDAM: Just breathe" [level=1] [ref=e387]'
+          - heading [level=5]
+          - generic [ref=e388]:
+            - 'img "Image for KEVIN VANDAM: Just breathe" [ref=e389]'
+            - generic [ref=e390]:
+              - text: "Kevin VanDam is well and truly retired this offseason, with no major tournaments on the horizon in 2025. Photo by Dynamic Sponsorships. Angler:"
+              - link "Kevin VanDam" [ref=e391] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/kevin-vandam/
+              - text: .
+            - generic [ref=e392]:
+              - text: October 17, 2024 • Dynamic Sponsorships •
+              - link "Angler News" [ref=e393] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/angler-news/
+            - paragraph [ref=e394]: "Anyone who archery hunts will be familiar with the following term:"
+            - paragraph [ref=e395]: “Just breathe.”
+            - paragraph [ref=e396]: This is taught to us all at an early age as we hone our skills as an archer. When looking through the sights of your bow-and-arrow setup, it’s important to take some deep breaths before releasing the string. We are all stewards of the outdoors, and we take great pride in making the land better for all living creatures. That comes with a lot of blood, sweat and tears through the years, but it’s a responsibility we’re all more than willing to bear.
+            - paragraph [ref=e397]: Mother Nature has blessed us. We feel it’s necessary and appropriate to return the favor.
+            - paragraph [ref=e398]: This simple breathing exercise allows us to slow our heartbeat, collect our nerves, steady our hands and make the most ethical shot of which we’re capable. We simply owe it to the animal.
+            - paragraph [ref=e399]:
+              - text: So, when Team Toyota pro
+              - link "Kevin VanDam" [ref=e400] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/kevin-vandam/
+              - text: ", who has amassed more than $7.3 million in professional bass-fishing tournament winnings throughout his career, talks about his recent “retirement” from professional-level bass fishing, he likens it to his passion for archery hunting."
+            - paragraph [ref=e401]: “I felt like it was just time to step back and breathe a little bit,” VanDam said. “My wife and two boys have sacrificed so much throughout the past 33 years; I owe it to them to slow down and just take a few deep breaths. Being a professional touring angler, you don’t really have any flexibility in your schedule. If there’s a tournament, you have to be there. Anniversaries, illness, family obligations … it doesn’t really matter. You have to make a living, and I totally understand it. That’s the game I signed up to play. But I was at a point in my career when it was simply time to slow down and breathe.”
+            - figure "Sherry VanDam has been an essential behind-the-scenes part of KVD’s legend. Photo by Garrick Dixon" [ref=e402]:
+              - generic [ref=e403]: Sherry VanDam has been an essential behind-the-scenes part of KVD’s legend. Photo by Garrick Dixon
+            - paragraph [ref=e404]: The support of Sherry, VanDam’s wife, has been essential to his legendary career. She has done so much for him throughout his career, he wants an opportunity to return her many favors.
+            - paragraph [ref=e405]: “My wife and I still haven’t been on a trip to celebrate our 30th anniversary, and that has been several years ago now,” VanDam said. “She has never been the type of person to want the limelight, but in the background, she has been absolutely essential to everything in my career and life in general. From business to sponsor communication to raising two outstanding young men, it has been a total team effort.”
+            - paragraph [ref=e406]: Although some folks might consider his recent career move a retirement announcement, VanDam doesn’t see it that way whatsoever. While he might be done competing in national-level tours, he’s as busy — if not busier — than he’s ever been. The key difference, however, is the manageability of his new schedule. He still has a lot of media work and sponsor events to attend along with filming his new TV show, “The VanDam Experience,” which is sure to be a hit. But these days, he finally has the ability to flex his schedule to enjoy more time with his cherished family.
+            - paragraph [ref=e407]: If anyone in the outdoor industry has earned that right, it would be VanDam.
+            - paragraph [ref=e408]: As he heads to the Michigan deer woods this fall, he’ll do so with an unfamiliar ease that doesn’t include (quite as much) constant phone ringing and things of the sort. He’ll quietly crunch through the frost-covered leaves and grass in the darkness, climb up that old hardwood tree filled with memories of past hunts, and finally, for once in his adult life…
+            - paragraph [ref=e409]: He will sit.
+            - paragraph [ref=e410]: And just breathe.
+            - paragraph [ref=e411]: Whether the rutting whitetails bound his way or he simply spends the early morning hours observing the antics of nearby racoons, squirrels, turkeys, hawks or eagles, watching the world wake up is something that will never lose its luster to the bass fishing icon. To us, an outdoor legend is sitting in that treestand, but during that brief period, all creatures are equal and on a level playing field.
+            - paragraph [ref=e412]: “I’ve been blessed to watch the world wake up most days of my adult life, and there is simply nothing like it,” VanDam said. “The tranquility of each morning just brings a calmness over me I cannot accurately describe. Knowing that my family and I have put the hard work into making this land rich in gooseberry, elderberry, clover and fruit- and nut-producing trees unveils a pride I simply cannot match. The outdoors are absolutely everything to us, and we wouldn’t have it any other way.”
+            - paragraph [ref=e413]: The legend we watched on television all those years is, in fact, human. And as he enjoys the fruits of his labor and professionalism, we can all rest easy knowing we have a true outdoorsman and steward of the sport watching over and protecting our woods and waters.
+            - paragraph [ref=e414]: Finally… He’s just Kevin.
+            - paragraph [ref=e415]: And finally, he’s just breathing.
+        - generic [ref=e417]:
+          - heading "Alfred Williams casts historic line as first African-American inducted into Bass Fishing Hall of Fame" [level=1] [ref=e418]
+          - heading [level=5]
+          - generic [ref=e419]:
+            - img "Image for Alfred Williams casts historic line as first African-American inducted into Bass Fishing Hall of Fame" [ref=e420]
+            - generic [ref=e421]:
+              - text: "Mississippi angler Alfred Williams’ childhood passion for fishing led to a lifelong tournament career and a role as an admired leader in the bass-fishing community. Photo by Kory Savage. Angler:"
+              - link "Alfred Williams" [ref=e422] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/alfred-williams-103457/
+              - text: .
+            - generic [ref=e423]:
+              - text: May 9, 2024 • Charity Muehlenweg •
+              - link "Angler News" [ref=e424] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/angler-news/
+            - paragraph [ref=e425]: It’s early summer of 1953, and Saturday mornings can’t come fast enough for Alfred Williams. Every Saturday morning, 6-year-old Williams wakes up early and mills around the house, hoping for an invite on a fishing adventure with Grandma. He’s in charge of carrying her bucket and keeping the snakes away during their outing, a big job for such a little guy.
+            - paragraph [ref=e426]: “Grandma smoked a pipe, and she’d get that pipe lit and settled in the corner of her mouth and sit so quiet…and so content…and I’d just watch her,” Williams said. “I wasn’t fishing much back in those days; I was just watching. Waiting. Learning.”
+            - separator [ref=e427]
+            - heading "Those tranquil moments would prove pivotal for Williams as he learned to navigate an uncertain world with quiet grace and got his first glimpse into a sport he would grow to love for the next 70 years." [level=2] [ref=e429]:
+              - strong [ref=e430]:
+                - emphasis [ref=e431]: Those tranquil moments would prove pivotal for Williams as he learned to navigate an uncertain world with quiet grace and got his first glimpse into a sport he would grow to love for the next 70 years.
+            - separator [ref=e432]
+            - paragraph [ref=e433]:
+              - link "Alfred Williams" [ref=e434] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/alfred-williams-103457/
+              - text: was born on April 9, 1947, in Jackson, Mississippi, where he spent his youth with a cane pole in hand, casting along the banks of the Pearl River with friends and family.
+            - paragraph [ref=e435]: “Fishing was a way to bring people together in a time of racial tension,” Williams said. “There were groups of every race fishing down on the river. We always had a good time, but we weren’t fishing for sport – we were fishing to put food on the table.”
+            - paragraph [ref=e436]: But the hook had been set. By the age of 10, Williams was fishing anywhere and everywhere he could with anyone who would take him. By 14, Williams could often be seen on the banks of the Pearl River, alone or with friends.
+            - figure "Williams discusses his catch with celebrity guest Roland Martin in 1987 after leading day one of the Rogers-Dingus Barnett Open bass tournament." [ref=e437]:
+              - button "Enlarge" [ref=e438] [cursor=pointer]:
+                - img [ref=e439]
+              - generic [ref=e441]: Williams discusses his catch with celebrity guest Roland Martin in 1987 after leading day one of the Rogers-Dingus Barnett Open bass tournament.
+            - paragraph [ref=e442]:
+              - text: Young Williams had no idea that he was embarking on a journey that would see him become the first African American to qualify for the Bassmaster Classic in 1983, and a lifetime later in 2024, the first African American to be inducted into the
+              - link "Bass Fishing Hall of Fame" [ref=e443] [cursor=pointer]:
+                - /url: https://www.bassfishinghof.com/inductee/alfred-williams
+              - text: .
+            - paragraph [ref=e444]: In March of 1970, Williams returned from a tour of duty in Vietnam at the age of 23. After three long years in the military without touching a rod, he immediately hopped on a boat to go crappie fishing with a friend and felt the excitement course through his veins as his love for the sport came rushing back.
+            - paragraph [ref=e445]: That was it for Williams. He bought a little boat with a 50-horsepower outboard and spent the next three years bass fishing every chance he could get. In 1973, he strolled into a Woolco department store and bought a Raycraft bass boat for $529.
+            - paragraph [ref=e446]: “I couldn’t get that boat on the water fast enough,” Williams said. “I brought it back home, took the motor off the little runabout boat I had and put it on the bass boat. We picked the boat up from Woolco at 9 a.m. and were out on the Ross Barnett Reservoir by 2 p.m. that afternoon.”
+            - separator [ref=e447]
+            - heading "Williams fished his first local bass tournament in 1975 in Jackson, Mississippi, in the beginning of the post-Civil Rights Movement era." [level=2] [ref=e449]:
+              - strong [ref=e450]:
+                - emphasis [ref=e451]: Williams fished his first local bass tournament in 1975 in Jackson, Mississippi, in the beginning of the post-Civil Rights Movement era.
+            - separator [ref=e452]
+            - paragraph [ref=e453]: Although racial desegregation had been mandated by federal law and court rulings in the 1950s and 60s, the process of integration was extremely slow and, in many cases, painful. Barriers between races continued to exist across the South, especially in Jackson.
+            - paragraph [ref=e454]: “I went into a store and saw an application for the Have a Heart Bass Classic, and I really wanted to fish that tournament,” Williams explained. “So, I looked over the application and thought about it for a while, then called the number to talk to the tournament director.
+            - figure "Williams shows off his trophy after winning $20,000 cash and a new Ranger 519VS Comanche bass boat in 2003 as the winner of the FLW EverStart Series Central Division season opener on Sam Rayburn Reservoir. Photo by Jeff Schroeder" [ref=e455]:
+              - generic [ref=e456]:
+                - strong [ref=e457]
+                - text: Williams shows off his trophy after winning $20,000 cash and a new Ranger 519VS Comanche bass boat in 2003 as the winner of the FLW EverStart Series Central Division season opener on Sam Rayburn Reservoir. Photo by Jeff Schroeder
+            - paragraph [ref=e458]: “I said, ‘Listen, I’m calling about this tournament and I really want to fish this event,’ and he said they’d be happy to have me. I said, ‘Well, look, I’m Black – do you guys have any problems with me fishing this event?’
+            - paragraph [ref=e459]: While African American citizens and athletes had begun breaking down racial barriers by 1975, African American athletes had been largely excluded from full participation in most professional sports, relegating them to compete in segregated leagues, which offered lower pay and less visibility than the pro leagues.
+            - paragraph [ref=e460]: “I won’t ever forget his response,” Williams said. “He said, ‘You are absolutely welcome. This tournament is for the Heart Association and it’s for everybody. If you want to fish it, send your application in, and if anybody says anything to you about fishing it, you call me. We want you to fish.’
+            - paragraph [ref=e461]: “If he’d wavered or said it might be a problem, I wasn’t going to worry about it, I just wasn’t going to fish it. But he assured me that we were more than welcome.”
+            - paragraph [ref=e462]: Williams filled out his application and mailed it in along with his entry fee.
+            - paragraph [ref=e463]: Although Williams speaks about the racial inequality of those times with grace, his first brush with the world of tournament bass fishing was around the same timeframe that Hank Aaron broke Babe Ruth’s home run record (1974) and received hundreds of thousands of hate mail letters and death threats for beating a white man’s mark. It was also around the same time as the assassinations of Martin Luther King Jr. in 1968 and his mother, Alberta King, in 1974.
+            - paragraph [ref=e464]: “We were a little nervous about it all,” Williams admitted. “My wife, Gracie, and I were raised in the South and just knew how things were back then. But just hearing the tournament director say how glad they would be for us to come eased our nerves a bit.”
+            - paragraph [ref=e465]: Williams excitedly rigged his tackle and got geared up for his first tournament, then he and Gracie dressed to the nines and headed to the pre-tournament banquet.
+            - paragraph [ref=e466]: “Back then, there was a banquet the night before every tournament, and those banquets were huge social gatherings,” Williams said. “We walked into our first banquet at this fancy, exclusive restaurant – there must have been 400 to 500 people in there – and when we walked through the door, you could have heard a pin drop. Everyone stopped what they were doing and just stared at us. We looked around and saw an empty table and found a seat.”
+            - separator [ref=e467]
+            - heading "What happened next was a pivotal moment for Williams and his wife, Gracie, and is still a pivotal moment in the history of bass fishing." [level=2] [ref=e469]:
+              - strong [ref=e470]:
+                - emphasis [ref=e471]: What happened next was a pivotal moment for Williams and his wife, Gracie, and is still a pivotal moment in the history of bass fishing.
+            - separator [ref=e472]
+            - paragraph [ref=e473]: “We had barely gotten seated when a well-dressed white gentleman walked up to our table,” Williams said. “We watched him approach with a little apprehension, and he said, ‘You don’t know me, but I see you catching fish behind my house out on the [Ross Barnett] reservoir all the time. My wife and I would be honored if y’all would come over and sit at our table and have dinner with us.’ And of course we did, and that broke the ice.
+            - paragraph [ref=e474]: “He was the general manager for a well-known car dealer and was on television commercials and well respected. Everyone in the room went back to talking and socializing, and from that day on, he and I were really, really good friends up until he passed away.”
+            - paragraph [ref=e475]: Williams drew avid hunter, fisherman and NFL running back Perry Lee Dunn in that first event, finishing 33rd, only a few places from making a check.
+            - paragraph [ref=e476]: “That was my first tournament, and my first response from the bass-fishing community, and I was absolutely hooked,” Williams said. “I’d proven myself and shown that I knew what I was doing, and I couldn’t wait to get back out there for the next tournament a couple weeks later.”
+            - figure "Williams was featured in a 1983 edition of Bassmaster magazine, along with B.A.S.S. president Ray Scott and Arthur Bronson, founder of the International Federation of Black Bass Anglers (IFBBA)." [ref=e477]:
+              - button "Enlarge" [ref=e478] [cursor=pointer]:
+                - img [ref=e479]
+              - generic [ref=e481]: Williams was featured in a 1983 edition of Bassmaster magazine, along with B.A.S.S. president Ray Scott and Arthur Bronson, founder of the International Federation of Black Bass Anglers (IFBBA).
+            - paragraph [ref=e482]: While racial inequality was still prevalent in the ’70s and ’80s, Williams said he and Gracie found not only acceptance but respect, friendship and camaraderie in the bass-fishing community from day one, and the couple has never dealt with any open racial discrimination over the nearly 50 years he’s been in the sport.
+            - separator [ref=e483]
+            - heading "“It was just a feeling of relief, honestly, being free to do what I loved,” Williams said. “After that, I just felt accepted.”" [level=2] [ref=e485]:
+              - strong [ref=e486]:
+                - emphasis [ref=e487]: “It was just a feeling of relief, honestly, being free to do what I loved,” Williams said. “After that, I just felt accepted.”
+            - separator [ref=e488]
+            - paragraph [ref=e489]:
+              - text: Williams began fishing tournaments with B.A.S.S. and Operation Bass – which later became FLW, then
+              - link "Major League Fishing" [ref=e490] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/
+              - text: (MLF) – in 1983 and has fished a total of 98 tournaments with B.A.S.S. and 178 tournaments with MLF over the past 41 years, winning four events and earning numerous Top 10s. Williams fished professionally with B.A.S.S. from 1987-2003 and professionally with FLW from 1997-1998 and 2004-2008. To this day, he enjoys fishing the occasional Phoenix Bass Fishing League (BFL) tournament in the Mississippi Division.
+            - paragraph [ref=e491]: None of the bass clubs in Mississippi in the 70s and 80s had African American members, so Williams and his fellow Black anglers fished in their own club.
+            - paragraph [ref=e492]: “Back then, all the bass clubs were full, and there were only three or four tournaments each spring; they didn’t have one every weekend like we do now,” Williams said. “We had a few white guys start joining our club in the late 70s, early 80s. We won a state tournament in 1983, which qualified me for the state team. We then fished a divisional tournament and won, and as the top team member, I qualified for the 1983 Bassmaster Classic.”
+            - figure "Williams showcases plaques from the 1983 Bassmaster Classic and his fifth-place finish at the 1988 Tennessee Invitational." [ref=e493]:
+              - generic [ref=e494]: Williams showcases plaques from the 1983 Bassmaster Classic and his fifth-place finish at the 1988 Tennessee Invitational.
+            - paragraph [ref=e495]: Williams was the first African American angler to qualify for the Classic, which was being held on the Ohio River that year, a fishery Williams had never visited. In fact, the Mississippi native had only fished on Ross Barnett Reservoir up to that point.
+            - paragraph [ref=e496]: “My boat was parked with Hank Parker on one side and Rick Clunn on the other side,” Williams said. “I just couldn’t believe it at the time – I still can’t believe it today.”
+            - paragraph [ref=e497]: Williams said the whole experience was something he would never forget – from being chauffeured around town, dining out at every meal with the whole Classic entourage, and being catered to throughout the entire event. Williams finished 10th out of 42 competitors, ranking ahead of Parker, Clunn, Denny Brauer and Roland Martin – no small feat for his first major tournament, especially on a new body of water.
+            - paragraph [ref=e498]: “Things really started happening for me after that time,” Williams said. “Beating so many of the guys that I’d read about in Bassmaster Magazine, I felt such a sense of accomplishment. It was amazing and really gave me the confidence and determination to continue pursuing my dream.”
+            - paragraph [ref=e499]:
+              - text: Williams received numerous congratulations after the Classic, including encouraging words from
+              - link "Paul Elias" [ref=e500] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/paul-elias/
+              - text: ", who advised him to talk to Forrest L. Wood – founder of Ranger Boats – about competing professionally."
+            - paragraph [ref=e501]: “I spoke with Forrest, thanking him for letting me use the boat during the Classic, and giving me the opportunity to fish,” Williams said. “I told him I really wanted to get into tournament fishing more and asked if there was anything he could do to help me get started. He told me to write him a letter when I got back home.”
+            - paragraph [ref=e502]: Williams wrote the letter, and Wood and Ranger endorsed him and provided his tournament boat for the next 28 years.
+            - paragraph [ref=e503]: “I can’t thank Forrest enough for that opportunity and for supplying me with a state-of-the-art boat all those years to follow my passion,” Williams said. “The first tournament I ever won was the Dr. Pepper Open back in 1978. I took home a check for $2,500, which was a huge payday in the late 70s, but knowing my boat was taken care of each year was a huge blessing.”
+            - separator [ref=e504]
+            - heading "Fast forward to 2024, and the bass-fishing community is celebrating yet another milestone with Williams and his family – as the first African American to be inducted into the Bass Fishing Hall of Fame." [level=2] [ref=e506]:
+              - strong [ref=e507]:
+                - emphasis [ref=e508]: Fast forward to 2024, and the bass-fishing community is celebrating yet another milestone with Williams and his family – as the first African American to be inducted into the Bass Fishing Hall of Fame.
+            - separator [ref=e509]
+            - paragraph [ref=e510]:
+              - link "Mark Daniels Jr." [ref=e511] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/mark-daniels-jr/
+              - text: ", an African American pro who fishes the Major League Fishing (MLF)"
+              - link "Bass Pro Tour" [ref=e512] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/circuits/bass-pro-tour/
+              - text: ", met Williams through a mutual friend back in 2015, and the two became fast friends. However, Daniels said he’s been looking up to Alfred long before that first meeting."
+            - paragraph [ref=e513]: “I was ate up with fishing from a young age, and you just never saw anyone who was African American fishing professionally, so I was really inspired by Alfred,” Daniels said. “I belonged to a bass club, and we had some African American weekend warriors, but no pros.”
+            - paragraph [ref=e514]: Daniels expressed the importance for aspiring anglers to see professional anglers that they can identify with, but said that Williams’ influence on the sport runs much deeper than the color of his skin.
+            - paragraph [ref=e515]: “Every time the water temp gets above 55 degrees, we can’t wait to fish topwater and throw a frog – and every time I throw a frog, I think of Alfred,” Daniels said. “Regular, hollow-body frogs came out many years ago, with semi-hard plastic legs. Alfred had the inclination to cut off the plastic legs, then cut the skirt off a spinnerbait and push the spinnerbait skirt through the holes on the frog, so it now has spinner-bait style legs as opposed to hard legs.”
+            - paragraph [ref=e516]: While Williams didn’t create the frog, he has been attributed for helping put it on the map and helping create the modern-day frog experience.
+            - paragraph [ref=e517]: Williams is also credited with adding weight to his favorite Snag Proof models to make them ride lower in the water, dramatically improving his hooksets, as well as adding a rattle chamber to the belly to draw more strikes. Snag Proof incorporated some of Williams’ frog modifications in certain tournament models of its frogs.
+            - paragraph [ref=e518]: “You see those types of frogs everywhere now,” Daniels said. “From the highest-end baits made in Japan to all the American-made baits and everything in between, every hollow-body frog has skirted legs, and that is literally Alfred’s design. That blows my mind.
+            - paragraph [ref=e519]: “There’s always somebody that takes that first step and breaks the mold, and Alfred is that guy. He’s truly a pioneer in our sport. One can only imagine how apprehensive he was when he first started out, yet he overcame all of that and had a very successful career as a tournament angler. I’m very proud of him and his accomplishments and am happy to call him a friend.”
+            - paragraph [ref=e520]:
+              - text: Williams’ success over the years has attracted more African American anglers, and opened the door for Daniels,
+              - link "Ish Monroe" [ref=e521] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/ish-monroe/
+              - text: ","
+              - link "Brian Latimer" [ref=e522] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/brian-latimer-170167/
+              - text: and other African American anglers along the way. But his impact and his legacy have been far-reaching throughout the entire bass world.
+            - figure "In 1987, Williams was credited with saving the lives of two fishermen during the 1987 Rogers-Dingus Barnett Open tournament. The survivor, James E. Michael, wrote a letter to the postmaster, lauding Williams for his “concern for his fellow man.”" [ref=e523]:
+              - button "Enlarge" [ref=e524] [cursor=pointer]:
+                - img [ref=e525]
+              - generic [ref=e527]:
+                - text: In 1987, Williams was credited with saving the lives of two fishermen
+                - strong [ref=e528]
+                - text: during the 1987 Rogers-Dingus Barnett Open tournament. The survivor, James E. Michael, wrote a letter to the postmaster, lauding Williams for his “concern for his fellow man.”
+            - paragraph [ref=e529]:
+              - link "Dudley Salers" [ref=e530] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/dudley-salers-132181/
+              - text: is a lifelong friend of Williams who’s competed with him for over 50 years. Salers and Williams fished the former
+              - link "Red Man Trail" [ref=e531] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/press-releases/2000-05-01-red-man-trail-offers-competitive-fishing-for-everyone/
+              - text: together in the 70s – now known as the
+              - link "Phoenix Bass Fishing League" [ref=e532] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/circuits/bfl/
+              - text: – but never let their competitive nature come before their friendship.
+            - paragraph [ref=e533]: “I have a lot of respect for Alfred and am proud to call him my friend. He’s just a genuinely nice person and treats everyone with respect,” said the 83-year-old Salers. “He called to tell me he’d been nominated, and I was so happy for him. I told him it’s an honor just to be nominated, but when they selected him, I was thrilled. Alfred’s had a lot of success in his lifetime, and a lot of opportunities that could have changed him, but he’s never let it go to his head. He’s just always been the same old Alfred.”
+            - paragraph [ref=e534]:
+              - text: That sentiment is shared throughout the bass community.
+              - link "Bill Taylor" [ref=e535] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/press-releases/mlf-senior-director-of-operations-bill-taylor-announces-retirement/
+              - text: – former MLF Tournament Director and the longest-tenured tournament director in the company’s history – said he started watching Williams when he fished for Bassmaster in the ’70s, not realizing at the time that he was watching history in the making.
+            - paragraph [ref=e536]: “I watched him his first few years, then followed him on the Red Man Trail, but I didn’t meet him until the late ’80s when he was fishing the BFL’s,” Taylor said. “I took a liking to Alfred because he was a great angler and was very well respected. His wife, Gracie, traveled with him on tour and they were just a lovely couple. Everyone loved him.
+            - paragraph [ref=e537]: “Alfred inspired a lot of people throughout his lifetime and continues to inspire today. I grew up in the ’50s and ’60s and saw firsthand the racial tension throughout the country. Race was never brought up the entire time I worked with Alfred, but I admire him deeply for getting involved in professional fishing when he did, because it had to have been a challenge.”
+            - figure "The Mississippi native embraces his wife of 53 years, Gracie, and expresses his thanks for her “unwavering support” through the years." [ref=e538]:
+              - generic [ref=e539]:
+                - text: The Mississippi native embraces his wife of 53 years, Gracie, and expresses his thanks for her “unwavering support” through the years.
+                - strong [ref=e540]
+            - paragraph [ref=e541]: Williams said after everything he’s experienced in his lifetime, being inducted into the Bass Fishing Hall of Fame is just the icing on the cake.
+            - paragraph [ref=e542]: “I feel very, very honored,” he said. “I want to thank all the people who not only supported me but believed in me. I’m just overwhelmed, really, to be the first African American inducted into the Hall of Fame. There can only be one ‘first’ and it truly means a lot to me to be the first.”
+            - paragraph [ref=e543]:
+              - link "Kathy Fennel" [ref=e544] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/press-releases/major-league-fishings-kathy-fennel-named-2023-game-changer-by-sports-business-journal/
+              - text: ", MLF Executive Vice President and General Manager, had only been on the bass-fishing scene for one year when the Mississippi Division of the Red Man Trail was launched in 1983. Fennel was the assigned Tournament Administrator for that division and remembers Williams’ start on the Red Man Trail fondly."
+            - paragraph [ref=e545]: “Alfred was a fierce competitor, but was such a gentleman and always extremely professional,” Fennel said. “From the moment we met, I was impressed by his demeanor and the way he presented himself. He was – and still is – a pioneer in our industry and a great representative for his sponsors.”
+            - paragraph [ref=e546]: Fennel, who was inducted into the Bass Fishing Hall of Fame in 2022 and serves as a member of the Hall of Fame board, said she’s excited about Williams’ induction and feels it has been a long time coming.
+            - paragraph [ref=e547]: “It makes me very proud to see the Hall of Fame recognize Alfred for his accomplishments,” Fennel said. “Beyond his ability as a competitor and his longevity in the sport, he has a unique opportunity to influence a larger audience that hasn’t been as engaged in professional tournament fishing, and we’re honored to be a part of his story.”
+            - separator [ref=e548]
+            - heading "Williams doesn’t take that sentiment or the responsibility it requires lightly." [level=2] [ref=e550]:
+              - strong [ref=e551]:
+                - emphasis [ref=e552]: Williams doesn’t take that sentiment or the responsibility it requires lightly.
+            - separator [ref=e553]
+            - paragraph [ref=e554]: “I’m just so thankful that I was able to accomplish these feats and have individuals follow me and my journey over the years,” Williams said. “All the Black anglers who have fished with me over the past 40-something years, have thanked me for my influence and accomplishments. I feel fortunate to be the one that it happened to, all those years ago.”
+            - figure "A self-described “family man,” Williams is pictured boating with three of his grandchildren, Ethan, Akira and his second grandchild, Xavier, who now tags along with his grandpa on fishing adventures. Photo courtesy of Williams" [ref=e555]:
+              - generic [ref=e556]: A self-described “family man,” Williams is pictured boating with three of his grandchildren, Ethan, Akira and his second grandchild, Xavier, who now tags along with his grandpa on fishing adventures. Photo courtesy of Williams
+            - paragraph [ref=e557]: But success like Williams’ doesn’t just happen. It comes from a lot of hard work and not being afraid to step out and take chances, and it requires respect, grace, admiration and trust – all trademarks of Williams’ life story, a life story that’s far from over.
+            - paragraph [ref=e558]: “At 77, I still fish tournaments almost every weekend and I would still be out on tour, but I finally decided enough’s enough,” Williams said, laughing. “I’ve enjoyed every minute of it. When I started fishing tournaments, I wasn’t thinking about trying to qualify for the Classic or where I was going to be later in life, I was just focused on fishing the tournament in front of me.”
+            - paragraph [ref=e559]: Williams said that was the key to longevity in the sport, but even more than that, endurance – and success – in everyday life.
+            - paragraph [ref=e560]: “Always put yourself in a position to do well, in whatever you do in life,” Williams said. “If you believe in yourself, then you aren’t going to be dependent on anybody else to show you the way.”
+        - generic [ref=e562]:
+          - heading "Summertime is the right time for “Big Show” Scroggins’ crab leg creation" [level=1] [ref=e563]
+          - heading [level=5]
+          - generic [ref=e564]:
+            - img "Image for Summertime is the right time for “Big Show” Scroggins’ crab leg creation" [ref=e565]
+            - generic [ref=e566]:
+              - text: July 25, 2023 • Alan McGuckin •
+              - link "Angler News" [ref=e567] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/angler-news/
+            - paragraph [ref=e568]:
+              - text: Professional bass fishing is a game of tough-to-control uncertainties, but one thing’s for sure, if you show up to Team Toyota’s
+              - link "Terry “Big Show” Scroggins’" [ref=e569] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/terry-scroggins/
+              - text: house, you’re going to share great food and a ton of laughs.
+            - paragraph [ref=e570]: His latest kitchen creation is perfect for summer and was born out of a night at home with buddies Allen Anderson and Tom Willis, who worked as a chef in Denver, before returning recently to his native Florida.
+            - paragraph [ref=e571]: “Chef Willis asked me if those oranges on the trees in my yard were any good and if I had any crab legs,” Scroggins said. “Sure enough, I had some crab legs in my freezer, and those oranges in my yard are dang good, so all we needed was some white wine, which I had too. The next thing you know, he’s showing me this awesome way to make crab legs for a crew of hungry guests.”
+            - paragraph [ref=e572]: Scroggins and Chef Willis recommend using a deep fry pan, large enough to hold three or four clusters of crab legs, along with three oranges cut in half, and about an inch-deep bath of white wine. Squeeze all the juice from the orange halves into the wine, and then let the orange halves bathe with the crab legs in the wine on a stovetop for 10 minutes on medium to high heat.
+            - figure [ref=e574]
+            - paragraph [ref=e575]: “I think the citric acid helps soften the spiny shells so you can crack into them easier, and once they’ve cooked for 10 minutes, all you have to do is set them out on a big tray, sprinkle ‘em with a good dash of Old Bay seasoning, and you’ve got a super easy meal that folks can walk past, grab a leg, and have some great summer food while they’re at your pool or picnic,” Scroggins said.
+            - paragraph [ref=e576]: “Big Show” likes king crabs best, but says their spiny legs make them a little more challenging to eat than snow crab, and adds that as far as what white wine you choose, it really doesn’t matter.
+            - paragraph [ref=e577]:
+              - text: He will be choosy next week at Saginaw Bay, Michigan, during
+              - link "Bass Pro Tour Stage Seven" [ref=e578] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/events/2023-bass-pro-tour-stage-seven/
+              - text: as he looks to notch his fourth Top 5 finish in recent months of MLF events. For example, when he finished fifth at St. Clair last month, he felt using a smaller 3.6-inch MaxScent Flat Worm got him more bites than a slightly larger 4.25-inch version.
+            - paragraph [ref=e579]: "But when it comes to cooking up a fast and easy fun meal in the heat of summer, keep it simple. You only need four ingredients: crab legs, white wine, Old Bay seasoning, and some oranges. And if you happen to have them growing on the trees in your yard like “Big Show” does, that makes it even easier."
+        - generic [ref=e581]:
+          - heading "Howell’s 12th annual boat giveaway fundraiser underway through Nov. 12" [level=1] [ref=e582]
+          - heading [level=5]
+          - generic [ref=e583]:
+            - iframe [ref=e585]:
+              - region "Video Player" [ref=f4e2]:
+                - application [ref=f4e3]
+                - button "Play Video" [ref=f4e6] [cursor=pointer]:
+                  - text: 
+                  - generic [ref=f4e7]: Play Video
+                - text:           
+            - generic [ref=e586]:
+              - text: November 6, 2022 •
+              - link "Angler News" [ref=e587] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/angler-news/
+            - paragraph [ref=e588]:
+              - text: Helping others while gaining a chance to win MLF pro
+              - link "Randy Howell’s" [ref=e589] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/angler/randy-howell/
+              - text: 2022 Bass Pro Tour competition boat valued at $100,000 is a win-win deal, but the deadline is quickly approaching to participate.
+            - paragraph [ref=e590]:
+              - text: Now in its 12
+              - superscript [ref=e591]: th
+              - text: year, Randy Howell’s Boat Giveaway to Benefit
+              - link "King’s Home" [ref=e592] [cursor=pointer]:
+                - /url: https://www.kingshome.com/
+              - text: has raised more than $2.1 million for King’s Home, a Chelsea, Alabama, charity dedicated to helping youth, women, and mothers with children who are at-risk.
+            - paragraph [ref=e593]: Last year’s boat giveaway raised $383,000, and Howell is hoping to break that record.
+            - paragraph [ref=e594]: Donations are being accepted until noon (CT) Nov. 12 and each $100 donation is worth one entry toward possibly winning Howell’s 2022 Triton 21 XrT with all the bells and whistles.
+            - paragraph [ref=e595]:
+              - text: Log on to the
+              - link "King" [ref=e596] [cursor=pointer]:
+                - /url: https://www.kingshome.com/randyhowell
+              - link "‘" [ref=e597] [cursor=pointer]:
+                - /url: https://www.kingshome.com/randyhowell
+              - link "s Home Randy Howell Boat Giveaway page" [ref=e598] [cursor=pointer]:
+                - /url: https://www.kingshome.com/randyhowell
+              - text: for information and to donate.
+        - generic [ref=e600]:
+          - heading "Bradley Roy’s High School Open Presented by Covercraft Continues for 10th Year" [level=1] [ref=e601]
+          - heading [level=5]
+          - generic [ref=e602]:
+            - img "Image for Bradley Roy’s High School Open Presented by Covercraft Continues for 10th Year" [ref=e603]
+            - generic [ref=e604]: The Bradley Roy High School Open Presented by Covercraft was held for the 10th year on Oct. 8. Photo courtesy J.D. Blackburn
+            - generic [ref=e605]:
+              - text: October 18, 2022 • J.D. Blackburn •
+              - link "High School Fishing" [ref=e606] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/high-school/
+            - paragraph [ref=e607]:
+              - text: JAMESTOWN, Ky. – The 2022
+              - link "Bradley Roy High School Open Presented by Covercraft" [ref=e608] [cursor=pointer]:
+                - /url: https://bradleyroy.com/high-school-open/
+              - text: ", was one of the most closely contested chapters in the tournament’s 10-year history. For the first time, the winning team on Saturday also triumphed in the Sunday fish-off."
+            - paragraph [ref=e609]: On Oct. 8, 139 high school teams and 34 junior teams (6-8th grade) competed at Lake Cumberland and the top five fished the following day on the Beaver Creek section of Barren River Lake in Glasgow, Kentucky.
+            - paragraph [ref=e610]: "The top five teams on Saturday were:"
+            - list [ref=e611]:
+              - listitem [ref=e612]:
+                - text: "1"
+                - superscript [ref=e613]: st
+                - text: "place – Zavian Smith – Lake Cumberland Bass Club: 11.96"
+              - listitem [ref=e614]:
+                - text: "2"
+                - superscript [ref=e615]: nd
+                - text: "place – Jake Mattingly – Danville Christian Academy: 11.83"
+              - listitem [ref=e616]:
+                - text: "3"
+                - superscript [ref=e617]: rd
+                - text: "place – Coleman Stewart/Keenan Stewart – Boyle County: 10.95"
+              - listitem [ref=e618]:
+                - text: "4"
+                - superscript [ref=e619]: th
+                - text: "place – Scotty Hagan/Mason Hagan – Edmonson County: 9.41"
+              - listitem [ref=e620]:
+                - text: "5"
+                - superscript [ref=e621]: th
+                - text: "place – Porter Conover/Hunter Duvall – Trinity High School: 8.83"
+            - iframe [ref=e622]:
+              
+            - paragraph [ref=e623]:
+              - text: Following the Saturday weigh-in,
+              - link "Roy" [ref=e624] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/bradley-roy/
+              - text: gathered the top five teams and prepared them for a fish-off on Sunday at a mystery destination.
+            - paragraph [ref=e625]: The five remaining teams were housed at the Riverside Inn and geared up for a Major League Fishing Cup-style tournament the next day. The Bass Pro Tour angler convened the group in the parking lot at 4:30 a.m. on Sunday and led a convoy west on the Cumberland Parkway. The teams didn’t know their destination until they arrived at the Beaver Creek section of Barren River Lake in Glasgow.
+            - figure [ref=e627]
+            - paragraph [ref=e628]: “I picked Barren River Lake this year as our mystery lake; it’s a lake I have had a lot of history and success on,” Roy said. “It was fascinating to see these high school anglers attack this body of water as I did year after year on the Kentucky Junior Circuit.”
+            - paragraph [ref=e629]: Each team was assigned boat officials trained by Roy and provided two sets of MLF-supplied scales. Teams were given 30 minutes to ride around on the designated section of the 10,100-acre fishery.
+            - paragraph [ref=e630]: Roy streamed commentary on his social media pages as he covered the action. The teams fished two 2.5-hour sessions, with a 30-minute break in between.
+            - figure [ref=e632]
+            - paragraph [ref=e633]: The conditions on Barren River Lake were frigid to begin the morning, with temperatures around freezing, warming up with high bluebird skies as the day progressed. Roy commented during the live stream that the weather conditions played a significant factor in the difficulty of the fishing and would make every catch even more crucial to the outcome. As temperatures warmed, the frequency of catches from all five teams increased.
+            - paragraph [ref=e634]: Entering the second and final period of fishing, Lake Cumberland Bass Club’s Zavian Smith and Boyle County’s Coleman and Keenan Stewart were neck and neck. An early period catch by Edmonson County’s Scotty and Mason Hagan catapulted them into the lead over both teams. However, back-to-back scorable catches midway through the period by Smith were enough to push him back into the lead and fend off challenges by the four other teams. Smith finished with a winning weight of 5 pounds, 4 ounces.
+            - figure [ref=e636]
+            - paragraph [ref=e637]: After confirming the scores from all teams, Roy interviewed the winner and his boat captain and mother, Judith Dyehouse. Roy asked Smith how he felt about the MLF Cup-style format and Scoretracker.
+            - paragraph [ref=e638]: “It gets your nerves going,” Smith said. “I was getting nervous when the other teams started catching fish.”
+            - paragraph [ref=e639]: He went on to say that he stuck to his game plan and was thankful that he could get the win. Following the event, Smith and boat captain Dyehouse met with the media to further discuss the victory.
+            - paragraph [ref=e640]: “He fished his heart out,” Dyehouse said. “I was pretty impressed with some of the big fish he had to net by himself. I couldn’t believe it. He did wonderfully!”
+            - figure [ref=e641]
+            - paragraph [ref=e642]: When Smith was asked about how his mom served as a boat captain, he responded, “Pretty good!’ That question was quickly followed up about how she served as a mom, they both laughed, and he said, “really good!”
+            - paragraph [ref=e643]: Both team members from the top two teams were offered four-year, $10,000 scholarships to attend Campbellsville University by head coach Pete Hedgepath. Kentucky Christian also offered four-year scholarships to teams in the top five. In all, the potential scholarships were close to $300,000.
+            - paragraph [ref=e644]:
+              - text: On Sunday, Smith and the team of Scotty and Mason Hagan earned berths in the
+              - link "2023 Major League Fishing High School National Championship" [ref=e645] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/circuits/high-school/
+              - text: .
+            - figure [ref=e647]
+            - paragraph [ref=e648]: "Significant general scholarships for all teams were made possible by Covercraft, First Southern National Bank, The Cain Pole, A Few Good Men Fishing Tournament, LCR Contracting, City of Jamestown, Angler’s Outpost and Marine, and Land Big Fish. Additional prizes from sponsors of the event and Bradley Roy included: Ark Fishing, Bass Pro Shops, Railblaza, Solar Bat, Land Big Fish, The Cain Pole, Mercury, and D&L Tackle."
+            - paragraph [ref=e649]: “I want to shout out to everyone who helped me pull this tournament off for the 10th consecutive year,” Roy said. “If you have ever run a tournament, you know this stuff does not happen easily; I have an awesome staff, family, and sponsors. Even though this tournament has my name on it, I am just a small part, and none of this happens without them.
+            - paragraph [ref=e650]: “Our winner this year, Zavian Smith, his mom was also the boat captain. This year in our top five, we had two mother boat captains, which is so awesome. Last year we had our first female angler in the top five. It’s just so cool to see that and know that this is not just a sport limited to men, that a wider audience can join in,” Roy said.
+            - paragraph [ref=e651]: Covercraft contributed to the scholarship fund and provided event decals for all anglers, coaches, volunteers, and family members.
+            - paragraph [ref=e652]: “Being able to support Bradley and an event that means so much to the future of fishing is a joy for us. We are proud of his efforts over these past ten years to grow these young people as anglers and as young men and women,” said Jeff Jegelewicz, Director of Marketing at Covercraft.
+            - paragraph [ref=e653]: “We were thrilled to host the Bradley Roy High School fishing tournament again and have students from around Kentucky experience the great fall fishing on Lake Cumberland,” said Regena Hinton, Mayor of Jamestown.
+            - paragraph [ref=e654]: “Lake Cumberland Tourist Commission was excited to host the Bradley Roy High School Open here on Lake Cumberland,” said Danielle Wilson, Executive Director of the Lake Cumberland Tourist Commission. “The turnout was huge and benefited the county in more ways than one! We hope to have the event back each year!”
+        - generic [ref=e656]:
+          - heading "From Bass Boat to Kayak in Two Days as Jackson Roumbanis Wins His First-Ever Kayak Tournament" [level=1] [ref=e657]
+          - heading [level=5]
+          - generic [ref=e658]:
+            - img "Image for From Bass Boat to Kayak in Two Days as Jackson Roumbanis Wins His First-Ever Kayak Tournament" [ref=e659]
+            - generic [ref=e660]: Jackson Roumbanis earned a win in his first-ever kayak tournament. Photo by Fred Roumbanis.
+            - generic [ref=e661]:
+              - text: October 10, 2022 • Kendra Cousineau •
+              - link "Angler News" [ref=e662] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/angler-news/
+            - paragraph [ref=e663]:
+              - link "Jackson Roumbanis" [ref=e664] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/jackson-roumbanis-2/
+              - text: is no stranger to fishing. His dad (Bass Pro Tour angler
+              - link "Fred Roumbanis" [ref=e665] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/fred-roumbanis/
+              - text: ) had him fishing in diapers and he learned from some of the best bass anglers in the world. However, until September, Jackson was a stranger to fishing out of a kayak, much less fishing out of a kayak in his first ever pro-level tournament.
+            - paragraph [ref=e666]: The 15-year-old high school sophomore shocked everyone when he won the Hobie Bass Open Series event on Lake Dardanelle (Sept. 17-18) in a tiebreaker over veteran Francis Tran. In doing so, Jackson became the youngest-ever winner on the Hobie Bass Open Series – astoundingly, just two days after he made his very first cast from a kayak.
+            - heading "From Bass Boat to Kayak in Two Days" [level=2] [ref=e667]:
+              - strong [ref=e668]: From Bass Boat to Kayak in Two Days
+            - paragraph [ref=e669]:
+              - text: When your dad is a pro and you grow up around the likes of
+              - link "Jordan Lee" [ref=e670] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/jordan-lee/
+              - text: ","
+              - link "Kevin VanDam" [ref=e671] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/kevin-vandam/
+              - text: ","
+              - link "Mark Daniels, Jr." [ref=e672] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/mark-daniels-jr/
+              - text: and
+              - link "Ott DeFoe" [ref=e673] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/ott-defoe/
+              - text: ", you’re bound to know a little about bass fishing. And Jackson Roumbanis"
+              - emphasis [ref=e674]: knows
+              - text: bass fishing.
+            - paragraph [ref=e675]: He’s won two AOYs in his youth circuit in Arkansas, with 10 tournament wins to boot.
+            - paragraph [ref=e676]: “You would never know that because this kid is so humble,” Fred said. “His versatility is there, and he’s going to be scary (good) one day. He already is scary.”
+            - paragraph [ref=e677]:
+              - text: But unbeknownst to Fred, who was fishing Mille Lacs at the time for
+              - link "Bally Bet Stage Seven" [ref=e678] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/events/2022-bass-pro-tour-mille-lacs-lake/
+              - text: ", one of Jackson’s friends in the kayak fishing community had convinced him to compete in the September Hobie Open and offered him a boat to use. Jackson informed his mom, Julie, the Tuesday before the start of the weekend tournament that he needed to pick up a kayak, and he splashed his new boat on Thursday. By Saturday morning, he was competing on Lake Dardanelle."
+            - paragraph [ref=e679]: Jackson had to be confident in the spots he chose to fish, mainly because Fred would have to drop him off in the morning and he had no way to load and unload in different spots around Lake Dardanelle. Luckily for Jackson, Dardanelle is basically his home water.
+            - paragraph [ref=e680]: The first full day on the water didn’t come without its difficulties.
+            - paragraph [ref=e681]: “Oh, it was something else,” Jackson said. “I got out there the first day and tried to fish using the same techniques I would from a bass boat, and realized it was a lot harder. There were new techniques and new things I had to adapt to. I forced myself to be confident in those spots, even though I knew there would be hours where I wouldn’t get a bite.”
+            - paragraph [ref=e682]: Fred believes that Jackson’s patience is his biggest strength as an angler.
+            - paragraph [ref=e683]: “He knows how to wait fish out,” Fred said. “(That’s important) when you can’t turn a key on a boat and go anywhere. All he had was a paddle, an anchor, and four rods.”
+            - paragraph [ref=e684]: There were other obstacles to overcome and mistakes that any rookie could make when competing out of a kayak for the first time.
+            - paragraph [ref=e685]: “About a quarter through the second day, I ran out of the worms I was using,” Jackson said with a laugh.
+            - paragraph [ref=e686]: Not to mention the impact of fishing from a kayak for the first time – for seven hours a day – can have on the body.
+            - paragraph [ref=e687]: “I was so exhausted,” Jackson admits. “I was extremely sore, and my legs were jelly.”
+            - paragraph [ref=e688]: Although Fred couldn’t stay to watch full competition days, he paid close attention to the areas that Jackson chose to fish both days of the tournament … until he felt he was making him nervous.
+            - paragraph [ref=e689]: “I raced home to turn on the scoreboard, and was like, ‘Whoa, he really is catching them!’,” Fred said.
+            - figure "Jackson’s “fishiness” is the result of growing up and fishing with his bass-pro dad Fred all his life. Photo courtesy Fred Roumbanis" [ref=e690]:
+              - generic [ref=e691]: Jackson’s “fishiness” is the result of growing up and fishing with his bass-pro dad Fred all his life. Photo courtesy Fred Roumbanis
+            - heading "Down to the Tiebreaker" [level=2] [ref=e692]:
+              - strong [ref=e693]: Down to the Tiebreaker
+            - paragraph [ref=e694]: Following two days of fishing where he racked up 165 inches of bass on Dardanelle, Jackson stood nervously in the post-event meeting as tournament officials called out the results and places. He was thrilled knowing that he had done well enough at his first-ever large-scale tournament to get a check.
+            - paragraph [ref=e695]: What he didn’t expect was to hear his name being called during the top five, and then the top three.
+            - paragraph [ref=e696]: “My face lit up even more,” Jackson admits. “Not only was I getting a check, but I was getting a trophy and the chance to compete even more.”
+            - paragraph [ref=e697]: Then, something even more unexpected happened. Jackson’s two-day cumulative total of 165 inches was matched by Francis Tran, meaning that the event winner would be determined by a tiebreaker – the longest/biggest fish. Jackson’s biggest bass stretched 18.5 inches, Tran’s measured 18.0 inches. Jackson won by a half-inch.
+            - paragraph [ref=e698]: “When they announced that a 15-year-old kid was in the top five, everyone in the building was like ‘wait, what?’ And they all were very supportive and shocked that (Jackson) was able to come out and do this,” Fred said.
+            - paragraph [ref=e699]: The Roumbanis family hosted a barbecue after the tournament for the local kayak-fishing crowd and were impressed by how good Jackson had done against experienced pros.
+            - paragraph [ref=e700]: “People were going around, chatting about how many they had caught, and it was somewhere around the range of seven to nine fish,” Fred said. “Then they would ask Jackson, and he caught 27 fish throughout the tournament. It was just unbelievable.”
+            - heading "Moving Ahead to Championship Event" [level=2] [ref=e701]:
+              - strong [ref=e702]: Moving Ahead to Championship Event
+            - paragraph [ref=e703]:
+              - text: After winning the Dardanelle Hobie Open, Jackson immediately qualified to fish the Hobie Tournament of Champions on Caddo Lake in Louisiana, starting Nov. 11. At the same time, Fred is fishing in the third
+              - link "General Tire Team Series" [ref=e704] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/circuits/team-series/
+              - text: qualifier with his powerhouse team of
+              - link "Dustin Connell" [ref=e705] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/dustin-connell/
+              - text: and
+              - link "Cole Floyd" [ref=e706] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/cole-floyd/
+              - text: .
+            - paragraph [ref=e707]: However, that isn’t stopping Fred. He plans to drive all night to be there for Jackson when he gets off the water.
+            - paragraph [ref=e708]: “Hopefully we can both be winners!” Fred said.
+            - paragraph [ref=e709]: Jackson plans to spend more time in his kayak in the weeks leading up to the Caddo Lake tournament, to become more familiar with the boat and hone his natural skills.
+            - paragraph [ref=e710]: “I have a ton of confidence starting out, but I don’t want to be overconfident,” Jackson said. “With having the little experience that I do have, fishing against these top pros is going to be something to look forward to.”
+            - paragraph [ref=e711]: When he launches his kayak at Caddo Lake, Jackson will be fishing a body of water that neither he nor Fred has ever fished. Fred is confident that Jackson will figure it out, and will have fun doing it.
+            - paragraph [ref=e712]: “Whether it’s a tournament or not, Jackson just goes out and has fun, and then he still does good,” Fred said. “There’s no doubt that Jackson will be on the Bass Pro Tour with me one day.”
+        - generic [ref=e714]:
+          - heading "Biffle, Fennel, Martens Inducted into the Bass Fishing Hall of Fame" [level=1] [ref=e715]
+          - heading [level=5]
+          - generic [ref=e716]:
+            - img "Image for Biffle, Fennel, Martens Inducted into the Bass Fishing Hall of Fame" [ref=e717]
+            - generic [ref=e718]:
+              - text: October 7, 2022 • Rachel Dubrovin •
+              - link "Angler News" [ref=e719] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/angler-news/
+            - paragraph [ref=e720]:
+              - text: SPRINGFIELD, Mo. – Pro anglers and fishing industry moguls from all over the country traveled to the Bass Pro Shops Headquarters in Springfield on Thursday to celebrate the Bass Fishing Hall of Fame Class of 2022. Oklahoma pro
+              - link "Tommy Biffle" [ref=e721] [cursor=pointer]:
+                - /url: http://Tommy Biffle
+              - text: and MLF Executive Vice President and General Manager Kathy Fennel were each given an iconic blue blazer and a plaque that recognizes their contributions to the bass fishing industry. The late
+              - link "Aaron Martens" [ref=e722] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/aaron-martens/
+              - text: was posthumously inducted into the Hall of Fame. Several members of the Martens family attended the celebration, including Aaron’s wife, Lesley, his mother Carol and his children, Jordan and Spencer.
+            - paragraph [ref=e723]: Biffle delivered the first speech of the evening and he kept the entire room rolling with laughter. He joked that he’d rather be throwing a drop-shot than giving a speech in front of a banquet hall full of people, but became emotional when talking about how much a Hall of Fame induction means to him.
+            - paragraph [ref=e724]: “The Bass Fishing Hall of Fame is probably the biggest honor that I’ll ever have,” Biffle said while holding back tears.
+            - paragraph [ref=e725]: The Biffle Bug creator showed appreciation for several people, including Johnny Morris and Ray Scott, and he didn’t forget to thank his “main sponsor,” his wife, Sharron.
+            - paragraph [ref=e726]:
+              - text: When it was time to award the Martens family with Aaron’s Hall of Fame plaque, the crowd watched a tribute video of MLF pros talking about how much they love and respect Aaron as a friend and as a legend of the sport. Much of the crowd teared up while watching Lesley accept Aaron’s plaque from
+              - link "Kevin VamDam" [ref=e727] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/kevin-vandam/
+              - text: .
+            - paragraph [ref=e728]: “What I love most about this sport, this industry, is the people,” Fennell said during her acceptance speech. “Aaron Martens’ life and legacy is a shining example of the brightest and the best. We all miss him.”
+            - paragraph [ref=e729]: Fennell was a key figure in the FLW organization since 1982 and is now one of the most influential people in the fishing industry. As MLF’s executive vice president & general manager, Fennel oversees day-to-day operations, making sure the organization continues to provide prestigious, well-organized tournaments.
+            - paragraph [ref=e730]: “My entire career has been spent working alongside the most dedicated, loyal and hardest-working group of people in the world,” she said. “The only reason I’m standing here today is because of them.”
+            - paragraph [ref=e731]:
+              - text: The Bass Fishing Hall of Fame is located in Johnny Morris’ Wonders of Wildlife Museum in Springfield.
+              - link "You can learn more about the organization here" [ref=e732] [cursor=pointer]:
+                - /url: https://www.bassfishinghof.com/
+              - text: .
+        - generic [ref=e752]:
+          - heading "VanDam Goes to NASCAR’s Victory Lane" [level=1] [ref=e753]
+          - heading [level=5]
+          - generic [ref=e754]:
+            - img "Image for VanDam Goes to NASCAR’s Victory Lane" [ref=e755]
+            - generic [ref=e756]:
+              - text: September 26, 2022 • Alan McGuckin •
+              - link "Angler News" [ref=e757] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/angler-news/
+            - paragraph [ref=e758]:
+              - text: Trophy presentations are certainly nothing new to
+              - link "Kevin VanDam" [ref=e759] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/kevin-vandam/
+              - text: . But when Bass Pro Shops founder Johnny Morris asked “KVD” to join him in Victory Lane to present the winner’s trophy last Saturday night at NASCAR’s Bass Pro Shops Night Race at Bristol Motor Speedway, the longtime Toyota angler was a bit astonished.
+            - paragraph [ref=e760]: Longshot driver Christopher Buescher won the race, and not only did VanDam help with the trophy presentation, but he may very well have won the award for the guy who had the most fun at the iconic half-mile track on the Tennessee-Virginia border.
+            - paragraph [ref=e761]: His day began with a visit to the local Bass Pro Shops store where Toyota was offering fans the chance to take a ride in the all-new 2022 Tundra. Then, it was off to the track where he did a fishing seminar for race fans, got a little mud on the tires at Toyota’s ride and drive course, presented driver Martin Truex a ‘good luck’ crankbait, and even got invited to take a lap in the ‘pace truck’ to begin the race.
+            - paragraph [ref=e762]: “I’ve had some phenomenal experiences around NASCAR, and Johnny asking me to join him in Victory Lane at Bristol was certainly one of them. But like most things in life, it’s all about people. I’ve become close friends with drivers Martin Truex, Jeff Burton and Ryan Newman, as well as some of the car chiefs like “Cheddar” and so many others,” said VanDam.
+            - paragraph [ref=e763]: “Tons of people in the NASCAR community love to fish when they’re not busting their tails to win races, and there’s no sport I follow more closely than NASCAR when I’m not on the water. My radio is turned to the NASCAR station on Sirius XM about 90% of the time in my Tundra,” he said.
+            - paragraph [ref=e764]: “I love the short tracks like Bristol and Richmond where you’re so close to the action, but there’s a whole lot to be said for standing near the wall at the superspeedways when the cars blow by you in a pack at 200 mph,” added VanDam. “The bottom line is I just love NASCAR.”
+            - paragraph [ref=e765]: No doubt, the multitude of memories he made last Saturday at Bristol only deepened his passion for the sport that runs just a short lap behind bass fishing on the list of sports he loves.
+  - iframe [ref=e784]:
+    - generic [active] [ref=f20e1]:
+      - link "Advertisement" [ref=f20e4] [cursor=pointer]:
+        - /url: https://ad.doubleclick.net/pcs/click?xai=AKAOjssugC6K1VkAcZj2ROWQ0zdwzdVys-R5uUZzJTYLQ4YJgwjHRhW7_gtZxbnISl5Alt9MUXeWSy1YX0cJ_liBGf-iF2kju_8_ccnWUx45x-6hrgSM-vH52P4LCU6ZWJg2asU9SDVEoJC4V1hoyaO7bCnU_TX2pzYhkVKljEB9ck1q6jVpFS3KNBV4Th5dVUazNgwXjZvfGikkfyFpqCuRRaMITwvjDUy1hPEhxtv-VMh3HUOKTG4NY1jGMamOH8KU8HlgzX_F0_xlw11ID0kcIMo3nug2GH2nrryb8Mw0H8hX-05hA9sYqev7O86anA6CSvEPPSkztUNyaEWNfgEW9M_VYR0Uc6lWHx4HLlvYpMwJYE5a49tuCFvP63LY8uTUN-lXOuZGjPAwKEiLqnNaSM9WcxBeLDvDn7w3nbwYv58VF1VqOEI7JRKW1JsQJGOxF1Tf8tG2OBMAIAs9BRjz41fZCH7RYGdn0_l99kDlnPlzm343jp11njPW-r32TYRmzivQkJmR74yQ7vugoKkS-YDJGzRnaMpZ3Qc23Efj-vMbTm3rNoN_Y6BLOd3PJ1nfZFW7s2hITHzVxj9tSZcZnJzDRQUGF_I3_UdjQ0pJyTtd01ZnFglV5EZF31rB-bWg6U31WVAb4a2InNZz7GqpV39pb_loIrvlyTPlOqEUJ5_4y5wMGAXEslSif2maAEpBywgkLhkSC_jhNvR2bEU5j8zbZQ3rl5Bl6vgUFYeq2dkixDU&sai=AMfl-YQXqEVWDYzVCTsUt12knfQdYvymCruA1-jUz6NQUxmMbmAFbPm0IPPGaiqXSPNU51gtEG0sNh2GZRhIOdhHAh2laL3WLEGTTZgdZpCoAcjSlFqMOCuU07vkMvF1ftDE94CaP8ryOpBHI-waKj1rtjdWPXmOjfEUVSGoqbCiLUkOpxcSdz_Wn4ZdFr-aw4aAHkAa0FyyNPkPEk4_3aue_BFLwZxWI_Z-CMUpZM_Z8lbM-pw_yPznc3XcgXLknl3r43ADaDK9faSs3qx28-HOMMD9YaSTMehcarcyre7Qe7TGOQLyyMTgsIc0ulZdbY757KxJs0gTS_8nlftyAFxsSHYIBiOo0IP9RKrk4wMwCy2cZNlzkqvccDBfygRsTr_tXA&sig=Cg0ArKJSzJqJWEveN97S&fbs_aeid=%5Bgw_fbsaeid%5D&crd=aHR0cHM6Ly90b3lvdGEuY29t&urlfix=1&adurl=https://d.agkn.com/pixel/2389/%3Fche%3D2262781797%26col%3D34920444,5894696,436369609,629759211,246987037%26l1%3Dhttps://www.toyota.com/trucks/adventure-detours/%3Fcid%3DDFA:34920444:5894696:436369609:629759211:246987037%26dclid%3D%25edclid!%26gad_source%3D7%26gad_campaignid%3D23369966868
+        - img "Advertisement" [ref=f20e5]
+      - iframe
+      - generic:
+        - generic:
+          - img [ref=f20e7] [cursor=pointer]
+          - img [ref=f20e9] [cursor=pointer]
+  - contentinfo [ref=e785]:
+    - generic [ref=e786]:
+      - generic [ref=e787]:
+        - img "MLF" [ref=e789]
+        - generic [ref=e790]:
+          - heading "About MLF" [level=4] [ref=e791]
+          - list [ref=e792]:
+            - listitem [ref=e793]:
+              - link "About Us" [ref=e794] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/we-are-bass-fishing/
+            - listitem [ref=e795]:
+              - link "Press Releases" [ref=e796] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/press-releases/
+            - listitem [ref=e797]:
+              - link "Industry News" [ref=e798] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/industry-news/
+            - listitem [ref=e799]:
+              - link "Talent" [ref=e800] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/about/talent/
+            - listitem [ref=e801]:
+              - link "History" [ref=e802] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/about/history/
+            - listitem [ref=e803]:
+              - link "Sponsors" [ref=e804] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/about/sponsors/
+            - listitem [ref=e805]:
+              - link "Contact Us" [ref=e806] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/contact-us-2/
+        - generic [ref=e807]:
+          - heading "Additional Links" [level=4] [ref=e808]
+          - list [ref=e809]:
+            - listitem [ref=e810]:
+              - link "Employment" [ref=e811] [cursor=pointer]:
+                - /url: http://www.outdoorsg.com/about/careers/
+            - listitem [ref=e812]:
+              - link "Privacy Policy" [ref=e813] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/privacy-policy/
+            - listitem [ref=e814]:
+              - link "Social Media Policy" [ref=e815] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/social-media-policy/
+            - listitem [ref=e816]:
+              - link "Terms of Use" [ref=e817] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/terms-of-use/
+            - listitem [ref=e818]:
+              - link "Your Privacy Choices" [ref=e820] [cursor=pointer]:
+                - /url: "#"
+                - text: Your Privacy Choices
+        - generic [ref=e822]:
+          - heading "Newsletter" [level=4] [ref=e823]
+          - paragraph [ref=e824]: Stay up to date with the latest news, tips and show times. MLF is committed to extending the life of the sport.
+          - generic [ref=e825]:
+            - generic [ref=e826]:
+              - generic [ref=e827]: Email Address
+              - textbox "Email Address" [ref=e828]
+            - generic [ref=e830]: News Preferences
+            - generic [ref=e831]:
+              - generic [ref=e833]:
+                - text: MLF
+                - radio [ref=e834]
+              - generic [ref=e836]:
+                - text: MLF5
+                - radio [ref=e837]
+              - generic [ref=e839]:
+                - text: Both MLF & MLF5
+                - radio [checked] [ref=e840]
+            - button "Submit" [ref=e841] [cursor=pointer]
+          - generic [ref=e842]:
+            - link [ref=e843] [cursor=pointer]:
+              - /url: https://www.facebook.com/MajorLeagueFishing
+            - link [ref=e844] [cursor=pointer]:
+              - /url: https://twitter.com/MajorLeagueFish
+            - link [ref=e845] [cursor=pointer]:
+              - /url: https://www.instagram.com/majorleaguefishingofficial/?hl=en
+            - link [ref=e846] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCQF_5AVYaUcnRFJ_UmMgKTw
+      - paragraph [ref=e847]: © Copyright 2026 MAJOR LEAGUE FISHING

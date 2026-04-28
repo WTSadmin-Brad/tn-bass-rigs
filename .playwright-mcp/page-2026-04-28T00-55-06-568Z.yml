@@ -1,0 +1,173 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e7]:
+        - generic [ref=e8]:
+          - button "Open and close main navigation" [ref=e10] [cursor=pointer]: MENU
+          - link "BassResource logo" [ref=e16] [cursor=pointer]:
+            - /url: /
+            - img "BassResource logo" [ref=e17]
+          - list [ref=e20]:
+            - listitem [ref=e21]:
+              - link "Facebook icon" [ref=e22] [cursor=pointer]:
+                - /url: https://www.facebook.com/bassresource
+                - img "Facebook icon" [ref=e23]
+            - listitem [ref=e24]:
+              - link "Instagram icon" [ref=e25] [cursor=pointer]:
+                - /url: https://www.instagram.com/bassresource/
+                - img "Instagram icon" [ref=e26]
+            - listitem [ref=e27]:
+              - link "YouTube icon" [ref=e28] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/bassresource?sub_confirmation=1
+                - img "YouTube icon" [ref=e29]
+        - generic [ref=e30]:
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - link "Giveaways" [ref=e33] [cursor=pointer]:
+                - /url: /contests.html
+            - listitem [ref=e34]:
+              - link "Newsletter" [ref=e35] [cursor=pointer]:
+                - /url: /sign-up.html
+          - button "Open search form>" [ref=e38] [cursor=pointer]:
+            - generic [ref=e39]:
+              - img [ref=e40]
+              - generic [ref=e41]: Open search form>
+      - text: + + +
+    - main [ref=e43]:
+      - img "Drop Shot Cruising Bass" [ref=e51]
+      - generic [ref=e56]:
+        - generic [ref=e61]:
+          - navigation "Breadcrumb" [ref=e63]:
+            - heading "Breadcrumb" [level=2] [ref=e64]
+            - list [ref=e65]:
+              - listitem [ref=e66]:
+                - link "Home" [ref=e67] [cursor=pointer]:
+                  - /url: /
+                  - img "Home" [ref=e68]
+              - listitem [ref=e69]:
+                - text: ►
+                - link "Fishing Techniques" [ref=e70] [cursor=pointer]:
+                  - /url: /fishing-techniques
+              - listitem [ref=e71]:
+                - text: ►
+                - link "The Dropshot Rig" [ref=e72] [cursor=pointer]:
+                  - /url: /fishing-techniques/The-Dropshot-Rig
+          - heading "Drop Shotting For Cruising Bass" [level=1] [ref=e74]
+          - article [ref=e76]:
+            - generic [ref=e77]:
+              - generic [ref=e78]:
+                - generic [ref=e79]:
+                  - text: By
+                  - link "John Neporadny Jr" [ref=e81] [cursor=pointer]:
+                    - /url: /authors/john-neparandny-jr.html
+                - text: / September 30, 2016
+              - generic [ref=e82]:
+                - group "Arizona pro Dean Rojas favors drop-shotting hand-poured finesse worms to catch bass cruising the shallows." [ref=e83]:
+                  - article [ref=e84]:
+                    - generic [ref=e85]:
+                      - generic [ref=e86]: Image
+                      - generic "Arizona pro Dean Rojas favors drop shotting hand-poured finesse worms to catch bass cruising the shallows." [ref=e88]:
+                        - img "Arizona pro Dean Rojas favors drop shotting hand-poured finesse worms to catch bass cruising the shallows." [ref=e89]
+                  - generic [ref=e90]: Arizona pro Dean Rojas favors drop-shotting hand-poured finesse worms to catch bass cruising the shallows.
+                - paragraph [ref=e91]: When touring pros Dean Rojas and Brandon Palaniuk see bass cruising in the shallows, they rely on a finesse technique generally used for catching deep bass.
+                - paragraph [ref=e92]: A vertical presentation with a drop shot rig is deadly for bass in deep water, but these two Bassmaster Elite Series pros have discovered the rig also tricks bass cruising in thin water. Both pros think the drop shot rig is more advantageous in this situation than a Texas-rigged bait because it allows them to keep the lure off the bottom and in front of a bass throughout their presentations.
+                - paragraph [ref=e93]: “I don’t know if it is the fisheries we go to or just the amount of pressure the lakes receive, but I drop shot more than I ever had,” said Rojas, who learned the technique when he started fishing on Western lakes. “I feel like I am returning to my Western roots in a way.”
+                - paragraph [ref=e94]:
+                  - text: The Arizona pro tempts cruising bass with hand-poured finesse worms he rigs with a drop shot setup consisting of a 2/0
+                  - link "Extra Wide Gap Gamakatsu hook" [ref=e95] [cursor=pointer]:
+                    - /url: https://bit.ly/37hill4
+                  - text: and a 3/16-ounce
+                  - link "mojo-style weight" [ref=e96] [cursor=pointer]:
+                    - /url: https://bit.ly/3j7bUaL
+                  - text: . Rojas prefers hand-poured worms over injection mold versions because the worms are softer. “A lot of injection molds make a good multilayer bait, but there are times when fish hold on to a hand-poured bait a lot longer than they normally do an injection mold,” he says. Rojas usually ties on his weight about 8 to 10 inches below the hook to complete his drop shot rig.
+                - paragraph [ref=e97]:
+                  - text: Palaniuk’s drop shot rig for cruising bass consists of a
+                  - link "Roboworm finesse worm" [ref=e98] [cursor=pointer]:
+                    - /url: https://bit.ly/3mhSTDy
+                  - text: "with a #2"
+                  - link "drop shot hook" [ref=e99] [cursor=pointer]:
+                    - /url: https://bit.ly/3Rppupu
+                  - text: ", and a 1/8- or 3/16-ounce tungsten round weight tied 6 inches below the hook. He prefers the round weight because he believes it sticks in a mud bottom better than other weight shapes. During his presentation to cruising bass, Palaniuk wants his lure stationary because he notices bass tend to spook when the bait moves forward."
+                - paragraph [ref=e100]: When he sees a bass roaming in the shallows, Rojas tries to keep his boat at least 15 feet away from the fish. Once he determines which direction the bass is headed, he leads the fish with a long cast. Rojas can make a long cast rather than pitch the drop shot because the light weight entering the water has minimal splash and doesn’t spook the fish. He usually delivers the drop shot with a 6-foot, 2-inch, or 6 1/2-foot spinning rod and spinning reel filled with 6- or 8-pound fluorocarbon line.
+                - group "Dean Rojas tempts the fish with a drop shot rig whenever he sees bass roaming in the shallows." [ref=e101]:
+                  - article [ref=e102]:
+                    - generic [ref=e103]:
+                      - generic [ref=e104]: Image
+                      - generic "Any time he sees bass roaming in the shallows, Dean Rojas tempts the fish with a drop shot rig." [ref=e106]:
+                        - img "Any time he sees bass roaming in the shallows, Dean Rojas tempts the fish with a drop shot rig." [ref=e107]
+                  - generic [ref=e108]: Dean Rojas tempts the fish with a drop shot rig whenever he sees bass roaming in the shallows.
+                - paragraph [ref=e109]: After his weight settles on the bottom, Rojas tempts the fish by shaking his lure on a slack line. If the fish ignores the shaking presentation, Rojas lifts the weight, drops it back down to the bottom, and lets the worm float in place. Sometimes he will drag the weight along the bottom to attract fish to the worm. When Rojas sees bass engulf his worm, he sets the hook immediately.
+                - paragraph [ref=e110]: If he sees a cruising bass ahead of him, Palaniuk will follow the fish until he gets into a favorable casting position. “I have had times where I have chased one fish for hundreds of yards just following it down the bank,” he says. Any time he stalks bass in the shallows, Palaniuk runs his trolling motor on low constant rather than switching it on and off, which he notices spooks fish.
+                - paragraph [ref=e111]: Palaniuk follows cruising bass long distances because he feels those fish prowl for food and are more aggressive than bass holding in deeper water. “You can find areas where those fish will consistently pull up,” Palaniuk says. During the 2012 Elite Series at Green Bay, Wis., when he finished second, Palaniuk found such a place featuring a flat next to a subtle drop. He caught smallmouth bass coming out of the deep water and cruising the shallows in the afternoon.
+                - paragraph [ref=e112]:
+                  - text: Leading the fish with his cast, Palaniuk ensures his weight rests on the bottom before the fish moves within 3 feet of his lure. Then he starts shaking the rig for as long as a minute. If the fish turns away from his offering, Palaniuk will follow it and cast ahead of the fish again. “It is almost like a game of cat and mouse,” he says. The B.A.S.S. pro notices cruising bass sometimes move into deep water but will return shortly to the shallows where he can make another presentation to the cruiser. Palaniuk’s spinning outfit for cruising bass includes a 6 1/2- to 7- foot medium light rod and a Size 20 spinning reel spooled with 8-pound
+                  - link "FireLine" [ref=e113] [cursor=pointer]:
+                    - /url: https://bit.ly/3c82POb
+                  - text: and a leader line of 6- or 8-pound
+                  - link "Berkley 100% Fluorocarbon" [ref=e114] [cursor=pointer]:
+                    - /url: https://bit.ly/3o24FmD
+                  - text: .
+                - paragraph [ref=e115]: Rojas always keeps a rod with a drop shot rig on the deck of his boat when fishing the shallows in case he sees cruising bass. Palaniuk has his drop shot ready in the spring when bass are cruising around bluegill beds and in the fall when bass are busting shad in the shallows.
+                - paragraph [ref=e116]:
+                  - emphasis [ref=e117]: BassResource may receive a portion of revenues if you make a purchase using a link above.
+        - complementary [ref=e118]:
+          - generic [ref=e122]:
+            - heading "Latest articles" [level=3] [ref=e123]
+            - list [ref=e127]:
+              - listitem [ref=e128]:
+                - 'link "Selective Harvest for Bass Ponds: Grow Bigger Fish Faster" [ref=e131] [cursor=pointer]':
+                  - /url: /fish_biology/selective-harvest-pond.html
+              - listitem [ref=e132]:
+                - link "5 Best Lures for Spawning Bass (Catch More Bed Fish)" [ref=e135] [cursor=pointer]:
+                  - /url: /fishing/lures-spawning-bass-lures.html
+              - listitem [ref=e136]:
+                - link "That’s Just Classic Billy" [ref=e139] [cursor=pointer]:
+                  - /url: /fishing/classic-billy.html
+              - listitem [ref=e140]:
+                - link "How to Be a Better Co-Angler (Pro Tips)" [ref=e143] [cursor=pointer]:
+                  - /url: /fishing/better-co-angler.html
+              - listitem [ref=e144]:
+                - link "FOUR People Won A Missile Baits Prize Package!" [ref=e147] [cursor=pointer]:
+                  - /url: /giveaway/missile-baits.html
+              - listitem [ref=e148]:
+                - 'link "Sight Fishing for Spawning Bass: How to Catch Bed Fish" [ref=e151] [cursor=pointer]':
+                  - /url: /fishing/sight-fishing-spawn.html
+      - generic [ref=e162]:
+        - heading "Keep reading" [level=4] [ref=e163]
+        - generic [ref=e165]:
+          - link "Bass Fish Dropshotting For Bedding Bass Spring / Jeremiah T. Bagwell / March 7, 2003" [ref=e170] [cursor=pointer]:
+            - /url: /fishing/dropshot_beds.html
+            - img "Bass Fish" [ref=e172]
+            - generic [ref=e173]:
+              - heading "Dropshotting For Bedding Bass" [level=3] [ref=e174]
+              - generic [ref=e175]: Spring / Jeremiah T. Bagwell / March 7, 2003
+          - link "drop shot Deep Water Dropshotting Fishing Techniques / Rick McFerrin / April 1, 2005" [ref=e180] [cursor=pointer]:
+            - /url: /fishing/drop_shot_bassfishing.html
+            - img "drop shot" [ref=e182]
+            - generic [ref=e183]:
+              - heading "Deep Water Dropshotting" [level=3] [ref=e184]
+              - generic [ref=e185]: Fishing Techniques / Rick McFerrin / April 1, 2005
+          - link "Drop Shot Bass Fishing Drop Shotting with Jordan Lee Fishing Techniques / John Neporadny Jr / March 26, 2017" [ref=e190] [cursor=pointer]:
+            - /url: /fishing/drop-shotting-jordan.html
+            - img "Drop Shot Bass Fishing" [ref=e192]
+            - generic [ref=e193]:
+              - heading "Drop Shotting with Jordan Lee" [level=3] [ref=e194]
+              - generic [ref=e195]: Fishing Techniques / John Neporadny Jr / March 26, 2017
+    - contentinfo [ref=e196]:
+      - generic [ref=e198]:
+        - generic [ref=e200]:
+          - generic [ref=e201]: Grow your fishing skills and improve your angling effectiveness. Subscribe to the free Weekly BassResource newsletter.
+          - generic [ref=e202]:
+            - generic [ref=e203]: Email
+            - textbox "Email" [ref=e204] [cursor=pointer]
+          - button "SUBSCRIBE" [ref=e206] [cursor=pointer]
+        - paragraph [ref=e209]:
+          - link "Copyright" [ref=e210] [cursor=pointer]:
+            - /url: https://www.bassresource.com/fish/copyright.html
+          - text: ©1996-2026 The Ultimate Bass Fishing Resource Guide™ LLC All rights reserved.
+          - text: This material may not be posted on another website.
+          - text: Nor may it be copied, published, rewritten, or redistributed.
+          - link "Privacy Statement" [ref=e211] [cursor=pointer]:
+            - /url: /fish/Privacy.html

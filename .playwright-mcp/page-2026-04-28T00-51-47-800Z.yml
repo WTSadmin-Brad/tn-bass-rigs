@@ -1,0 +1,1319 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - link [ref=e5] [cursor=pointer]:
+          - /url: /
+        - list [ref=e7]:
+          - listitem [ref=e8]:
+            - link "Circuits" [ref=e9] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e10]: Circuits
+          - listitem [ref=e11]:
+            - link "Results" [ref=e12] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/results/
+              - generic [ref=e13]: Results
+          - listitem [ref=e14]:
+            - link "Schedule" [ref=e15] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/schedule/
+              - generic [ref=e16]: Schedule
+          - listitem [ref=e17]:
+            - link "Watch" [ref=e18] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/watch/
+              - generic [ref=e19]: Watch
+          - listitem [ref=e20]:
+            - link "Membership" [ref=e21] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/join/
+              - generic [ref=e22]: Membership
+          - listitem [ref=e23]:
+            - link "Sweepstakes" [ref=e24] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/promos/
+              - generic [ref=e25]: Sweepstakes
+          - listitem [ref=e26]:
+            - link "Fantasy Fishing" [ref=e27] [cursor=pointer]:
+              - /url: /fantasy-fishing/
+              - generic [ref=e28]: Fantasy Fishing
+          - listitem [ref=e29]:
+            - link "• • •" [ref=e30] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e31]: • • •
+        - generic [ref=e32]:
+          - link "Play Now!" [ref=e33] [cursor=pointer]:
+            - /url: /fantasy-fishing/
+            - text: Play Now!
+          - link "Shop" [ref=e35] [cursor=pointer]:
+            - /url: https://shopmlf.com/
+            - text: Shop
+          - link [ref=e39] [cursor=pointer]:
+            - /url: /account/
+  - generic [ref=e47]:
+    - generic [ref=e51]:
+      - link "Drop-Shot 101 with Aaron Martens 6y • Mason Prince • Bass Pro Tour" [ref=e52] [cursor=pointer]:
+        - /url: https://majorleaguefishing.com/bass-pro-tour/drop-shot-101-with-aaron-martens/
+        - generic [ref=e53]: Drop-Shot 101 with Aaron Martens
+        - generic [ref=e54]: 6y • Mason Prince • Bass Pro Tour
+      - 'link "FantasyFishing.com Insider: Looking at distant and recent past to break down Beaver Lake 1d • Mitchell Forde • Fantasy Fishing" [ref=e55] [cursor=pointer]':
+        - /url: https://majorleaguefishing.com/fantasy-news/fantasyfishing-com-insider-looking-at-distant-and-recent-past-to-break-down-beaver-lake/
+        - generic [ref=e56]: "FantasyFishing.com Insider: Looking at distant and recent past to break down Beaver Lake"
+        - generic [ref=e57]: 1d • Mitchell Forde • Fantasy Fishing
+      - link "Robison shines for Montevallo in REDCREST at Table Rock 3d • Jody White • Columbia PFG College Fishing" [ref=e58] [cursor=pointer]:
+        - /url: https://majorleaguefishing.com/college/robison-shines-for-montevallo-in-redcrest-at-table-rock/
+        - generic [ref=e59]: Robison shines for Montevallo in REDCREST at Table Rock
+        - generic [ref=e60]: 3d • Jody White • Columbia PFG College Fishing
+      - 'link "WESLEY STRADER: Table Rock the perfect primer for our return to Beaver Lake 4d • Wesley Strader • Angler Columns" [ref=e61] [cursor=pointer]':
+        - /url: https://majorleaguefishing.com/angler-columns/wesley-strader-table-rock-the-perfect-primer-for-our-return-to-beaver-lake/
+        - generic [ref=e62]: "WESLEY STRADER: Table Rock the perfect primer for our return to Beaver Lake"
+        - generic [ref=e63]: 4d • Wesley Strader • Angler Columns
+      - link "MLF Fisheries Management Division, Zoeller Pumps donate $11,000 to James River Basin Partnership 5d • MLF • Press Releases" [ref=e64] [cursor=pointer]:
+        - /url: https://majorleaguefishing.com/press-releases/mlf-fisheries-management-division-zoeller-pumps-donate-11000-to-james-river-basin-partnership/
+        - generic [ref=e65]: MLF Fisheries Management Division, Zoeller Pumps donate $11,000 to James River Basin Partnership
+        - generic [ref=e66]: 5d • MLF • Press Releases
+      - link "Bass Pro Tour pros bring hands-on learning to WOLF School during REDCREST week 5d • MLF • Press Releases" [ref=e67] [cursor=pointer]:
+        - /url: https://majorleaguefishing.com/press-releases/bass-pro-tour-pros-bring-hands-on-learning-to-wolf-school-during-redcrest-week/
+        - generic [ref=e68]: Bass Pro Tour pros bring hands-on learning to WOLF School during REDCREST week
+        - generic [ref=e69]: 5d • MLF • Press Releases
+      - link "Beaver Lake returns to national scene as host of Stage 5 5d • Mitchell Forde • Bass Pro Tour" [ref=e70] [cursor=pointer]:
+        - /url: https://majorleaguefishing.com/bass-pro-tour/beaver-lake-returns-to-national-scene-as-host-of-stage-5/
+        - generic [ref=e71]: Beaver Lake returns to national scene as host of Stage 5
+        - generic [ref=e72]: 5d • Mitchell Forde • Bass Pro Tour
+      - link "Bass Pro Tour set for debut at Beaver Lake with Yuengling Light Lager Stage 5 Presented by YETI 6d • MLF • Press Releases" [ref=e73] [cursor=pointer]:
+        - /url: https://majorleaguefishing.com/press-releases/bass-pro-tour-set-for-debut-at-beaver-lake-with-yuengling-light-lager-stage-5-presented-by-yeti/
+        - generic [ref=e74]: Bass Pro Tour set for debut at Beaver Lake with Yuengling Light Lager Stage 5 Presented by YETI
+        - generic [ref=e75]: 6d • MLF • Press Releases
+      - 'link "Top 10 baits: Full gamut on display at Table Rock 1w • Tyler Brinks, Phoenix Moore • Bass Pro Tour" [ref=e76] [cursor=pointer]':
+        - /url: https://majorleaguefishing.com/bass-pro-tour/top-10-baits-full-gamut-on-display-at-table-rock/
+        - generic [ref=e77]: "Top 10 baits: Full gamut on display at Table Rock"
+        - generic [ref=e78]: 1w • Tyler Brinks, Phoenix Moore • Bass Pro Tour
+      - 'link "MATTEO TURANO: From BFLs to REDCREST 1w • Matteo Turano • Angler Columns" [ref=e79] [cursor=pointer]':
+        - /url: https://majorleaguefishing.com/angler-columns/matteo-turano-from-the-bfls-to-redcrest/
+        - generic [ref=e80]: "MATTEO TURANO: From BFLs to REDCREST"
+        - generic [ref=e81]: 1w • Matteo Turano • Angler Columns
+      - link "Before REDCREST, MLF pros give back with Suzuki Marine lake cleanup at Table Rock Lake 1w • MLF • Press Releases" [ref=e82] [cursor=pointer]:
+        - /url: https://majorleaguefishing.com/press-releases/before-redcrest-mlf-pros-give-back-with-suzuki-marine-lake-cleanup-at-table-rock-lake/
+        - generic [ref=e83]: Before REDCREST, MLF pros give back with Suzuki Marine lake cleanup at Table Rock Lake
+        - generic [ref=e84]: 1w • MLF • Press Releases
+      - link "Emptying the notebook from a memorable REDCREST on Table Rock 1w • Mitchell Forde • Bass Pro Tour" [ref=e85] [cursor=pointer]:
+        - /url: https://majorleaguefishing.com/bass-pro-tour/emptying-the-notebook-from-a-memorable-redcrest-on-table-rock/
+        - generic [ref=e86]: Emptying the notebook from a memorable REDCREST on Table Rock
+        - generic [ref=e87]: 1w • Mitchell Forde • Bass Pro Tour
+      - 'link "GALLERY: Wheeler celebrated at Champions Toast Presented by Cigars International 1w • Phoenix Moore • Bass Pro Tour" [ref=e88] [cursor=pointer]':
+        - /url: https://majorleaguefishing.com/bass-pro-tour/gallery-wheeler-celebrated-at-champions-toast-presented-by-cigar-international/
+        - generic [ref=e89]: "GALLERY: Wheeler celebrated at Champions Toast Presented by Cigars International"
+        - generic [ref=e90]: 1w • Phoenix Moore • Bass Pro Tour
+      - 'link "GALLERY: Top 10 pros regale REDCREST fans at postgame show 1w • Phoenix Moore, Rob Matsuura, Tyler Brinks • Bass Pro Tour" [ref=e91] [cursor=pointer]':
+        - /url: https://majorleaguefishing.com/bass-pro-tour/gallery-top-10-pros-regale-redcrest-fans-at-post-game-show/
+        - generic [ref=e92]: "GALLERY: Top 10 pros regale REDCREST fans at postgame show"
+        - generic [ref=e93]: 1w • Phoenix Moore, Rob Matsuura, Tyler Brinks • Bass Pro Tour
+      - link "Wheeler a REDCREST winner at last 1w • Mitchell Forde • Bass Pro Tour" [ref=e94] [cursor=pointer]:
+        - /url: https://majorleaguefishing.com/bass-pro-tour/wheeler-a-redcrest-winner-at-last/
+        - generic [ref=e95]: Wheeler a REDCREST winner at last
+        - generic [ref=e96]: 1w • Mitchell Forde • Bass Pro Tour
+    - generic [ref=e97]:
+      - generic [ref=e99]:
+        - heading "Drop-Shot 101 with Aaron Martens" [level=1] [ref=e100]
+        - heading [level=5]
+        - generic [ref=e101]:
+          - img "Image for Drop-Shot 101 with Aaron Martens" [ref=e102]
+          - generic [ref=e103]: Aaron Martens at work with a drop-shot. The Alabama pro has fished this finesse presentation all over the country. Photo by Joel Shangle
+          - generic [ref=e104]:
+            - text: October 30, 2019 • Mason Prince •
+            - link "Bass Pro Tour" [ref=e105] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/bass-pro-tour/
+          - paragraph [ref=e106]:
+            - text: MLF pro
+            - link "Aaron Martens" [ref=e107] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/angler/aaron-martens/
+            - text: – whether he wants to be or not – is known around the bass-fishing world for his mastery of the drop-shot technique. Martens
+            - link "rode his drop-shot skill all the way to the bank in June (opens in a new tab)" [ref=e108] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/bass-pro-tour/martens-rides-deep-drop-shot-to-win-at-table-rock/
+              - text: rode his drop-shot skill all the way to the bank in June
+            - text: ", winning a $100,000 check and the Stage Six Championship on Table Rock Lake in Missouri."
+          - paragraph [ref=e109]: The California pro frequently protests that he’s not crazy about being known as a “drop-shot guy,” but if it keeps winning him events, he’ll learn to live with it.
+          - paragraph [ref=e110]: “The thing about a drop-shot is that it is almost always the way to go,” Martens stated. “I kind of kick myself for not using it enough sometimes. I usually have one to three drop-shots tied on and ready to go at any given time during an event.”
+          - heading "Where it Works" [level=3] [ref=e111]:
+            - strong [ref=e112]: Where it Works
+          - paragraph [ref=e113]: Martens has fished a drop-shot all over the country during his 22 years as a professional, so he’s found some places where it can work better than others.
+          - paragraph [ref=e114]: “I tend to throw drop-shots less often when I’m fishing in the southern United States,” Martens explained. “If there’s a really muddy lake with dirty water, then it’s usually not the best place to use a drop-shot. Since a drop-shot suspends instead of hitting the bottom, it’s harder for a fish to locate in dingy water. You need clear water with good visibility to be able to use one effectively. That’s why it’s more of a northern-style bait.”
+          - heading "Follow the Leader" [level=3] [ref=e115]:
+            - strong [ref=e116]: Follow the Leader
+          - paragraph [ref=e117]: "When Martens is setting up his drop-shot rig, he starts with a spinning rod spooled with 16-pound Sunline SX1 braided line. The bait can vary, but the hook stays consistent: Martens goes with a Gamakatsu G-Finesse Heavy Cover Hook when drop-shotting. But almost as important as all of those aspects is the length of his 8- to 10-pound fluorocarbon leader."
+          - paragraph [ref=e118]: “The leader is an important part of the drop-shot and that length can change depending on different variables,” Martens detailed. “If the water is really dirty, then I go with the shortest leaders I use, around 1 to 2 inches. In clear water where the visibility is around 20 to 30 feet, I go with 2- or 3-foot leaders. On average, I would say 8 to 10 inches is probably your best bet.”
+          - heading "Worth the Weight" [level=3] [ref=e119]:
+            - strong [ref=e120]: Worth the Weight
+          - paragraph [ref=e121]: You can’t have a drop-shot without a weight, and Martens has some preferences about weights. However, it’s all dependent on the conditions.
+          - paragraph [ref=e122]: “I use a 3/16-ounce weight normally on my drop-shots,” Martens said. “Sometimes that can vary with either a 1/16-ounce or a 1/8-ounce if there’s no wind and the water is clear. If the fish are more aggressive and the conditions are a little tougher, you might need to up your weight to 1/4-ounce. It’s just something you have to figure out and adjust to while you’re out there.”
+          - heading "Knot Up for Debate" [level=3] [ref=e123]:
+            - strong [ref=e124]: Knot Up for Debate
+          - paragraph [ref=e125]: Martens points out that a drop-shot is one of the most simplistic rigs that you can throw, but there are little things you can change to make it even better. One of the biggest mistakes the Simms pro sees from his fellow drop-shotting anglers is the knots they’re tying.
+          - paragraph [ref=e126]: “A lot of anglers still use a Palomar knot to tie their drop-shots and that’s just not ideal,” Martens advised. “A Palomar knot can take so much punishment from the fish when you set the hook because there’s no weight in front of it, it’s just straight line. What I choose to tie instead is a Double Uni knot, it works better for me and is more reliable.”
+          - paragraph [ref=e127]: Armed with these little tidbits of information, Martens believes that you can catch fish at a blistering pace if you utilize the simple yet effective drop-shot.
+      - generic [ref=e129]:
+        - 'heading "FantasyFishing.com Insider: Looking at distant and recent past to break down Beaver Lake" [level=1] [ref=e130]'
+        - heading [level=5]
+        - generic [ref=e131]:
+          - 'img "Image for FantasyFishing.com Insider: Looking at distant and recent past to break down Beaver Lake" [ref=e132]'
+          - generic [ref=e133]:
+            - text: April 27, 2026 • Mitchell Forde •
+            - link "Fantasy Fishing" [ref=e134] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/fantasy-news/
+          - paragraph [ref=e135]:
+            - text: For the first time in almost a decade, Beaver Lake will return to the top level of tournament fishing this week as the
+            - link "Bass Pro Tour" [ref=e136] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/circuits/bass-pro-tour/
+            - text: visits the Northwest Arkansas fishery for
+            - link "Yuengling Light Lager Stage 5 Presented by YETI" [ref=e137] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/events/2026-04-30-stage-5-beaver-lake/
+            - text: .
+          - paragraph [ref=e138]: Beaver Lake was once a mainstay for the FLW Tour, hosting events every year from 1998 through 2017 with the exception of 2010. As a result, several BPT anglers have a lot of history on the White River impoundment. But given how much both the fishery and the sport have changed in the past nine years, will that be a good thing?
+          - paragraph [ref=e139]:
+            - text: That’s one of the big questions
+            - link "Phoenix Fantasy Fishing Presented by 13 Fishing" [ref=e140] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/fantasy-fishing/
+            - text: players will have to ponder as they pick their teams for Stage 5. Here is a full breakdown of who has fared well on Beaver in the past, who might bring a new-school skill set and momentum to the event and more information to help you pick a winning lineup.
+          - paragraph [ref=e141]: Be sure to submit your picks before lines in at 7:45 a.m. CT on Thursday, April 30.
+          - heading "The Beaver Lake all-stars" [level=3] [ref=e142]
+          - figure "Bryan Thrift has a win and two other Top 10s in 10 career events on Beaver Lake. Photo by Rob Newell" [ref=e143]:
+            - generic [ref=e144]: Bryan Thrift has a win and two other Top 10s in 10 career events on Beaver Lake. Photo by Rob Newell
+          - paragraph [ref=e145]: Even though Beaver hasn’t been on a national tournament schedule for a while, quite a few of the competitors at Stage 5 will find the playing field familiar. Twenty-two of the 51 pros have fished at least three past MLF events on the lake, while five have fished 10 or more.
+          - paragraph [ref=e146]:
+            - text: That includes a pair of past winners on Beaver in
+            - link "David Dudley" [ref=e147] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/david-dudley/
+            - text: and
+            - link "Bryan Thrift" [ref=e148] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/bryan-thrift/
+            - text: . Thrift won an FLW Tour event on the fishery in March of 2011, while Dudley prevailed the following year. Dudley, in particular, could be one to watch at this event. Even though it’s been 14 years, his win on Beaver came at almost the exact same time of year as this event, and the wacky-worm expert is always at his best around the spawn.
+          - paragraph [ref=e149]:
+            - text: Dudley and Thrift also each boast a pair of other Top-10 finishes on Beaver. Other anglers with multiple Top 10s on the lake include
+            - link "Mark Rose" [ref=e150] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/mark-rose/
+            - text: (an Arkansas native who leads the way with four Top 10s) and
+            - link "Wesley Strader" [ref=e151] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/wesley-strader/
+            - text: (who has more starts on Beaver than anyone else in the field with 20).
+          - heading "Table Rock repeats" [level=3] [ref=e152]
+          - figure "Jacob Wheeler will look to become the first angler ever to win three straight Bass Pro Tour events at Beaver Lake. Photo by Rob Matsuura" [ref=e153]:
+            - generic [ref=e154]: Jacob Wheeler will look to become the first angler ever to win three straight Bass Pro Tour events at Beaver Lake. Photo by Rob Matsuura
+          - paragraph [ref=e155]: While past success on a fishery usually can’t hurt, there’s a chance that it could be a red herring for this tournament. All those FLW Tour events on Beaver were contested with five-fish limits, while this one will be every fish counts (over the minimum scorable weight of 1 pound, 8 ounces). Plus, modern technology has changed the game, especially on clear-water fisheries like Beaver.
+          - paragraph [ref=e156]:
+            - text: But even if you don’t put much stock in past Beaver results, there’s an event that could offer some clues about who to pick – the most recent one we had, in fact. Just one lake below Beaver on the White River, Table Rock Lake hosted
+            - link "REDCREST" [ref=e157] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/events/2026-04-17-table-rock-lake/
+            - text: all of two weeks ago, and there’s a good chance we see a lot of the same techniques and patterns in play. Really, you could pick the entire Top 10 from REDCREST for your fantasy squad and feel pretty good about it, but a few jump out as must-picks.
+          - paragraph [ref=e158]:
+            - text: Coming off back-to-back BPT wins,
+            - link "Jacob Wheeler" [ref=e159] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/jacob-wheeler/
+            - text: is a no-brainer. Same goes for
+            - link "Drew Gill" [ref=e160] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/drew-gill-2/
+            - text: ", who has two wins and five Top 10s in eight tour-level events so far in 2026."
+            - link "Zack Birge" [ref=e161] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/zack-birge/
+            - text: continued his exceptional season with a third-place showing on Table Rock, so it would be hard to pass him up, too.
+            - link "Alton Jones Jr." [ref=e162] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/alton-jones-jr/
+            - text: is good everywhere at any time, but he’s especially dangerous around the spawn. And
+            - link "Brent Ehrler" [ref=e163] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/brent-ehrler/
+            - text: combines Beaver experience with momentum. He’s fished nine past events on the lake (with a Top 10 in 2009), and he’s coming off consecutive Top 10s, including a fourth-place finish at REDCREST.
+          - heading "Arkansas anglers at an advantage?" [level=3] [ref=e164]
+          - figure "Spencer Shuffield will look to keep his recent momentum rolling in his home state. Photo by Phoenix Moore" [ref=e165]:
+            - generic [ref=e166]: Spencer Shuffield will look to keep his recent momentum rolling in his home state. Photo by Phoenix Moore
+          - paragraph [ref=e167]:
+            - text: No one in the field is a true local to Beaver Lake, but in addition to Rose, there are three more Arkansas natives who should have a pretty good idea of how to attack the fishery. The most popular pick of the bunch will likely be
+            - link "Spencer Shuffield" [ref=e168] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/spencer-shuffield-515616/
+            - text: . Shuffield has knocked out five Top 10s in his past eight Bass Pro Tour events dating back to last season, and he’s one of the best with forward-facing sonar, which will probably be a player at this event.
+            - link "Dylan Hays" [ref=e169] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/dylan-hays/
+            - text: and
+            - link "Mark Davis" [ref=e170] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/mark-davis/
+            - text: also have plenty of experience on Ozark-area highland reservoirs.
+          - heading "Other names to know" [level=3] [ref=e171]
+          - figure "Banks Shaw will hope to bounce back from a pair of sub-30 finishes in his past two Bass Pro Tour events. Photo by Phoenix Moore" [ref=e172]:
+            - generic [ref=e173]: Banks Shaw will hope to bounce back from a pair of sub-30 finishes in his past two Bass Pro Tour events. Photo by Phoenix Moore
+          - list [ref=e174]:
+            - listitem [ref=e175]:
+              - link "Banks Shaw" [ref=e176] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/banks-shaw-6/
+              - text: – Remember him? The rookie came back to Earth a bit with a rough Texas swing that saw him miss the cut at both Stage 3 and 4, but I’m not willing to leave him off my lineup. The 22-year-old still has a Tackle Warehouse Pro Circuit win and five other Top 10s in 2026 alone.
+            - listitem [ref=e177]:
+              - link "Justin Lucas" [ref=e178] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/justin-lucas/
+              - text: – Lucas is sure to be mad at ‘em after he surprisingly struggled at REDCREST. That’s a scary proposition for an angler who hasn’t missed a Knockout Round yet this year at a regular-season event.
+            - listitem [ref=e179]:
+              - link "Jesse Wiggins" [ref=e180] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/jesse-wiggins/
+              - text: – A fishery with spotted bass in it at a time when they’ll likely be on or near spawning beds? This event has Wiggins’ name all over it. He might never have to put down his trusty shaky head.
+          - heading "My picks" [level=3] [ref=e181]
+          - paragraph [ref=e182]:
+            - strong [ref=e183]: "Flight 1:"
+            - text: Brent Ehrler, Drew Gill, Alton Jones Jr., Wesley Strader, Jesse Wiggins
+          - paragraph [ref=e184]:
+            - strong [ref=e185]: "Flight 2:"
+            - text: Zack Birge, David Dudley, Spencer Shuffield, Banks Shaw, Jacob Wheeler
+      - generic [ref=e187]:
+        - heading "Robison shines for Montevallo in REDCREST at Table Rock" [level=1] [ref=e188]
+        - heading "Mercury pro becomes highest-finishing College Fishing angler to compete in MLF's signature event" [level=5] [ref=e189]
+        - generic [ref=e190]:
+          - img "Image for Robison shines for Montevallo in REDCREST at Table Rock" [ref=e191]
+          - generic [ref=e192]: Brody Robison represented collegiate anglers in style at REDCREST. Photo by Phoenix Moore.
+          - generic [ref=e193]:
+            - text: April 25, 2026 • Jody White •
+            - link "Columbia PFG College Fishing" [ref=e194] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/college/
+          - paragraph [ref=e195]:
+            - link "Brody Robison" [ref=e196] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/brody-robison-2/
+            - text: is only the third
+            - link "Columbia PFG College Fishing Presented by Abu Garcia" [ref=e197] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/circuits/college/
+            - text: angler to make REDCREST, but at
+            - link "Bass Pro Shops REDCREST Presented by Mercury & Lowrance" [ref=e198] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/events/2026-04-17-table-rock-lake/
+            - text: on Table Rock, he definitely added a highlight to the ledger. In 2024 at Lay Lake,
+            - link "Dalton Head" [ref=e199] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/dalton-head-5/
+            - text: finished 12th; then in 2025,
+            - link "Braylon Eggerding" [ref=e200] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/braylon-eggerding-2/
+            - text: finished 39th at Guntersville. Last week at Table Rock, Robison finished 11th, missing out on a Championship Round appearance by tiebreaker.
+          - paragraph [ref=e201]: Doing that well in the biggest event of the University of Montevallo angler’s career definitely qualifies as a success, especially when viewed from the outside. But for Robison, it also brought some missteps into sharp focus.
+          - heading "Near-miss gives Robison areas to improve" [level=3] [ref=e202]
+          - figure "Another ounce or one more bass would have put Robison in contention for the win on the final day. Photo by Phoenix Moore" [ref=e203]:
+            - generic [ref=e204]: Another ounce or one more bass would have put Robison in contention for the win on the final day. Photo by Phoenix Moore
+          - paragraph [ref=e205]:
+            - text: When the Qualifying Round wrapped up, Robison was tied by weight with
+            - link "Brent Ehrler" [ref=e206] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/brent-ehrler/
+            - text: but on the outside looking in to the Championship Round.
+          - paragraph [ref=e207]: “Personally, I’m pretty upset with my performance, but I know I should be very grateful for that finish in that caliber of a tournament,” he said. “It’s just, I’m a competitor. I like to win. I had so many missed opportunities. It just wasn’t my time.”
+          - paragraph [ref=e208]: In need of one more scorable bass, Robison had it on the line and then some.
+          - paragraph [ref=e209]: “I had one in my arms – it was a 2-12, a spawning smallmouth I caught on Day 1,” he explained. “I rolled up on her, hooked her first cast, had her in my arms, full-on smallie scoop, and a wave pulled her out. My elbow dropped down, and she slipped out of my arm. Pretty brutal looking back now, but it didn’t feel bad then. I was catching them every cast.”
+          - paragraph [ref=e210]: Of course, that one fish cost him, but there could have been other chances as well.
+          - paragraph [ref=e211]: “I only needed one more bass, not just that day, but over the two days,” he said. “It definitely makes you rethink the whole tournament.”
+          - paragraph [ref=e212]: As a newcomer to the every-fish-counts format, Robison thinks that there’s the most room for improvement on the strategic side of the game.
+          - paragraph [ref=e213]: “The first day, I didn’t really know what I was going to do – that was a lack of preparation for that format,” he said. “In my head, I thought I could fish it like a normal tournament and kind of fish around for the first period before everyone got on a hot streak. But those guys start out on a hot streak. I tried to do a bait deal the first morning, and it completely burned me. I thought spawning smallmouth were my backup plan, but it turned out that should have been my initial plan.”
+          - paragraph [ref=e214]:
+            - text: That scale of ‘hurry up and catch’ is something that Robison will have a better grasp of if he finds himself in another REDCREST or competing on the
+            - link "Bass Pro Tour" [ref=e215] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/circuits/bass-pro-tour/
+            - text: down the line.
+          - paragraph [ref=e216]: “It’s one of those deals where you’ve got to be part of it to understand what you should have done,” said Robison. “Everybody’s different. The way I practice for a tournament is I go check off boxes. I have a lot of ideas and go over water and rule out crazy ideas that were in my head. For that tournament, you need to practice every day as (if it were) the tournament, and you need to be landing on the highest percentage water every time you drop the trolling motor come tournament time. You have no time for running crazy ideas or weird little nuances. It has to be the best water you found every time you drop the trolling motor.”
+          - heading "Still a lot to be proud of" [level=3] [ref=e217]
+          - figure "Brody Robison didn’t fish like a newcomer to REDCREST. Photo by Rob Matsuura" [ref=e218]:
+            - generic [ref=e219]: Brody Robison didn’t fish like a newcomer to REDCREST. Photo by Rob Matsuura
+          - paragraph [ref=e220]: Despite a painful near-miss, Robison wasn’t far off the winning pattern, and he figured out a lot of the best things to be doing on Table Rock for the week. That, strategy aside, is a big part of tournament fishing.
+          - paragraph [ref=e221]: “I love Table Rock; it’s very versatile and it seems very patternable,” he said. “It seems like when you get on a deal, you can stay on a deal.”
+          - paragraph [ref=e222]: After trying unsuccessfully to ‘Scope fish on bait early on Day 1, Robison pivoted and put up four smallmouth in about 15 minutes.
+          - paragraph [ref=e223]: “I just started running isolated stumps in 8 to 20 foot of water, throwing that CAST Fishing Co. Nova on a Ned rig, a shaky head and a Berkley Lab Series Minnow. I was just picking those fish off. If they wouldn’t bite first cast, I would roll on, because I had about 50 of them marked. I ran that deal the whole first period.”
+          - paragraph [ref=e224]: After that, with his forward-facing sonar cut off, Robison transitioned to a cool largemouth pattern, fishing for spawning bass that he located on the fly.
+          - paragraph [ref=e225]: “I was fishing 45-degree banks – areas I could make one cast with a bait that had significant draw power and cover the whole spawning column,” he explained. “So, I was running banks that I could have that coverage on, doing some sight fishing, but most of it was just blind casting and keeping an eye on my bait.
+          - paragraph [ref=e226]: “I’d use something to pull them to the boat, and then break them down from there,” he said. “It’s a cool deal. I did it on Norfork freshman year in a college tournament, and I’ll be honest, in practice one day I had like 30 scorables doing it.”
+          - paragraph [ref=e227]: Unfortunately, the pattern also showed Robison that he’d made another slight misstep.
+          - paragraph [ref=e228]:
+            - emphasis [ref=e229]: “
+            - text: I thought I was really going to smash them,” he said. “But, the area of the lake I was in, I think they were finishing up spawning, rather than the area everyone else was, where the fish were getting in the heat of the spawn. By the tournament, a lot of my fish were turning into fry-guarders or making their way out.
+          - paragraph [ref=e230]: “Day 2, I went the whole second period and only had one bass,” he said. “The last period, I started getting on transition banks and gizzard spawn areas, and that’s where I caught my last couple fish.”
+          - paragraph [ref=e231]: It would have been easy for Robison to miss the adjustment on Day 2 and go down with the ship. Instead, he hung in there, putting the heat on the competition and finishing ahead of several seasoned pros.
+          - paragraph [ref=e232]: All told, it was another big success for Robison and Montevallo angling.
+          - paragraph [ref=e233]:
+            - text: “The whole thing was really special,” he said. “It’s a different feeling, blasting off next to all my heroes. And even being in the boat yard around those guys, it’s crazy. And that format, I had no idea how strenuous that was. I mean it – I’ve never fished that hard in my life. Props to those guys for doing it day in, day out, especially those guys like
+            - link "Jacob Wheeler" [ref=e234] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/jacob-wheeler/
+            - text: and
+            - link "Drew Gill" [ref=e235] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/drew-gill-2/
+            - text: and
+            - link "Dustin Connell" [ref=e236] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/dustin-connell/
+            - text: ", who absolutely catch ‘em every time – that is insane. It was a super cool experience, and I’m very grateful to finish that high.”"
+      - generic [ref=e238]:
+        - 'heading "WESLEY STRADER: Table Rock the perfect primer for our return to Beaver Lake" [level=1] [ref=e239]'
+        - heading "Mercury pro anxious to return to Ozarks following REDCREST success" [level=5] [ref=e240]
+        - generic [ref=e241]:
+          - 'img "Image for WESLEY STRADER: Table Rock the perfect primer for our return to Beaver Lake" [ref=e242]'
+          - generic [ref=e243]: Mercury pro Wesley Strader is one of several former FLW Tour anglers who is looking forward to returning to a staple fishery at Stage 5 on Beaver Lake. Photo by Tyler Brinks.
+          - generic [ref=e244]:
+            - text: April 24, 2026 • Wesley Strader •
+            - link "Angler Columns" [ref=e245] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/angler-columns/
+          - paragraph [ref=e246]:
+            - text: We just wrapped up
+            - link "REDCREST" [ref=e247] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/events/2026-04-17-table-rock-lake/
+            - text: in the heart of the Ozarks on Table Rock Lake, and now we’re getting ready to almost go right back to the same place when we go to
+            - link "Yuengling Light Lager Stage 5 Presented by YETI" [ref=e248] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/events/2026-04-30-stage-5-beaver-lake/
+            - text: on Beaver Lake, just one lake up on the White River.
+          - paragraph [ref=e249]: I’m looking forward to going back and seeing the lake again, since it’s been about 10 years since I’ve been there, and I used to go nearly every year when I fished the FLW Tour.
+          - paragraph [ref=e250]: Beaver Lake was a staple for our schedule back then. I know I’ve been there 15 or 16 times, maybe even more. I’m interested to see how the fishing is, but I’m also glad we just wrapped up Table Rock, because I think we’ll see a lot of the same things happening.
+          - heading "Back to Beaver" [level=3] [ref=e251]
+          - paragraph [ref=e252]: After going to Beaver Lake for so long, it will be pretty fun to be back. I can’t think of any big tournaments that have been back there since then, so the fishing will also be a mystery for most of us.
+          - paragraph [ref=e253]: We only have two days to practice, and it’s a big lake, like Table Rock. So, it will be a challenge to dial it in quickly. When we went with the FLW Tour, we had some early events in February and some later ones in May, but it seemed like almost all of them were around the same time in April.
+          - figure "Like Table Rock, Beaver Lake has no shortage of both rock and wood cover. Photo by Rob Matsuura" [ref=e254]:
+            - generic [ref=e255]: Like Table Rock, Beaver Lake has no shortage of both rock and wood cover. Photo by Rob Matsuura
+          - paragraph [ref=e256]: Every year, it seemed like the fish were on a different type of cover. Beaver has a lot more visible timber than Table Rock. Some years, it’d be all about the pole timber; then one year, it could be the cedars; and some years, it was the old oak timber. That’s another thing we’ll have to figure out right away.
+          - paragraph [ref=e257]: Our two days of practice won’t be enough time to run history and check out everything I’ve fished in the past from one end to the other, but one thing we never had back then was forward-facing sonar. Having my Lowrance ActiveTarget 2 will speed up the process a bit and help me check whether they’re in the trees.
+          - heading "Sticking to Ozark staples" [level=3] [ref=e258]
+          - paragraph [ref=e259]: I had a solid event at REDCREST, finishing 13th, and that will be a good primer as we start practice for Beaver. One thing that always plays in the Ozarks this time of year is rock transitions, and that’s what I was fishing on Table Rock.
+          - paragraph [ref=e260]: I’m always looking for the gravel mix – maybe it’s where gravel and chunk rock come together or some other rock transition. That’s always a big deal on these lakes, but it does depend on what stage of the spawn they are in.
+          - paragraph [ref=e261]: It should be very similar to what we saw on Table Rock, because Beaver Lake is usually a little behind. With our event right around a full moon, there’s a chance that we could see a full-blown spawning event. That could make the spawning bite the winning pattern, especially since our minimum weight for a scorable bass on Beaver Lake is lower, at 1 pound, 8 ounces, which could put a lot more of those spawning spotted bass in play.
+          - paragraph [ref=e262]: Another staple in the Ozarks this time of year is a crawfish crankbait, and we saw some of that on Table Rock. It will be an even bigger factor next week. Beaver Lake is a notorious wiggle-wart-style crankbait lake on those rock transitions.
+          - paragraph [ref=e263]: Beaver has so many crawfish in it, and some of the biggest ones I’ve ever seen in my life – they look like baby lobsters. They were as big as the tips of your fingers to your wrist. You’d also catch a big largemouth and see those pinchers sticking out of their throat sometimes, so I’m thinking a crawfish-colored crankbait will again be a great way to catch them.
+          - paragraph [ref=e264]: It’s been a long time since we’ve been to Beaver Lake, but it should bring back some good memories for all of us who fished the FLW Tour back in the day.
+      - generic [ref=e266]:
+        - heading "MLF Fisheries Management Division, Zoeller Pumps donate $11,000 to James River Basin Partnership" [level=1] [ref=e267]
+        - heading "Funding supports septic pump-out rebate program improving water quality in the James River and Table Rock Lake" [level=5] [ref=e268]
+        - generic [ref=e269]:
+          - img "Image for MLF Fisheries Management Division, Zoeller Pumps donate $11,000 to James River Basin Partnership" [ref=e270]
+          - generic [ref=e271]:
+            - text: April 23, 2026 • MLF •
+            - link "Press Releases" [ref=e272] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/press-releases/
+          - paragraph [ref=e273]:
+            - text: SPRINGFIELD, Mo. – During the REDCREST 2026 Post Game Show on Friday, April 17, the Major League Fishing (MLF)
+            - link "Fisheries Management Division (FMD)" [ref=e274] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/fisheries-management/
+            - text: ", alongside program partner Zoeller Pumps, announced a significant investment in Ozarks water quality efforts with an $11,000 donation to the James River Basin Partnership (JRBP)."
+          - paragraph [ref=e275]:
+            - text: Presented by MLF Co-Founder and FMD Co-Director
+            - link "Gary Klein" [ref=e276] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/gary-klein/
+            - text: on behalf of Zoeller Pumps, the contribution marks the first of three conservation projects under the newly launched MLF FMD Zoeller Pumps “We Work For Water” program. The funding will directly support JRBP’s long-running “Fresh Flush” Septic Pump-Out Rebate Program, an initiative designed to improve water quality in the James River – the largest tributary feeding into Table Rock Lake.
+          - paragraph [ref=e277]: “Programs like this are exactly what fisheries management should look like – practical, measurable and rooted in community impact,” Klein said. “This investment helps address water quality at its source, ensuring that fisheries like Table Rock Lake remain healthy and productive for generations to come.”
+          - paragraph [ref=e278]: Established in 2003, the Fresh Flush program was one of the first major cost-share initiatives launched by JRBP after the James River was designated as impaired due to severe algae blooms in the late 1990s. Originally funded through Clean Water Act Section 319 grants, the program has since been sustained through a combination of municipal partnerships and private contributions.
+          - paragraph [ref=e279]: To date, more than 6,800 septic systems have been serviced through the rebate program, which typically processes 160 to 200 rebates annually. Homeowners within the basin are eligible to receive up to $150 per property each year to offset the cost of professional septic tank pump-outs.
+          - paragraph [ref=e280]: The program plays a critical role in reducing nutrient loading – specifically nitrogen and phosphorus – from failing or poorly maintained septic systems. These nutrients can contribute to harmful algal blooms that negatively impact fish populations and water quality. Long-term monitoring shows a 25% reduction in phosphorus concentrations in the James River since the program’s inception.
+          - paragraph [ref=e281]: Beyond ecological benefits, the initiative has delivered measurable improvements in public health. By addressing septic system failures in the Ozarks’ porous karst terrain, the program has significantly reduced E. coli contamination levels. From 2015 to 2024, the river achieved an average 84% passing rate for recreational safety standards — an important milestone compared to historically volatile and often unsafe conditions.
+          - paragraph [ref=e282]: The James River arm serves as a critical spawning ground for both largemouth and spotted bass, making water quality improvements essential to sustaining one of the region’s most valuable fisheries.
+          - paragraph [ref=e283]: “This is a great example of how local action can create lasting impact,” Klein added. “When you improve water quality upstream, you’re protecting everything downstream – from fish populations to the communities that depend on these resources.”
+          - paragraph [ref=e284]: The MLF Fisheries Management Division continues to expand its conservation footprint through strategic partnerships like the Zoeller Pumps “We Work For Water” program, supporting initiatives that deliver real-world results for fisheries, habitats and local communities.
+          - paragraph [ref=e285]:
+            - text: For more information about the Fresh Flush program or to apply for a rebate, visit
+            - link "JamesRiverBasin.com" [ref=e286] [cursor=pointer]:
+              - /url: https://www.jamesriverbasin.com/
+            - text: .
+          - paragraph [ref=e287]:
+            - text: For complete details and updated information on Major League Fishing and the Bass Pro Tour, visit
+            - link "MajorLeagueFishing.com" [ref=e288] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/
+            - text: . For regular updates, photos, tournament news and more, follow MLF’s social media outlets at
+            - link "Facebook" [ref=e289] [cursor=pointer]:
+              - /url: https://www.facebook.com/MajorLeagueFishing
+            - text: ","
+            - link "X" [ref=e290] [cursor=pointer]:
+              - /url: https://twitter.com/MajorLeagueFish
+            - text: ","
+            - link:
+              - /url: https://www.instagram.com/majorleaguefishingofficial/
+            - link "Instagram" [ref=e291] [cursor=pointer]:
+              - /url: https://www.instagram.com/majorleaguefishingofficial/
+            - text: ","
+            - link "Rumble" [ref=e292] [cursor=pointer]:
+              - /url: https://rumble.com/c/MajorLeagueFishing
+            - text: and
+            - link "YouTube" [ref=e293] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCQF_5AVYaUcnRFJ_UmMgKTw
+            - text: .
+      - generic [ref=e295]:
+        - heading "Bass Pro Tour pros bring hands-on learning to WOLF School during REDCREST week" [level=1] [ref=e296]
+        - heading [level=5]
+        - generic [ref=e297]:
+          - img "Image for Bass Pro Tour pros bring hands-on learning to WOLF School during REDCREST week" [ref=e298]
+          - generic [ref=e299]:
+            - text: April 23, 2026 • MLF •
+            - link "Press Releases" [ref=e300] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/press-releases/
+          - paragraph [ref=e301]:
+            - text: SPRINGFIELD, Mo. – As part of REDCREST week festivities, three Major League Fishing (MLF)
+            - link "Bass Pro Tour (BPT)" [ref=e302] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/circuits/bass-pro-tour/
+            - text: anglers traded their rods and reels for a classroom setting last Thursday, visiting fifth grade students at the WOLF School for an interactive, hands-on learning experience centered on conservation, careers and competitive fishing.
+          - paragraph [ref=e303]:
+            - text: BPT pros and
+            - link "REDCREST 2026" [ref=e304] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/events/2026-04-17-table-rock-lake/
+            - text: competitors
+            - link "Edwin Evers" [ref=e305] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/edwin-evers/
+            - text: ","
+            - link "Jake Lawrence" [ref=e306] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/jake-lawrence-500859/
+            - text: and
+            - link "Wesley Strader" [ref=e307] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/wesley-strader/
+            - text: joined MLF Competition Officials Butch Lansford and Brian Poppe along with MLF Senior Manager of PR and Communications Charity Muehlenweg to engage students in a unique program designed to go beyond a traditional classroom visit.
+          - paragraph [ref=e308]: Rather than simply speaking to the students, the anglers challenged them to think like professionals. Working alongside the pros, students were tasked with building the “perfect bass lake,” considering key elements such as habitat, water quality and fish care. From there, the classroom transformed into a mock tournament setting, with students assigned real-world roles, including tournament director, fisheries biologist and television talent.
+          - paragraph [ref=e309]: Each group was then presented with real scenarios that can occur during a Bass Pro Tour tournament and asked to problem-solve as a team, offering a firsthand look at the many moving parts that go into running a professional fishing tournament.
+          - paragraph [ref=e310]:
+            - strong [ref=e311]:
+              - emphasis [ref=e312]: Photos from the WOLF School visit can be found
+            - link "here" [ref=e313] [cursor=pointer]:
+              - /url: https://www.dropbox.com/scl/fo/79wjk257qim85fz5oc5f8/AJT0z8RimpnywW_8r-1SIO8?rlkey=gzvi9sxejfctp27d42sr6qq4r&st=pgx3r3ye&dl=0
+              - strong [ref=e314]:
+                - emphasis [ref=e315]: here
+            - strong [ref=e316]:
+              - emphasis [ref=e317]: .
+          - paragraph [ref=e318]: Students also learned about MLF Fisheries Management Division’s conservation initiatives, water safety and proper fish-handling techniques while exploring a wide range of career opportunities within the fishing and outdoors industry. The interactive format encouraged participation, creativity and critical thinking, highlighted by the “You Be the Biologist” activity, where students applied their knowledge to design and manage a thriving fishery.
+          - paragraph [ref=e319]: The visit concluded with a question-and-answer session, followed by autographs and photos with the anglers.
+          - paragraph [ref=e320]: “We wanted the kids to feel like they were part of the program, not just listening to it,” Strader said. “Getting them involved in building a fishery and running a tournament shows them how much goes on behind the scenes. It’s not just about catching fish – it’s about taking care of the resource, solving problems and working as a team. If even a few of them walk away thinking about a future in the outdoors, that’s a win for all of us.”
+          - paragraph [ref=e321]: Community outreach during REDCREST week is one of the ways Major League Fishing connects competition with conservation and education, using the platform of professional fishing to inspire and engage the next generation.
+          - paragraph [ref=e322]: The WOLF School – short for Wonders of the Ozarks Learning Facility – features state-of-the-art classrooms and resources designed to provide fifth grade students with immersive, high-quality educational experiences.
+          - paragraph [ref=e323]: Major League Fishing extends its thanks to the WOLF School for hosting the pros during REDCREST week and helping create a meaningful experience for students.
+          - paragraph [ref=e324]:
+            - text: For complete details and updated information on Major League Fishing and the Bass Pro Tour, visit
+            - link "MajorLeagueFishing.com" [ref=e325] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/
+            - text: . For regular updates, photos, tournament news and more, follow MLF’s social media outlets at
+            - link "Facebook" [ref=e326] [cursor=pointer]:
+              - /url: https://www.facebook.com/MajorLeagueFishing
+            - text: ","
+            - link "X" [ref=e327] [cursor=pointer]:
+              - /url: https://twitter.com/MajorLeagueFish
+            - text: ","
+            - link "Instagram" [ref=e328] [cursor=pointer]:
+              - /url: https://www.instagram.com/majorleaguefishingofficial/
+            - text: ","
+            - link "Rumble" [ref=e329] [cursor=pointer]:
+              - /url: https://rumble.com/c/MajorLeagueFishing
+            - text: and
+            - link "YouTube" [ref=e330] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCQF_5AVYaUcnRFJ_UmMgKTw
+            - text: .
+      - generic [ref=e332]:
+        - heading "Beaver Lake returns to national scene as host of Stage 5" [level=1] [ref=e333]
+        - heading [level=5]
+        - generic [ref=e334]:
+          - img "Image for Beaver Lake returns to national scene as host of Stage 5" [ref=e335]
+          - generic [ref=e336]: Arkansas native Greg Bohannan expects all three bass species to show up when the BPT visits Beaver Lake for Stage 5. Photo by D.W. Reed II
+          - generic [ref=e337]:
+            - text: April 23, 2026 • Mitchell Forde •
+            - link "Bass Pro Tour" [ref=e338] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/bass-pro-tour/
+          - paragraph [ref=e339]: ROGERS, Ark. — For most of the FLW Tour’s existence, Beaver Lake served as an annual destination. From 1998 through 2017, the Northwest Arkansas reservoir hosted FLW Tour events every year except one (2010). However, since that last visit in April of 2017, no national-level tour has been back to Beaver.
+          - paragraph [ref=e340]:
+            - text: That will change this year, as the
+            - link "Bass Pro Tour" [ref=e341] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/circuits/bass-pro-tour/
+            - text: will visit Beaver Lake April 30 through May 3 for
+            - link "Yuengling Light Lager Stage 5 Presented by YETI" [ref=e342] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/events/2026-04-30-stage-5-beaver-lake/
+            - text: . Northwest Arkansas native and longtime former FLW Tour pro
+            - link "Greg Bohannan" [ref=e343] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/greg-bohannan-175226/
+            - text: thinks the lake is poised to put on a show in its return to the national stage.
+          - heading "Another multi-species showdown" [level=3] [ref=e344]
+          - figure "Several former FLW Tour pros will visit a familiar fishery at Beaver Lake, including David Dudley, who won there in 2012. Photo by Brett Carlson" [ref=e345]:
+            - generic [ref=e346]: Several former FLW Tour pros will visit a familiar fishery at Beaver Lake, including David Dudley, who won there in 2012. Photo by Brett Carlson
+          - paragraph [ref=e347]: Many of the FLW Tour stops on Beaver Lake were grinders, with 12 to 15 pounds per day typically earning the win. But between the health of the fishery and the Bass Pro Tour’s every-fish-counts format, Bohannan thinks Stage 5 could be an explosive event.
+          - paragraph [ref=e348]: “In my opinion, it’s fishing as good as it ever has in the history of the lake,” he said. “In our old times, if you caught 8 or 9 pounds a day in an FLW event for two days, you’d always get paid. It is not that way anymore. The numbers are good; all three species’ population is really good. And what used to take 12, 13, 14 pounds to win tournaments, it takes 18 to 20 to win team events out here now.”
+          - paragraph [ref=e349]: Those numbers represent weights for five-fish limits. This event will be the first top-level tournament on Beaver featuring every-fish-counts scoring, which Bohannan thinks is better suited to show off the fishery.
+          - paragraph [ref=e350]:
+            - text: Like Table Rock Lake, which is just above Beaver on the White River (and which just hosted
+            - link "Bass Pro Shops REDCREST Presented by Mercury & Lowrance" [ref=e351] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/events/2026-04-17-table-rock-lake/
+            - text: ), Beaver has a population of all three bass species. Bohannan expects to see largemouth, smallmouth and spotted bass all show up on SCORETRACKER®, with most anglers catching a mixture of species.
+          - paragraph [ref=e352]: “I think in a BPT event, spotted bass are going to play very heavy just because of the numbers of them,” he said. “But all three species will play. The cool thing about this lake is you can catch all three species all mixed together sometimes.”
+          - heading "Key variables to watch" [level=3] [ref=e353]
+          - figure "Beaver Lake has been known to flood in the spring, which could change the complexion of Stage 5. Photo by Sean Ostruszka" [ref=e354]:
+            - generic [ref=e355]: Beaver Lake has been known to flood in the spring, which could change the complexion of Stage 5. Photo by Sean Ostruszka
+          - paragraph [ref=e356]: Anytime an Ozark-area highland reservoir hosts a tournament, the big question mark is water level. Beaver has been known to rise and fall rapidly. Look no further than the last FLW Tour event there for proof – the lake rose about 12 feet from the start of practice to the final day of the event. As of this writing, the lake is close to normal pool, although there is some rain in the forecast prior to the start of the event.
+          - paragraph [ref=e357]: While the water level might determine whether the bulk of the field catches fish shallow or deep, Bohannan expects catch rates to be high regardless. He thinks anglers will be targeting a mixture of spawning and postspawn bass, and just about every tactic will be on the table.
+          - paragraph [ref=e358]: “I think it’ll be a spawn to postspawn event,” he said. “There will still be a lot of fish spawning that first week of May; there will be a lot of them done. It’s probably going to be just past the meat of the spawn, or just past the highest number of fish being on the bed. But that is an excellent time to catch just a tremendous amount of fish.”
+          - paragraph [ref=e359]: With a variety of ways to catch bass, taking advantage of the one period per day in which anglers are allowed to use forward-facing sonar might not exactly be mandatory. But as we just saw at Table Rock, there should be some anglers who put up big numbers during that frame, whether it be targeting spawning fish or postspawners chasing bait offshore.
+          - paragraph [ref=e360]: “They’re going to have to take advantage of that,” Bohannan said.
+          - paragraph [ref=e361]:
+            - text: One other storyline to watch is whether experience on Beaver Lake proves valuable. Several anglers in the field used to visit the lake annually as members of the FLW Tour, and there are two former Beaver winners in this field –
+            - link "David Dudley" [ref=e362] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/david-dudley/
+            - text: and
+            - link "Bryan Thrift" [ref=e363] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/bryan-thrift/https://majorleaguefishing.com/anglers/bryan-thrift/
+            - text: .
+            - link "Wesley Strader" [ref=e364] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/wesley-strader/
+            - text: has fished the most MLF events on Beaver with 20, followed by Dudley at 19 and
+            - link "Mark Rose" [ref=e365] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/mark-rose/
+            - text: at 18.
+          - paragraph [ref=e366]:
+            - text: Watch all the action on the
+            - emphasis [ref=e367]: MLFNOW!
+            - text: livestream from 7:30 a.m. to 4 p.m. CT each day at MajorLeagueFishing.com, the MLF and MyOutdoorTV (MOTV) apps and the Major League Fishing channel on Rumble.
+      - generic [ref=e369]:
+        - heading "Bass Pro Tour set for debut at Beaver Lake with Yuengling Light Lager Stage 5 Presented by YETI" [level=1] [ref=e370]
+        - heading "Rogers set to host 51 pros competing for $600,000 purse on historic Northwest Arkansas fishery" [level=5] [ref=e371]
+        - generic [ref=e372]:
+          - img "Image for Bass Pro Tour set for debut at Beaver Lake with Yuengling Light Lager Stage 5 Presented by YETI" [ref=e373]
+          - generic [ref=e374]:
+            - text: April 22, 2026 • MLF •
+            - link "Press Releases" [ref=e375] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/press-releases/
+          - paragraph [ref=e376]:
+            - text: ROGERS, Ark. – The
+            - link "Bass Pro Tour" [ref=e377] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/circuits/bass-pro-tour/
+            - text: makes its first-ever stop at Beaver Lake next week, April 30 through May 3, as
+            - link "Yuengling Light Lager Stage 5 Presented by YETI" [ref=e378] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/events/2026-04-30-stage-5-beaver-lake/
+            - text: brings the league’s high-intensity, every-fish-counts format to Northwest Arkansas.
+          - paragraph [ref=e379]:
+            - text: Hosted by
+            - link "Destination Rogers" [ref=e380] [cursor=pointer]:
+              - /url: http://www.destinationrogers.com/
+            - text: ", the four-day tournament will feature 51 of the world’s top professional anglers competing for a $125,000 top prize and their share of a $600,000 purse, along with valuable Fishing Clash Angler of the Year (AOY) points in hopes of qualifying for REDCREST 2027 – the Bass Pro Tour championship – and the Kubota Heavy Hitters all-star event. Competition will unfold under MLF’s catch, weigh, immediate-release format, where every bass over the 1-pound, 8-ounce minimum counts and SCORETRACKER® – the MLF live leaderboard – keeps the pressure on throughout the day."
+          - paragraph [ref=e381]:
+            - text: The field brings together a dynamic mix of the Bass Pro Tour’s biggest stars and rising contenders, led by reigning Bass Pro Tour Angler of the Year, 12-time tour winner and REDCREST 2026 champion
+            - link "Jacob Wheeler" [ref=e382] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/jacob-wheeler/
+            - text: and three-time REDCREST champion
+            - link "Dustin Connell" [ref=e383] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/dustin-connell/
+            - text: . Proven veterans and fan favorites like
+            - link "Edwin Evers" [ref=e384] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/edwin-evers/
+            - text: ","
+            - link "Ott DeFoe" [ref=e385] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/ott-defoe/
+            - text: and
+            - link "Zack Birge" [ref=e386] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/zack-birge/
+            - text: continue to anchor the roster, bringing both consistency and championship pedigree to every event on the schedule.
+          - paragraph [ref=e387]: “Rogers is thrilled to welcome the MLF Bass Pro Tour to Beaver Lake next week,” said J. R. Shaw, Executive Director at Destination Rogers. “Outdoor recreation in Arkansas fuels our state’s economy, and events like this support small businesses and bring great awareness to Rogers and Northwest Arkansas as a premier outdoor recreation destination. Destination Rogers looks forward to partnering with the Major League Fishing staff and community in hosting this prestigious tournament.”
+          - paragraph [ref=e388]: The event will mark a significant milestone for the Bass Pro Tour, as Beaver Lake – a longtime staple across MLF (previously FLW) competition – hosts its inaugural BPT event. MLF has previously held 28 tournaments on the fishery, primarily at the Tackle Warehouse Pro Circuit (formerly FLW Tour) and Phoenix Bass Fishing League levels, but Stage 5 introduces a new dynamic with SCORETRACKER® and the tour’s catch, weigh, immediate-release format.
+          - paragraph [ref=e389]:
+            - text: Bass Pro Tour angler
+            - link "Mark Rose of Wynne, Arkansas" [ref=e390] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/mark-rose/
+            - text: ", said Beaver Lake is entering the event in strong shape, and he expects the fishery to show out."
+          - paragraph [ref=e391]: “The lake has been fishing really good,” Rose said. “The weights are better than they’ve ever been. Years ago, if you had 10 or 11 pounds at Beaver Lake, you were doing really well in a tournament. Now we’re seeing high teens and beyond – it’s a really healthy fishery.”
+          - paragraph [ref=e392]: While all three species of bass are expected to be in play (largemouth, smallmouth and spotted bass) Rose said he believes spotted bass will likely dominate the leaderboard – especially under the BPT’s catch, weigh and immediate-release format.
+          - paragraph [ref=e393]: “I think spotted bass are going to be the most dominant species,” Rose explained. “They’re the most abundant in Beaver Lake, and we’re going to see a lot more spots being caught.”
+          - paragraph [ref=e394]: As the event lines up with the late spring transition, Rose expects a mix of familiar Ozark patterns, with an emphasis on bank-oriented fishing.
+          - paragraph [ref=e395]: “You’re going to see a lot of what we just saw at REDCREST on Table Rock Lake – worms, bottom baits, shaky heads and Ned rigs,” he said. “There will be some fry-guarding fish, maybe a little more topwater starting to come into play, but for the most part it’s going to be pretty standard springtime fishing.”
+          - paragraph [ref=e396]: Despite the presence of forward-facing sonar in clear water, Rose doesn’t anticipate it dominating the event.
+          - paragraph [ref=e397]: “There’s always going to be a ‘scope bite, but I don’t think it’ll be the overwhelming factor,” Rose said. “With the weather we’ve got coming in – cooler nights and mild days – it’s not really setting up for a big offshore deal. I think a lot of it is still going to happen relating to the bank.”
+          - paragraph [ref=e398]: Compared to nearby Table Rock Lake, Rose noted that Beaver’s layout could subtly shift how the event unfolds.
+          - paragraph [ref=e399]: “Beaver doesn’t have as much river influence as Table Rock,” he said. “You’ve got some, but not nearly as much stained water options. It’s really just a smaller version overall, but I do think we’ll see a slightly higher catch rate here. REDCREST had a 2-pound minimum, but with the 1-pound, 8-ounce minimum on Beaver Lake, that extra half-pound is going to make a difference, especially with spotted bass.”
+          - paragraph [ref=e400]:
+            - text: Anglers will arrive each morning at 6:15 a.m. CT to Prairie Creek Recreation Area, located at 9314 N. Park Road in Rogers, Arkansas. Anglers will return to Prairie Creek Recreation Area each evening following the end of competition at 3:45 p.m. Fans are welcome to attend all launch and takeout events and also encouraged to watch the event live online throughout the day on the
+            - emphasis [ref=e401]: MLFNOW!
+            - text: livestream and follow along with SCORETRACKER® coverage at
+            - link "MajorLeagueFishing.com" [ref=e402] [cursor=pointer]:
+              - /url: http://www.majorleaguefishing.com/
+            - text: .
+          - paragraph [ref=e403]:
+            - text: On Saturday and Sunday, May 2-3, from 3-6 p.m., MLF invites fans of all ages to Bass Pro Shops located at 2300 S. Promenade Boulevard in Rogers, for the
+            - strong [ref=e404]: MLF Fan Experience & Watch Party
+            - text: . Fans can watch the Bass Pro Tour pros live on the
+            - emphasis [ref=e405]: MLFNOW!
+            - text: big screen, enjoy free food for the first 100 fans each day, enter hourly giveaways, browse MLF merchandise and the bargain bait bin, participate in a casting contest and cheer on their favorite anglers. Live music begins at 4 p.m., followed by Top 10 angler interviews and the trophy presentation at 5 p.m., including autographs and photos with Bass Pro Tour finalists. The first 50 kids ages 14 and under will receive a free rod and reel each day.
+          - paragraph [ref=e406]:
+            - text: Student anglers from sixth grade through college are invited to join MLF pros at the free Columbia PFG Student Angler Clinic on Saturday, May 2 from 2-6 p.m. The clinic will also be held at Bass Pro Shops, located at 2300 S. Promenade Boulevard in Rogers, and offers a unique opportunity for students to learn from Bass Pro Tour pros, gain hands-on fishing instruction and compete in the national MLF Casting Competition. For more information or to register to the Columbia PFG Student Angler Clinic, visit
+            - link "MajorLeagueFishing.com" [ref=e407] [cursor=pointer]:
+              - /url: https://forms.majorleaguefishing.com/form-6915369/columbia-pfg-student-angler-clinic
+            - text: .
+          - paragraph [ref=e408]: Yuengling Light Lager Stage 5 at Beaver Lake Presented by YETI will feature anglers competing with a 1-pound, 8-ounce minimum weight requirement for a bass to be deemed scorable. The MLF Fisheries Management Division determines minimum weights for each body of water that the Bass Pro Tour visits, based on the productivity, bass population and anticipated average size of fish in each fishery.
+          - paragraph [ref=e409]: The 2026 Bass Pro Tour features a field of 51 of the best professional anglers in the world, competing across seven regular-season tournaments around the country for millions of dollars and valuable points to qualify for the annual Heavy Hitters all-star event and the REDCREST 2027 championship.
+          - paragraph [ref=e410]: The full field of anglers will compete in the two-day Qualifying Round on Thursday and Friday. After the two-day Qualifying Round is complete, the pro with the heaviest two-day total will advance directly to Sunday’s Championship Round. Anglers who finish second through 25th will advance to Saturday’s Knockout Round. In the Knockout Round, weights are zeroed, and the remaining anglers compete to finish in the top nine to advance to Sunday’s Championship Round. In the final-day Championship Round, weights are zeroed, and the highest one-day total wins the top prize of $125,000.
+          - paragraph [ref=e411]:
+            - text: The
+            - emphasis [ref=e412]: MLFNOW!
+            - text: broadcast team of Chad McKee and J.T. Kenney will break down the extended action live on all four days of competition from 7:30 a.m. to 4 p.m. CT.
+            - emphasis [ref=e413]: MLFNOW!
+            - text: will be livestreamed on
+            - link "MajorLeagueFishing.com" [ref=e414] [cursor=pointer]:
+              - /url: http://www.majorleaguefishing.com/
+            - text: ", the MyOutdoorTV (MOTV) app and Rumble."
+          - paragraph [ref=e415]: Television coverage of the Yuengling Light Lager Stage 5 at Beaver Lake Presented by YETI will premiere as a two-hour episode starting at 7 a.m. ET, on Saturday, Sept. 19 on Discovery. New MLF episodes premiere each Saturday morning on Discovery, with re-airings on Outdoor Channel.
+          - paragraph [ref=e416]: "Proud sponsors of the MLF Bass Pro Tour include: Abu Garcia, Athletic Brewing Co., Bass Force, B&W Trailer Hitches, Bass Force, Bass Pro Shops, Berkley, Black Buffalo, BUBBA, Cigars International, Epic Baits, Fishing Clash, Grizzly, Lowrance, Mercury, MillerTech, NITRO Boats, OFF! Deep Woods, O’Reilly Auto Parts, Power-Pole, Ranger Boats, Rapala, Star brite, Suzuki Marine, Toyota, Yuengling and Zenni."
+          - paragraph [ref=e417]:
+            - text: For complete details and updated information on Major League Fishing and the Bass Pro Tour, visit
+            - link "MajorLeagueFishing.com" [ref=e418] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/
+            - text: . For regular updates, photos, tournament news and more, follow MLF’s social media outlets at
+            - link "Facebook" [ref=e419] [cursor=pointer]:
+              - /url: https://www.facebook.com/MajorLeagueFishing
+            - text: ","
+            - link "X" [ref=e420] [cursor=pointer]:
+              - /url: https://twitter.com/MajorLeagueFish
+            - text: ","
+            - link "Instagram" [ref=e421] [cursor=pointer]:
+              - /url: https://www.instagram.com/majorleaguefishingofficial/
+            - text: ","
+            - link "Rumble" [ref=e422] [cursor=pointer]:
+              - /url: https://rumble.com/c/MajorLeagueFishing
+            - text: and
+            - link "YouTube" [ref=e423] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCQF_5AVYaUcnRFJ_UmMgKTw
+            - text: .
+      - generic [ref=e425]:
+        - 'heading "Top 10 baits: Full gamut on display at Table Rock" [level=1] [ref=e426]'
+        - heading [level=5]
+        - generic [ref=e427]:
+          - 'img "Image for Top 10 baits: Full gamut on display at Table Rock" [ref=e428]'
+          - generic [ref=e429]:
+            - text: "The competitors in MLF's championship event caught all three bass species on a wide range of techniques. Photo by Rob Matsuura. Angler:"
+            - link "Alton Jones Jr" [ref=e430] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/alton-jones-jr/
+            - text: .
+          - generic [ref=e431]:
+            - text: April 21, 2026 • Tyler Brinks, Phoenix Moore •
+            - link "Bass Pro Tour" [ref=e432] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/bass-pro-tour/
+          - paragraph [ref=e433]:
+            - text: SPRINGFIELD, Mo. — Table Rock Lake proved to be a great venue for
+            - link "Bass Pro Shops REDCREST Presented by Mercury & Lowrance" [ref=e434] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/events/2026-04-17-table-rock-lake/
+            - text: ", offering plenty of variety. Anglers found success fishing in clean and dirty water, with forward-facing sonar and without it, and"
+            - link "Jacob Wheeler" [ref=e435] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/jacob-wheeler/
+            - text: ultimately secured his first REDCREST title after several close calls.
+          - paragraph [ref=e436]: Here’s a deeper look at how the top anglers caught them at the championship.
+          - heading "1. Jacob Wheeler – 51-11 (21)" [level=3] [ref=e437]
+          - figure "Jacob Wheeler masterfully combined spawning smallmouth and shallow largemouth to claim his first REDCREST crown." [ref=e438]:
+            - generic [ref=e439]: Jacob Wheeler masterfully combined spawning smallmouth and shallow largemouth to claim his first REDCREST crown.
+          - paragraph [ref=e440]: Wheeler finally achieved one of the few titles that had eluded him as he took the REDCREST win. He stayed on the lower end of the lake, primarily around Long Creek, targeting bass in all three stages of the spawn. While many anglers gravitated to spawning pockets, he opted to stay away from them.
+          - paragraph [ref=e441]: “There was a lot of local tournament pressure, and our guys fishing and everyone would run straight into pockets, so I tried to stay away from them,” he said. “I focused my time and energy on long, drawn-out points on channel swings because there was less pressure. You could also catch prespawn fish, spawning fish, and post-spawners all in the same track because the areas were replenishing.”
+          - paragraph [ref=e442]:
+            - text: He utilized a variety of different baits throughout the week, with a green pumpkin
+            - link "Rapala CrushCity Salted Ned Roll" [ref=e443] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/rapala-crushcity-customs-salted-ned-rol
+            - text: rigged on both a shaky head and a
+            - link "VMC Tungsten Ned head" [ref=e444] [cursor=pointer]:
+              - /url: https://www.rapala.com/us_en/rtnhj-redline-series-tungsten-ned-head-jig?srsltid=AfmBOoo-IhGDwDb7odTAkvikha1fjmtJrwr8dKdFbaEJIqQk84IEbAF0
+            - text: working well for spawning smallmouth. Wheeler also mixed in a 4.25-inch
+            - link "CrushCity Freeloader" [ref=e445] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/rapala-crushcity-customs-freeloader
+            - text: and 4.5-inch
+            - link "CrushCity Mooch Minnow" [ref=e446] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/rapala-crushcity-customs-mooch-minnow
+            - text: on 3/16- and 1/8-ounce jigheads during his forward-facing sonar time and worked quickly down rocky banks with a
+            - link "Z-Man Evergreen JackHammer ChatterBait" [ref=e447] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/z-man-chatterbait-jack-hammer-ever-green-custom-bladed-jig
+            - text: with a Freeloader on the back in either green pumpkin magic or sungill.
+          - heading "2. Takahiro Omori – 38-8 (15)" [level=3] [ref=e448]
+          - figure "Takahiro Omori stuck to his strengths by fishing shallow cover with a bladed jig." [ref=e449]:
+            - generic [ref=e450]: Takahiro Omori stuck to his strengths by fishing shallow cover with a bladed jig.
+          - paragraph [ref=e451]:
+            - text: If
+            - link "Takahiro Omori" [ref=e452] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/takahiro-omori/
+            - text: is going to do well, it likely means that there’s a ChatterBait bite somewhere on the lake, and that’s what he found this week in the far reaches of the James River. He stayed consistent all three days, catching 15 bass twice and 16 another day for similar weights each day, and he might have made it a closer race with more time on the final day.
+          - paragraph [ref=e453]: “I was targeting chunk rock and some wood way up the river,” he said. “I was focusing on spawning pockets that had a secondary point or channel swing. All my fish were in 5 feet of water or less.”
+          - paragraph [ref=e454]:
+            - text: To catch his fish, Omori relied on a white 3/8-ounce
+            - link "Z-Man Evergreen Jack Hammer ChatterBait" [ref=e455] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/z-man-chatterbait-jack-hammer-ever-green-custom-bladed-jig
+            - text: with a 5-inch pearl-colored
+            - link "Z-Man DieZel MinnowZ" [ref=e456] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/z-man-diezel-minnowz
+            - text: on the back. His rod of choice was his signature series 7-foot, medium-heavy
+            - link "Daiwa Tatula Elite" [ref=e457] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/daiwa-tatula-elite-casting-rod-101421400
+            - text: . He paired it with a 9.1:1
+            - link "Daiwa Zillion" [ref=e458] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/daiwa-zillion-sv-tw-baitcast-reel
+            - text: and spooled it with 16-pound
+            - link "Sunline Shooter" [ref=e459] [cursor=pointer]:
+              - /url: https://sunlineamerica.com/products/shooter-flurocarbon-line?srsltid=AfmBOoplRaQnDSzaOMpoZztjVi-MJn0lzTHYnsett9YCkBKsavz8dHSp
+            - text: fluorocarbon.
+          - heading "3. Zack Birge – 32-15 (12)" [level=3] [ref=e460]
+          - figure "A ChatterBait also produced many of the bass Zack Birge caught without forward-facing sonar." [ref=e461]:
+            - generic [ref=e462]: A ChatterBait also produced many of the bass Zack Birge caught without forward-facing sonar.
+          - paragraph [ref=e463]:
+            - text: Continuing his run of excellence this season,
+            - link "Zack Birge" [ref=e464] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/zack-birge/
+            - text: posted a great showing after leading the Qualifying Round with 102-6 after two days of fishing. He had a multifaceted approach, using finesse with his electronics and old-school power-fishing the rest of the time.
+          - paragraph [ref=e465]:
+            - text: “During my forward-facing sonar time, I was fishing a little 3-inch minnow and focusing on schooling fish, brushpiles and some spawning fish,” he said. “After that, I caught some on a popper, but almost all of those fish without sonar were on a 3/8-ounce
+            - link "Z-Man Evergreen JackHammer ChatterBait" [ref=e466] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/z-man-chatterbait-jack-hammer-ever-green-custom-bladed-jig
+            - text: in clearwater shad with a 4.5-inch
+            - link "Rapala CrushCity Mooch Minnow" [ref=e467] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/rapala-crushcity-customs-mooch-minnow
+            - text: on the back.”
+          - paragraph [ref=e468]: He primarily focused on areas in the White River and targeted spawning areas.
+          - paragraph [ref=e469]: “I was fishing the main river and looking for short, small pockets that I could go in and out of quickly,” he said. “The bank was fairly steep, but the shorter pockets allowed me to fish them really quickly without having to go around a bunch of docks to get to the back of longer pockets.”
+          - paragraph [ref=e470]:
+            - text: He fished his minnow on a 7-foot medium
+            - link "Alpha Angler Wrench spinning rod" [ref=e471] [cursor=pointer]:
+              - /url: https://www.alphaangler.com/products/spinning-bass-rod-senko?srsltid=AfmBOoont_Cw6LhXoKR7IRyFanQtv8jA49_3Yw8auN21FLj-HLY4h51H
+            - text: and used 10-pound
+            - link "Yo-Zuri SuperBraid" [ref=e472] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/yo-zuri-superbraid-line
+            - text: with a leader of 8-pound
+            - link "Yo-Zuri T7 fluorocarbon" [ref=e473] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/yo-zuri-t7-premium-fluorocarbon-fishing-line
+            - text: . His ChatterBait was fished on an
+            - link "Alpha Angler Mag Rebound" [ref=e474] [cursor=pointer]:
+              - /url: https://www.alphaangler.com/products/deep-crank-casting-bass-rod
+            - text: cranking rod, and he used 16-pound
+            - link "Yo-Zuri T7" [ref=e475] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/yo-zuri-t7-premium-fluorocarbon-fishing-line
+            - text: .
+          - heading "4. Brent Ehrler – 25-7 (12)" [level=3] [ref=e476]
+          - figure "Clear-water expert Brent Ehler knocked out his third Top 10 in seven REDCREST appearances. Photo by Rob Matsuura" [ref=e477]:
+            - generic [ref=e478]: Clear-water expert Brent Ehler knocked out his third Top 10 in seven REDCREST appearances. Photo by Rob Matsuura
+          - paragraph [ref=e479]:
+            - text: Making the final day after winning a tiebreaker for 10th place in the Qualifying Round, it was all up from there for
+            - link "Brent Ehrler" [ref=e480] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/brent-ehrler/
+            - text: ", who has competed in all seven REDCREST events to date. He used a forward-facing sonar approach for schooling fish in the mornings, then switched to spawners afterward."
+          - paragraph [ref=e481]:
+            - text: “I was focusing on schooling fish with a minnow and topwater wake bait in the morning,” he said. “My minnow was a 3.5-inch
+            - link "Yamamoto Hinge Minnow" [ref=e482] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/yamamoto-baits-hinge-minnow
+            - text: in sexy shad on a 3/16-ounce
+            - link "Buckeye Lures G-Stroll head" [ref=e483] [cursor=pointer]:
+              - /url: https://www.baits.com/g-stroll-head/
+            - text: . After that, it was all about spawning fish with a green pumpkin 5-inch
+            - link "Yamamoto Senko" [ref=e484] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/gary-yamamoto-5-senko
+            - text: on a wacky rig, Neko rig and on a shaky head.”
+          - paragraph [ref=e485]: Ehrler caught all three species, but his area was dominated by largemouth and spotted bass, and he felt that most of them were on beds.
+          - paragraph [ref=e486]: “I caught a handful that I actually saw on beds with my eyes, but I was more efficient just going down the bank and casting to dark spots and light spots and covering more water,” he added.
+          - heading "5. Drew Gill – 28-1 (12)" [level=3] [ref=e487]
+          - figure "Drew Gill leaned on spinning tackle for his strong showing." [ref=e488]:
+            - generic [ref=e489]: Drew Gill leaned on spinning tackle for his strong showing.
+          - paragraph [ref=e490]:
+            - link "Drew Gill" [ref=e491] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/drew-gill-2/
+            - text: jumped out to an early lead with an event-best 70-7 on the first day and spent much of the second day scouting additional areas. His most productive approach was targeting spawning smallmouth mid-lake with forward-facing sonar.
+          - paragraph [ref=e492]:
+            - text: “The primary deal was using my ‘Scope period to throw a minnow at spawning smallmouth, but I also caught a few with a drop-shot with a
+            - link "Roboworm" [ref=e493] [cursor=pointer]:
+              - /url: https://www.basspro.com/shop/en/roboworm-straight-worm
+            - text: and a few more on the
+            - link "Big Bite Baits Nekorama" [ref=e494] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/big-bite-baits-nekorama-worm
+            - text: on a Neko rig,” he said. “I fished a
+            - link "Big Bite Baits Spotlight Minnow" [ref=e495] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/big-bite-baits-spotlight-minnow
+            - text: in the 4.25- and 4.8-inch sizes in a myriad of colors with a real light, 1/8-ounce jighead, and shaking it really fast to get those fish to react. The spawning smallmouth were on isolated patches of rocks or stumps.”
+          - paragraph [ref=e496]:
+            - text: When fishing without LiveScope, a 5-inch
+            - link "Yamamoto Senko" [ref=e497] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/gary-yamamoto-5-senko
+            - text: in sungill was his top producer, but he stayed in most of the same areas.
+          - paragraph [ref=e498]: “I was catching mostly spawners but also caught a few around brush,” he said. “I also caught some largemouth that were postspawn and guarding fry around pole timber and chunk rocks along the bank with a wacky-rigged Senko.”
+          - heading "6. Alton Jones Jr. – 24-14 (9)" [level=3] [ref=e499]
+          - figure "A soon-to-be-released swimbait accounted for most of Alton Jones Jr.’s success without forward-facing sonar." [ref=e500]:
+            - generic [ref=e501]: A soon-to-be-released swimbait accounted for most of Alton Jones Jr.’s success without forward-facing sonar.
+          - paragraph [ref=e502]:
+            - link "Alton Jones Jr." [ref=e503] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/alton-jones-jr/
+            - text: had another great REDCREST showing, and he did it with a mix of forward-facing sonar fish and going shallow with a line-through swimbait to target spawning bass along the bank.
+          - paragraph [ref=e504]:
+            - text: “My ‘Scope period was all about the minnow, and I used two sizes of jigheads – a 1/8 and 1/4 ounce – with a 3.5-inch
+            - link "Yamamoto Hinge Minnow" [ref=e505] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/yamamoto-baits-hinge-minnow?searchTerm=yamamoto%20hinge%20minnow
+            - text: ",” he said. “When I wasn’t using ‘Scope, I think every single fish that weighed was caught on the new Geecrack Crackdown swimbait in white that will be out soon. It has a double line through system, so you can fish it with a single hook on top or a treble hook on the bottom, but I caught all my fish this week with it rigged with the treble.”"
+          - paragraph [ref=e506]: He weighed a nice variety of smallmouth, spotted and largemouth bass that were spawning in similar areas in the White River.
+          - paragraph [ref=e507]: “I wanted a semi-steep pocket that had a deep side to it with an outside swing,” he said. “I was just looking for banks that had a good chunk of rock on it, since they were spawning in the cracks of those rocks.”
+          - heading "7. Mark Daniels Jr. – 23-14 (10)" [level=3] [ref=e508]
+          - figure "Mark Daniels Jr. cranked his way to his first REDCREST Top 10." [ref=e509]:
+            - generic [ref=e510]: Mark Daniels Jr. cranked his way to his first REDCREST Top 10.
+          - paragraph [ref=e511]:
+            - text: Although he turned on his forward-facing sonar for one period each day, almost all the fish
+            - link "Mark Daniels Jr." [ref=e512] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/mark-daniels-jr/
+            - text: weighed were caught without it, using an Ozark staple – cranking a crawfish-imitating crankbait.
+          - paragraph [ref=e513]:
+            - text: “I was fishing steeper stuff, rock transitions in the James River,” he said. “It was all about the
+            - link "Bill Lewis MR-6" [ref=e514] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/bill-lewis-mr-6-crankbait
+            - text: and
+            - link "SB-57" [ref=e515] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/bill-lewis-sb-57-crankbait
+            - text: in strawberry craw and Rayburn red. I fished the SB-57 squarebill when I was fishing flatter stuff or when I came across some timber, laydowns, or bushes.”
+          - paragraph [ref=e516]: He did weigh a handful of fish late on the final day with a drop-shot, but the water clarity in his areas was perfect for a crankbait bite.
+          - paragraph [ref=e517]: “I caught a few with ‘Scope in the last hour, but I was mainly fishing that purplish water they call ‘turnover water’ around here,” he added. “That was the key for me.”
+          - heading "8. Spencer Shuffield – 20-9 (8)" [level=3] [ref=e518]
+          - figure "Spencer Shuffield found ways to catch spawning smallmouth both with and without his forward-facing sonar. Photo by Rob Matsuura" [ref=e519]:
+            - generic [ref=e520]: Spencer Shuffield found ways to catch spawning smallmouth both with and without his forward-facing sonar. Photo by Rob Matsuura
+          - paragraph [ref=e521]:
+            - text: Arkansas’
+            - link "Spencer Shuffield" [ref=e522] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/spencer-shuffield-515616/
+            - text: had one of the better days of the event on the second day, when he caught 52–15 to jump from 19th to third place heading into the final day. Much of that success was from a strong forward-facing sonar period, but throughout the week, he had solid plans with and without it.
+          - paragraph [ref=e523]:
+            - text: “I had several schools located in 10 to 15 feet of water and was catching them on isolated objects out on flats,” he said. “I caught them all on a 3-inch
+            - link "Z-Man Scented Jerk ShadZ" [ref=e524] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/z-man-freshwater-scented-jerk-shadz
+            - text: in a bunch of different colors – it didn’t seem to matter – with a 3/16-ounce
+            - link "VMC Redline Tungsten swimbait head" [ref=e525] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/vmc-redline-series-tungsten-swimbait-jighead
+            - text: . I was using 15-pound
+            - link "Yo-Zuri Super9 braid" [ref=e526] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/yo-zuri-superbraid-9-braid-fishing-line
+            - text: in white and used 12-pound
+            - link "Yo-Zuri T7 fluorocarbon" [ref=e527] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/yo-zuri-t7-premium-fluorocarbon-fishing-line
+            - text: for my leader.”
+          - paragraph [ref=e528]:
+            - text: Once he shut off his ‘Scope, Shuffield targeted 45-degree banks and threw at light colored areas along the bank where he suspected a spawning bass to be. His bait of choice was a 1/5-ounce
+            - link "Z-Man Pro ShroomZ Ned head" [ref=e529] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/z-man-finesse-shroomz-jigheadz
+            - text: and
+            - link "Z-Man TRD CrawZ" [ref=e530] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/z-man-trd-crawz
+            - text: in Canada craw.
+          - heading "9. Jeff Sprague – 17-3 (7)" [level=3] [ref=e531]
+          - figure "Jeff Sprague notched his 16th career BPT Top 10 by staying in his shallow, power fishing wheelhouse." [ref=e532]:
+            - generic [ref=e533]: Jeff Sprague notched his 16th career BPT Top 10 by staying in his shallow, power fishing wheelhouse.
+          - paragraph [ref=e534]:
+            - link "Jeff Sprague" [ref=e535] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/jeff-sprague/
+            - text: mixed it up, targeting clean water down the lake the first day before running to stained water in the James River the second and final days. His primary tool in both was a Lake Fork Lures squarebill in the 1.5 size, which will be released later this year.
+          - paragraph [ref=e536]: “I was mainly fishing for spawning fish this week and targeting a little bit steeper banks that had bigger rocks with cracks in them,” he said. “I could get those fish to respond by dragging that crankbait through there, almost like a worm. They would get territorial and come up and respond to it.”
+          - paragraph [ref=e537]:
+            - text: He fished it on a
+            - link "signature series Lake Fork Lures" [ref=e538] [cursor=pointer]:
+              - /url: https://lftlures.com/collections/rods
+            - text: 7-foot, 3-inch medium-heavy crankbait rod, and he used the same approach throughout the lake.
+          - paragraph [ref=e539]: “The first day, I was down in the clear water but ran up to the stained water in the James the final two days,” he said. “I burned up all my fish to get to the final day, but I was just happy to do enough to make a Top 10.”
+          - heading "10. Dustin Connell – 12-8 (5)" [level=3] [ref=e540]
+          - figure "Dustin Connell couldn’t quite pull off the REDCREST three-peat, but he put himself in contention by making the Championship Round." [ref=e541]:
+            - generic [ref=e542]: Dustin Connell couldn’t quite pull off the REDCREST three-peat, but he put himself in contention by making the Championship Round.
+          - paragraph [ref=e543]:
+            - link "Dustin Connell" [ref=e544] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/dustin-connell/
+            - text: wasn’t able to win his fourth REDCREST title, but this marked his sixth Top 10 finish in the championship event. This week on Table Rock, it was thanks to spawning fish, as he primarily scored largemouth and spotted bass from the mid-section of the lake.
+          - paragraph [ref=e545]:
+            - text: “I intended on catching more smallmouth and spots on the
+            - link "Rapala CrushCity Mooch Minnow" [ref=e546] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/rapala-crushcity-customs-mooch-minnow
+            - text: with forward-facing sonar after my practice, but that didn’t really work out during the tournament,” he said. “I ended up catching most of my fish with a green pumpkin
+            - link "CrushCity Salted Ned Roll" [ref=e547] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/rapala-crushcity-customs-salted-ned-roll?searchTerm=salted%20ned%20roll
+            - text: on a 3/16-ounce
+            - link "VMC Tungsten Ned" [ref=e548] [cursor=pointer]:
+              - /url: https://www.rapala.com/us_en/rtnhj-redline-series-tungsten-ned-head-jig?srsltid=AfmBOoo-IhGDwDb7odTAkvikha1fjmtJrwr8dKdFbaEJIqQk84IEbAF0
+            - text: jighead and a
+            - link "CrushCity Janitor" [ref=e549] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/rapala-crushcity-customs-janitor-worm
+            - text: worm, also in green pumpkin, on a 3/16-ounce
+            - link "VMC Stand-Up Shaky Head" [ref=e550] [cursor=pointer]:
+              - /url: https://www.rapala.com/us_en/sshj-stand-up-shaky-head-jig?childSku=us-SSHJ18-BK
+            - text: . I had a few spawning pockets with clean water, and you could find those bedding fish around any piece of wood you could find.”
+          - paragraph [ref=e551]: Another producer for him was a beefed-up drop-shot rig with the same Janitor worm.
+          - paragraph [ref=e552]:
+            - text: “I was fishing it with a baitcaster and 20-pound
+            - link "Seaguar InvizX" [ref=e553] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/seaguar-invizx-fluorocarbon-fishing-line
+            - text: fluorocarbon and pitching it around big trees in the water,” he said. “Those were primarily largemouth, and they don’t typically see a drop-shot in thicker cover, and I had the gear to get them out of there.”
+      - generic [ref=e555]:
+        - 'heading "MATTEO TURANO: From BFLs to REDCREST" [level=1] [ref=e556]'
+        - heading "Mercury pro has had a quick gradutaiton from grassroots tournaments to his first major-tour championship event" [level=5] [ref=e557]
+        - generic [ref=e558]:
+          - 'img "Image for MATTEO TURANO: From BFLs to REDCREST" [ref=e559]'
+          - generic [ref=e560]: Matteo Turano finished 15th at his first REDCREST. Photo by Phoenix Moore.
+          - generic [ref=e561]:
+            - text: April 21, 2026 • Matteo Turano •
+            - link "Angler Columns" [ref=e562] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/angler-columns/
+          - paragraph [ref=e563]:
+            - text: I qualified for
+            - link "Bass Pro Shops REDCREST Presented by Mercury & Lowrance" [ref=e564] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/events/2026-04-17-table-rock-lake/
+            - text: by winning the
+            - link "Phoenix Bass Fishing League All-American Presented by T-H Marine" [ref=e565] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/circuits/bfl/
+            - text: . Three years ago, I fished my first BFL. I was nervous for that tournament. It was a Super Tournament, so it was two days, and after Day 1, I was in second place.
+          - paragraph [ref=e566]: I remember how nervous I was – that was the biggest tournament I had fished by myself to that point. The following year, I fished the Toyota Series at Guntersville, and I just remember how proud I was to make Day 3. I think I was 16th or something, and I snuck into the cut in my first Toyota Series event. From there, I won the Regional, which was the biggest tournament I had ever fished. I just remember all these different points, where it was such a big deal.
+          - paragraph [ref=e567]: It was an awesome week at Table Rock during REDCREST.
+          - paragraph [ref=e568]: "Being around these guys that I’ve watched on TV for so long, being one of them was a really cool experience. Every year, I’ve sped it up and stepped out of my comfort zone in competition, going to that next step. I feel like that’s the one real way to get better: having your competition get better, and having higher stakes. It makes it feel like other tournaments are just another day when you go up and fish something like this. It felt good to be able to hang with these guys. I know I can do it. I just have to keep putting myself out there."
+          - paragraph [ref=e569]: Day 1, going up on stage at REDCREST, I was super nervous. But after Day 2, the nerves calmed a little bit, and I was able to enjoy the day and enjoy being on stage a little more. It was an awesome experience, competing against all those guys, and I can’t wait to be back.
+          - heading "The format was a lot of fun" [level=3] [ref=e570]
+          - paragraph [ref=e571]: I wasn’t really sure how I felt about the format going into the tournament. I wasn’t sure how much fun I was going to have with it. I just love catching the five biggest fish. But actually fishing it, and being in the moment, being right there at the cut, it is so cool. Especially in the 2 1/2 hour periods, it makes you fish at the top intensity for the whole 2 1/2 hours because you know you’re going to get the break at the end, and you know where you stand. At this one, there were eight or nine guys who were all really close to each other; it was just really fun, jumping up and down the scoreboard.
+          - paragraph [ref=e572]: After fishing this format one time, I definitely want to fish it again. I think I’ll do good in this format, and it’s super cool. It pushes you extra hard when you’re out there fishing. I will say, in the five-fish format, if you catch them good in the morning, on days like that, the day goes by so much slower. You’re not fishing to your full potential a lot of the time. With this, it just flies by. It’s a short time and you go at 100% the whole time.
+          - paragraph [ref=e573]:
+            - text: I stayed with
+            - link "Jake Lawrence" [ref=e574] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/jake-lawrence-500859/
+            - text: and
+            - link "Alton Jones Jr." [ref=e575] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/alton-jones-jr/
+            - text: for practice, and I was asking them a lot of questions and just making sure I knew all the penalties. They gave me a ton of advice. I got a couple of penalties on Day 1, but my line broke, so it wasn’t really my fault. It was a really nice system. Anytime I had a question, I was able to ask the official and he would clarify it. It was really easy and fun to fish the format for the first time; it was very intense fishing.
+          - heading "The fishing was good, too" [level=3] [ref=e576]
+          - figure "In the event, Matteo Turano had strong sessions with forward-facing sonar and did well on the bank. Photo by Tyler Brinks" [ref=e577]:
+            - generic [ref=e578]: In the event, Matteo Turano had strong sessions with forward-facing sonar and did well on the bank. Photo by Tyler Brinks
+          - paragraph [ref=e579]:
+            - text: The fishing was really good on Table Rock. I think I was Top 10 after Period 1 on Day 2, and I tried really hard to catch fish the next two periods and just didn’t quite make it. I lost a few fish on Day 1 and lost a couple on a hookset on Day 2, but in those 2 1/2 hours, the time goes by so quick. In the every-fish-counts format, it’s crazy how much a 2-pounder really matters. I think during the
+            - link "Toyota Series I won at Kentucky Lake" [ref=e580] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/series/turano-takes-it-home-on-kentucky-lake/
+            - text: ", I threw a couple 2-pounders back before I had a limit. This one, when I lose a 2-pounder next to the boat, it’s like the end of the world."
+          - paragraph [ref=e581]: It was hard to practice. I just want to go catch the biggest five and it was hard for me to go find 2-pounders. After fishing the tournament, I would have practiced very differently. In practice, I was fishing some brush piles and floaters, and it seemed like it was better-than-average-quality fish. In the tournament on Day 1, I didn’t catch as many as I wanted in my ‘Scope period. That bite I think was an afternoon deal. In practice, I caught a 5-pounder and a couple 4-pounders, so I was feeling pretty good about it. But it was a little more risky, and it ended up not working out.
+          - paragraph [ref=e582]: On Day 1 of the tournament, I ran up to the river during my second and third periods, and I think I caught more fish up there than I caught ‘Scopin’. It’s a lot of fun; it’s how I grew up fishing, on small lakes in Illinois, just going around the bank and throwing a jig. It’s my roots. I hadn’t done it in a while, but it felt good to go catch fish like that.
+          - paragraph [ref=e583]:
+            - text: During my ‘Scope period, I was using a 7-foot, 1-inch, medium-light Phenix Feather with a 3/16-ounce head and a 5-inch
+            - link "Yamamoto Hinge Minnow" [ref=e584] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/yamamoto-baits-hinge-minnow
+            - text: . During my non-‘Scope period, I caught most of my fish on a 1/2-ounce Buckeye The Thump flippin’ jig on a 7-4, medium-heavy
+            - link "Phenix M1" [ref=e585] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/phenix-rods-m1-casting-rod
+            - text: ", and I caught some fish on Day 2 on a neko-rigged 4-inch"
+            - link "Yamamoto Senko" [ref=e586] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/gary-yamamoto-4-senko
+            - text: .
+      - generic [ref=e588]:
+        - heading "Before REDCREST, MLF pros give back with Suzuki Marine lake cleanup at Table Rock Lake" [level=1] [ref=e589]
+        - heading "Anglers, volunteers unite for conservation effort at Table Rock Lake State Park Marina" [level=5] [ref=e590]
+        - generic [ref=e591]:
+          - img "Image for Before REDCREST, MLF pros give back with Suzuki Marine lake cleanup at Table Rock Lake" [ref=e592]
+          - generic [ref=e593]:
+            - text: April 21, 2026 • MLF •
+            - link "Press Releases" [ref=e594] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/press-releases/
+          - paragraph [ref=e595]:
+            - text: SPRINGFIELD, Mo. – Before the first cast of
+            - link "Bass Pro Shops REDCREST 2026 Presented by Mercury Marine and Lowrance" [ref=e596] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/events/2026-04-17-table-rock-lake/
+            - text: ", a group of Major League Fishing pros traded rods and reels for trash bags, teaming up with Suzuki Marine and H2Ozarks to give back to the fishery that would soon take center stage."
+          - paragraph [ref=e597]: On Thursday, April 16, eight MLF Bass Pro Tour anglers – Keith Carson, James Elam, Matt Becker, John Hunter, Nick Hatfield, Jacob Wheeler, Adrian Avena and Dean Rojas – joined approximately 30 volunteers for a shoreline cleanup at Table Rock Lake State Park Marina. The group spent an hour combing the high-traffic public area, each volunteer armed with a bag and a shared goal of leaving the lake better than they found it.
+          - paragraph [ref=e598]:
+            - link "LINK TO PHOTO GALLERY FROM EVENT" [ref=e599] [cursor=pointer]:
+              - /url: https://www.dropbox.com/scl/fo/8ui2gba400mvaqeuyb888/APPTuPZsEyK_cVoiKrKSM-M?rlkey=zly8tpcgskq6aivm945ctlrhs&st=3a3epfk7&dl=0
+          - paragraph [ref=e600]: Despite the short timeframe, the impact was immediate. Volunteers filled bags, and even wheelbarrows, with trash collected from the shoreline.
+          - paragraph [ref=e601]: “It’s important for us as anglers to give back to the places that give us so much,” said Suzuki Marine pro angler Keith Carson of DeBary, Florida. “We spend our careers on these lakes, and taking a little time to help clean them up and protect them for the future means a lot. It’s also really cool to see everyone come together, especially with kids involved, learning how important it is to take care of our fisheries.”
+          - paragraph [ref=e602]: The cleanup effort was part of REDCREST week community outreach, a continued emphasis for MLF to make a positive impact in host communities beyond competition days. Anglers were fully engaged throughout the event, interacting with fans and working alongside volunteers, with several even bringing their children to participate.
+          - paragraph [ref=e603]: One of the day’s standout moments came as pro Adrian Avena worked side by side with his son, a powerful reminder of the role today’s anglers play in passing down a passion for conservation to the next generation.
+          - paragraph [ref=e604]: The partnership with Suzuki Marine continues to highlight a shared commitment to environmental stewardship. Through initiatives like the Suzuki Marine Lake Cleanup, the organizations aim to support cleaner waterways and healthier fisheries across the country.
+          - paragraph [ref=e605]: “We’re proud to partner with Suzuki Marine and H2Ozarks to make a positive impact here at Table Rock Lake,” said Joe Opager, Senior Director of Communications for Major League Fishing. “REDCREST is about showcasing the best anglers in the world, but it’s also about leaving a lasting impression on the communities and fisheries that host us. This was a simple effort, but a meaningful one, and something we’re excited to continue building on.”
+          - paragraph [ref=e606]:
+            - text: For complete details and updated information on Major League Fishing and the Bass Pro Tour, visit
+            - link "MajorLeagueFishing.com" [ref=e607] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/
+            - text: . For regular updates, photos, tournament news and more, follow MLF’s social media outlets at
+            - link "Facebook" [ref=e608] [cursor=pointer]:
+              - /url: https://www.facebook.com/MajorLeagueFishing
+            - text: ","
+            - link "X" [ref=e609] [cursor=pointer]:
+              - /url: https://twitter.com/MajorLeagueFish
+            - text: ","
+            - link "Instagram" [ref=e610] [cursor=pointer]:
+              - /url: https://www.instagram.com/majorleaguefishingofficial/
+            - text: ","
+            - link "Rumble" [ref=e611] [cursor=pointer]:
+              - /url: https://rumble.com/c/MajorLeagueFishing
+            - text: and
+            - link "YouTube" [ref=e612] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCQF_5AVYaUcnRFJ_UmMgKTw
+            - text: .
+      - generic [ref=e614]:
+        - heading "Emptying the notebook from a memorable REDCREST on Table Rock" [level=1] [ref=e615]
+        - heading [level=5]
+        - generic [ref=e616]:
+          - img "Image for Emptying the notebook from a memorable REDCREST on Table Rock" [ref=e617]
+          - generic [ref=e618]: Takahiro Omori put together another impressive event without ever turning on his forward-facing sonar. Photo by Rob Matsuura.
+          - generic [ref=e619]:
+            - text: April 20, 2026 • Mitchell Forde •
+            - link "Bass Pro Tour" [ref=e620] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/bass-pro-tour/
+          - paragraph [ref=e621]:
+            - text: SPRINGFIELD, Mo. — As expected,
+            - link "Bass Pro Shops REDCREST Presented by Mercury & Lowrance" [ref=e622] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/events/2026-04-17-table-rock-lake/
+            - text: showcased a wide range of ways to catch bass. The 35-angler field faced different conditions all three days on Table Rock Lake. And even though postfrontal weather slowed the bite during the Championship Round, the competitors caught a healthy number of all three bass species using a range of techniques. Just about every area of the lake played, too, with the Top 10 featuring anglers fishing in Long Creek, the lower and middle sections of the main lake and the James River arm.
+          - paragraph [ref=e623]:
+            - text: While
+            - link "Jacob Wheeler" [ref=e624] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/jacob-wheeler/
+            - text: finally
+            - link "getting the REDCREST monkey off his back" [ref=e625] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/bass-pro-tour/wheeler-a-redcrest-winner-at-last/
+            - text: was the main story (and rightfully so), plenty of other interesting nuggets emerged from the event. Here are a few notes and quotes before we turn the page and start preparing for
+            - link "Yuengling Light Lager Stage 5 Presented by YETI" [ref=e626] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/events/2026-04-30-stage-5-beaver-lake/
+            - text: ", which will kick off April 30 on nearby Beaver Lake."
+          - heading "Non-BPT qualifiers held their own" [level=3] [ref=e627]
+          - figure "Italy’s Luca Della Ciana finished 16th at REDCREST despite competing in a foreign country. Photo by Phoenix Moore" [ref=e628]:
+            - generic [ref=e629]: Italy’s Luca Della Ciana finished 16th at REDCREST despite competing in a foreign country. Photo by Phoenix Moore
+          - paragraph [ref=e630]:
+            - text: While REDCREST is the
+            - link "Bass Pro Tour" [ref=e631] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/circuits/bass-pro-tour/
+            - text: championship, it features anglers from just about every level of Major League Fishing competition. Several of the non-traditional qualifiers put together excellent showings on Table Rock.
+          - paragraph [ref=e632]:
+            - text: Montevallo University’s
+            - link "Brody Robison" [ref=e633] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/brody-robison-2/
+            - text: was the highest finisher of the bunch. Robison, who won the 2025
+            - link "Columbia PFG College Fishing" [ref=e634] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/circuits/college/
+            - text: National Championship alongside teammate
+            - link "Peyton Sorrow" [ref=e635] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/peyton-sorrow-542461/
+            - text: ", then earned his REDCREST berth by bettering Sorrow at the Toyota Series Championship on Grand Lake last fall, finished 11th – the first angler below the Lucas Oil Cut Line. The near-miss had to be tough to swallow, especially considering Robison actually tied"
+            - link "Brent Ehrler" [ref=e636] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/brent-ehrler/
+            - text: for 10th place at the end of the two-day Qualifying Round but lost the tiebreaker, which was the biggest individual bass of the round. Still, Robison showed that he can hang with the best in the game and established himself as yet another name to watch from the college ranks.
+          - paragraph [ref=e637]:
+            - link "Matteo Turano" [ref=e638] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/matteo-turano-4/
+            - text: ", who won the"
+            - link "Phoenix Bass Fishing League" [ref=e639] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/circuits/bfl/
+            - text: All-American in 2025, also put together a strong showing. He spent most of the Qualifying Round in the Top 10 before slipping to 15th on Saturday afternoon. Turano has a chance to join the Bass Pro Tour field full-time next year – he’s currently 12th in the 7 Brew Angler of the Year standings on the
+            - link "Tackle Warehouse Pro Circuit" [ref=e640] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/circuits/pro-circuit/
+            - text: ", and three of the anglers ahead of him are already on the BPT roster. The top five non-BPT pros at the end of the season will earn invitations to join the tour."
+          - paragraph [ref=e641]: Perhaps most impressive of all, considering the circumstances, Italy’s Luca Della Ciana finished one spot behind Turano. The first-ever angler to qualify for REDCREST from the MLF International ranks, Della Ciana stacked up 47 pounds on Day 2 to climb from 29th place at the start of the day into the top half of the field. He did it while fishing out of a borrowed boat more than 5,000 miles from home. Della Ciana said he caught his fish strolling and also targeting bedding bass with Senkos.
+          - paragraph [ref=e642]: “It is an insane experience, this REDCREST at Table Rock Lake,” Della Ciana said. “I have only one problem – 6 pounds from the cut.”
+          - heading "Omori carries the flag for traditional techniques" [level=3] [ref=e643]
+          - figure "Mark Daniels Jr. was another angler who rode old-school tactics (shallow cranking in his case) to a strong finish. Photo by Phoenix Moore" [ref=e644]:
+            - generic [ref=e645]: Mark Daniels Jr. was another angler who rode old-school tactics (shallow cranking in his case) to a strong finish. Photo by Phoenix Moore
+          - paragraph [ref=e646]: Table Rock is known as a prolific forward-facing sonar fishery, and the technology certainly played a big role at this event. Wheeler used forward-facing sonar to power his strong Period 1 during the Championship Round, when he amassed more than 35 pounds and put the event out of reach.
+          - paragraph [ref=e647]:
+            - text: "But overall, REDCREST continued a trend we’ve seen throughout 2026: Forward-facing sonar isn’t dominating at the same clip as it has in years past. Of course, part of that is due to the league limiting anglers to just one of three periods per day in which they can use the technology. But it isn’t drastically out-producing other techniques during that time. While anglers have forward-facing sonar at their disposal for one-third of the event, it accounted for about 36.5% of the total weight at REDCREST, according to"
+            - emphasis [ref=e648]: SCORETRACKER Insider™
+            - text: .
+          - paragraph [ref=e649]:
+            - text: As has been the case all year,
+            - link "Takahiro Omori" [ref=e650] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/takahiro-omori/
+            - text: did the most damage with traditional techniques. Omori, who won Stage 2 on Lake Hartwell, hasn’t turned on his forward-facing sonar transducers at all in 2026. He finished second on Table Rock by employing his usual strategy – running way up the rivers and throwing a bladed jig around shallow cover.
+            - link "Mark Daniels Jr." [ref=e651] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/mark-daniels-jr/
+            - text: and
+            - link "Jeff Sprague" [ref=e652] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/jeff-sprague/
+            - text: also made the Top 10 by almost exclusively power fishing.
+          - paragraph [ref=e653]: Omori was charging hard at the end of the Championship Round. He stacked up seven scorable bass for 17-11 in Period 3. Easily the best final period of the field, it moved him up from fifth place to second and earned him an extra $25,000.
+          - heading "Other notes:" [level=3] [ref=e654]
+          - list [ref=e655]:
+            - listitem [ref=e656]: Anglers found success targeting all three species (four if you count meanmouth, the smallmouth-spotted bass hybrid) on Table Rock. In the end, largemouth easily led the way, accounting for about 62.7% of the total weight across the three-day event. Smallmouth and spotted bass showed up at a similar rate, with smallmouth comprising 19.7% of the total and spots at 17.5%.
+          - list [ref=e657]:
+            - listitem [ref=e658]:
+              - text: This event provided clear proof that momentum matters in tournament fishing. Each of the winners from the first four regular-season events of 2026 (
+              - link "Drew Gill" [ref=e659] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/drew-gill-2/
+              - text: ","
+              - link "Zack Birge" [ref=e660] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/anglers/zack-birge/
+              - text: ", Omori and Wheeler) finished in the top five, as did the top three in the Fishing Clash Angler of the Year race (Wheeler, Birge, Gill)."
+          - list [ref=e661]:
+            - listitem [ref=e662]: Now that Wheeler finally has his REDCREST trophy, the next breakthrough that seems inevitable is at least one of Ehrler or Sprague claiming their first Bass Pro Tour win. Both finished in the Top 10 at REDCREST. Ehrler is now up to 21 career Championship Round appearances – tied for third most in BPT history and the most for any pro without a win. Sprague is right behind him with 16 Top 10s.
+      - generic [ref=e664]:
+        - 'heading "GALLERY: Wheeler celebrated at Champions Toast Presented by Cigars International" [level=1] [ref=e665]'
+        - heading [level=5]
+        - generic [ref=e666]:
+          - 'img "Image for GALLERY: Wheeler celebrated at Champions Toast Presented by Cigars International" [ref=e667]'
+          - generic [ref=e668]:
+            - text: April 19, 2026 • Phoenix Moore •
+            - link "Bass Pro Tour" [ref=e669] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/bass-pro-tour/
+          - paragraph [ref=e670]:
+            - text: SPRINGFIELD, Mo. –
+            - link "Jacob Wheeler" [ref=e671] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/jacob-wheeler/
+            - text: had won just about everything there is to win, but one trophy was still missing from his collection – until today. Finishing off his win in
+            - link "Bass Pro Shops REDCREST Presented by Mercury & Lowrance" [ref=e672] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/events/2026-04-17-table-rock-lake/
+            - text: with a dominant day on Table Rock, Wheeler finally took down the biggest tournament in Major League Fishing.
+          - paragraph [ref=e673]: After the dust settled, Wheeler was celebrated at the Champions Toast Presented by Cigars International, where fans, family and his fellow competitors were on hand to congratulate the GOAT.
+      - generic [ref=e691]:
+        - 'heading "GALLERY: Top 10 pros regale REDCREST fans at postgame show" [level=1] [ref=e692]'
+        - heading [level=5]
+        - generic [ref=e693]:
+          - 'img "Image for GALLERY: Top 10 pros regale REDCREST fans at postgame show" [ref=e694]'
+          - generic [ref=e695]:
+            - text: April 19, 2026 • Phoenix Moore, Rob Matsuura, Tyler Brinks •
+            - link "Bass Pro Tour" [ref=e696] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/bass-pro-tour/
+          - paragraph [ref=e697]:
+            - text: SPRINGFIELD, Mo. – After a hard-fought day on Table Rock Lake, the Top 10 pros hit the stage to share their
+            - link "Bass Pro Shops REDCREST Presented by Mercury & Lowrance" [ref=e698] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/events/2026-04-17-table-rock-lake/
+            - text: Championship Round experience. While the round was only one day and REDCREST is only three days long, this moment is the culmination of a lifetime of work, sweat and tears, as they and their families poured everything into making their bass fishing dream a reality.
+          - paragraph
+      - generic [ref=e761]:
+        - heading "Wheeler a REDCREST winner at last" [level=1] [ref=e762]
+        - heading [level=5]
+        - generic [ref=e763]:
+          - img "Image for Wheeler a REDCREST winner at last" [ref=e764]
+          - generic [ref=e765]:
+            - text: "Jacob Wheeler won his first REDCREST title in seven tries on Table Rock Lake. Photo by Rob Matsuura. Angler:"
+            - link "Jacob Wheeler" [ref=e766] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/jacob-wheeler/
+            - text: .
+          - generic [ref=e767]:
+            - text: April 19, 2026 • Mitchell Forde •
+            - link "Bass Pro Tour" [ref=e768] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/bass-pro-tour/
+          - paragraph [ref=e769]:
+            - text: SPRINGFIELD, Mo. — With 2 1/2 hours left to fish in
+            - link "Bass Pro Shops REDCREST Presented by Mercury & Lowrance" [ref=e770] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/events/2026-04-17-table-rock-lake/live/
+            - text: ","
+            - link "Jacob Wheeler" [ref=e771] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/jacob-wheeler/
+            - text: sat on the front deck of his bass boat and made a phone call. Trying to distract himself from the fact that the $300,000 prize and REDCREST trophy that had long eluded him were within reach, Wheeler FaceTimed his wife, Alicia, and their two children, Olivia and Hudson, during the final period break.
+          - paragraph [ref=e772]: At that point, Wheeler led his nearest pursuer by more than 17 pounds. With postfrontal conditions making for a tough bite on Table Rock Lake, just about everyone knew that the title that had long seemed inevitable was now imminent – including Olivia. The 7-year-old asked, “Daddy, you’re going to win, right?”
+          - paragraph [ref=e773]: “I’m just like, ‘Honey, I’m going to try, but it’s not a guarantee,’” Wheeler said with a laugh. “’It’s OK if I don’t. We’re going to try our hardest.’”
+          - paragraph [ref=e774]:
+            - text: "Was that Wheeler trying not to get ahead of himself? Sure. But he had good reason not to get too excited. Since winning the Forrest Wood Cup in 2012 at age 21, Wheeler has accomplished just about everything there is to accomplish in tournament bass fishing: 11"
+            - link "Bass Pro Tour" [ref=e775] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/circuits/bass-pro-tour/
+            - text: wins, a Bassmaster Elite Series win, four Fishing Clash Angler of the Year titles. But despite four top-six finishes, he had yet to win Major League Fishing’s championship event.
+          - paragraph [ref=e776]: Sunday, he finally got it done.
+          - paragraph [ref=e777]:
+            - text: After pulling away from the rest of the Championship Round pros early, Wheeler cruised to a 51-pound, 11-ounce total on 21 scorable bass. That topped runner-up
+            - link "Takahiro Omori" [ref=e778] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/takahiro-omori/
+            - text: by 13-3 and earned Wheeler the one piece of hardware he’s been missing – the REDCREST trophy.
+          - paragraph [ref=e779]: “It’s just been the thorn in my side,” Wheeler said. “I’ve had some really close calls. The ball has not bounced my way in these tournaments.
+          - paragraph [ref=e780]: “It means the world. It really does.”
+          - paragraph [ref=e781]: "Here’s how the Top 10 pros finished the Championship Round:"
+          - list [ref=e782]:
+            - listitem [ref=e783]: Jacob Wheeler – 51-11 (21)
+            - listitem [ref=e784]: Takahiro Omori – 38-8 (15)
+            - listitem [ref=e785]: Zack Birge – 32-15 (12)
+            - listitem [ref=e786]: Brent Ehrler – 29-7 (12)
+            - listitem [ref=e787]: Drew Gill – 28-1 (12)
+            - listitem [ref=e788]: Alton Jones Jr. – 24-14 (9)
+            - listitem [ref=e789]: Mark Daniels Jr. – 23-14 (10)
+            - listitem [ref=e790]: Spencer Shuffield – 20-9 (8)
+            - listitem [ref=e791]: Jeff Sprague – 17-3 (7)
+            - listitem [ref=e792]: Dustin Connell – 12-8 (5)
+          - paragraph [ref=e793]:
+            - link "Full results" [ref=e794] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/events/2026-04-17-table-rock-lake/
+          - heading "Wheeler separates himself with strategy" [level=3] [ref=e795]
+          - figure "Wheeler combined a shallow largemouth bite with targeting spawning smallmouth. Photo by Rob Matsuura" [ref=e796]:
+            - generic [ref=e797]: Wheeler combined a shallow largemouth bite with targeting spawning smallmouth. Photo by Rob Matsuura
+          - paragraph [ref=e798]: Ever since Table Rock was revealed as the playing field for REDCREST, Wheeler has been eyeing this event – and for good reason. His first career BPT win came on the fishery in 2019.
+          - paragraph [ref=e799]: But he didn’t spend more time studying or pre-practicing than he does for any other tournaments. For events that occur around the bass spawn, he thinks doing so is counterproductive.
+          - paragraph [ref=e800]: So, instead of out-working the competition, he out-strategized them.
+          - paragraph [ref=e801]: “I might not have been on the best fish, but I just played my hand right,” Wheeler said.
+          - paragraph [ref=e802]: During practice, Wheeler found a group of prespawn smallmouth at the end of a main-lake point in Long Creek. When he returned there to start Day 1, he discovered a healthy population of spawners, too. He boated 10 scorable bass for 24-4 during the opening hour of the event, taking an early lead. He wound up finishing the day in third with 52-2, which put him 14 pounds clear of the Lucas Oil Cut Line.
+          - paragraph [ref=e803]: That strong start afforded Wheeler the luxury of using Day 2 to explore new water. Even though weights zeroed between the Qualifying Round and Championship Round, Wheeler pointed to Saturday as the day he won the event.
+          - paragraph [ref=e804]: On Day 2, Wheeler opted to conserve his period with forward-facing sonar until Period 3, using the early hours to expand the shallow largemouth bite he chased without the technology. He found a few productive stretches where he could get bunches of bites on a bladed jig. Then, once he topped the 75-pound mark, he cut off his hooks. Even when he fell to ninth place in the third period, just one spot inside the cut, Wheeler stuck to his strategy, knowing every fish he could save might be crucial. He estimated that half the smallmouth he caught during his big first period of the Championship Round were spawners he pinpointed on Saturday afternoon.
+          - paragraph [ref=e805]: “Yesterday, my boat official was like, ‘You’re 4 pounds out from 10th and 11th. Do you maybe want to put a hook on?’” Wheeler said. “I’m like, ‘Nah.’ I was playing it so tight. Yesterday was the day I won this tournament.”
+          - heading "Building an insurmountable early lead" [level=3] [ref=e806]
+          - figure "Wheeler had more than 20 pounds to his name within the first hour of Championship Sunday. Photo by Phoenix Moore" [ref=e807]:
+            - generic [ref=e808]: Wheeler had more than 20 pounds to his name within the first hour of Championship Sunday. Photo by Phoenix Moore
+          - paragraph [ref=e809]: Prior to Championship Sunday, Wheeler couldn’t sleep. Once on the water, it didn’t take him long to calm his nerves and claim the top spot on SCORETRACKER®.
+          - paragraph [ref=e810]: His first bass of the day, a 4-pounder, gave him the lead 15 minutes after lines in. He never relinquished the top spot. He quickly added seven more scorable bass to bring his total to 20-15 within the first hour.
+          - paragraph [ref=e811]: That opening flurry was made possible by the type of breaks that haven’t gone Wheeler’s way in past editions of REDCREST. He hooked and lost the same 4-pounder on Day 1, and some fresh fish that weren’t there Friday moved into the area to spawn.
+          - paragraph [ref=e812]: “The one big one I lost on Day 1, that fish was still there, and I ended up catching that one – that was that 4-pounder I caught this morning,” he said. “So, there’s things like that that happened, that was like the grace of God.”
+          - paragraph [ref=e813]: From there, Wheeler transitioned to running individual spawners that he’d marked on Day 2. Showcasing his trademark efficiency, he added six more scorable bass for more than 15 pounds, bringing his Period 1 total to 35-11. The second-best single period of any angler throughout the event, that essentially turned the rest of the day into a race for second. He maintained a 10-plus-pound lead until lines out.
+          - paragraph [ref=e814]:
+            - text: While using his new
+            - link "Lowrance ActiveTarget 2 XL" [ref=e815] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/lowrance-activetarget-2-xl-transducer
+            - text: transducer to target smallmouth, Wheeler utilized the one-two punch of a jighead minnow and a Ned rig. He mixed a 4.25-inch
+            - link "Rapala CrushCity Freeloader" [ref=e816] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/rapala-crushcity-customs-freeloader
+            - text: and a 4.5-inch
+            - link "CrushCity Mooch Minnow" [ref=e817] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/rapala-crushcity-customs-mooch-minnow
+            - text: with a
+            - link "CrushCity Salted Ned Roll" [ref=e818] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/rapala-crushcity-customs-salted-ned-roll
+            - text: . After turning off his transducers and heading to shallower, stained water, he fooled most of his largemouth with a
+            - link "Z-Man Evergreen JackHammer ChatterBait" [ref=e819] [cursor=pointer]:
+              - /url: https://www.basspro.com/p/z-man-chatterbait-jack-hammer-ever-green-custom-bladed-jig
+            - text: paired with a Freeloader in either sungill or green pumpkin magic.
+          - paragraph [ref=e820]: Despite his early lead, Wheeler thought he still needed to stack up about 30 pounds of largemouth to finally hoist the trophy. But it didn’t take long to see that the bluebird skies had hampered the shallow bite. The situation was eerily similar to the most recent Bass Pro Tour event – the Championship Round of Stage 4 on Lake Brownwood, a grinder in which Wheeler also grabbed an early lead then held on to win.
+          - paragraph [ref=e821]: “That cold front did the same thing it did on Brownwood,” Wheeler said. “Yesterday, they bit. It’s the same exact scenario happened today. First day of the front, they’re OK; they bite still. Second day of the front, it’s like a ghost town.”
+          - heading "REDCREST box finally checked" [level=3] [ref=e822]
+          - figure "Wheeler dedicated this win to his father, who passed away from cancer shortly before last year’s REDCREST. Photo by Rob Matsuura" [ref=e823]:
+            - generic [ref=e824]: Wheeler dedicated this win to his father, who passed away from cancer shortly before last year’s REDCREST. Photo by Rob Matsuura
+          - paragraph [ref=e825]: Once his boat official counted down to lines out and the win finally became official, Wheeler let the tears flow. He dedicated the victory to his late father, who died from cancer just a few days before REDCREST 2025.
+          - paragraph [ref=e826]: “It was super emotional, because my dad told me he wanted me to win one for him before he passed away, and (not doing so) was just a tough one to swallow,” Wheeler said.
+          - paragraph [ref=e827]: But his prevailing emotion was relief. Wheeler can finally stop hearing about how he hasn’t won the big one.
+          - paragraph [ref=e828]:
+            - text: "“This is the thing: I can brush off a"
+            - link "Jake Lawrence" [ref=e829] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/jake-lawrence-500859/
+            - text: last-minute buzzer-beater win and placing second (in the regular-season),” Wheeler said. “But you only get once a year to take a crack at this tournament. And so, it just means more.”
+          - paragraph [ref=e830]:
+            - text: It means more than perhaps any previous win for Wheeler’s résumé, too. He further bolstered his standing as the dominant angler of his era and one of the greatest of all time. Since the inception of the Bass Pro Tour in 2019, he’s up to 12 wins to go along with four Angler of the Year titles. He joins
+            - link "Kevin VanDam" [ref=e831] [cursor=pointer]:
+              - /url: https://majorleaguefishing.com/anglers/kevin-vandam/
+            - text: as the only angler ever to win multiple tour championship events and four-plus AOY crowns.
+          - paragraph [ref=e832]: In the afterglow of his win, Wheeler wasn’t ready to think about greatest-of-all-time debates. But it’s not lost on him what finally adding a REDCREST trophy to his collection means to his legacy.
+          - paragraph [ref=e833]: “Does it define my career? No. I don’t really feel like it does,” Wheeler said. “But it definitely adds an additional layer to it. And that to me is what it’s about. Like, wow, you got it done in the event that you can only fish once a year. And that in and of itself is what I’m so thankful for.”
+          - paragraph
+  - contentinfo [ref=e835]:
+    - generic [ref=e836]:
+      - generic [ref=e837]:
+        - img "MLF" [ref=e839]
+        - generic [ref=e840]:
+          - heading "About MLF" [level=4] [ref=e841]
+          - list [ref=e842]:
+            - listitem [ref=e843]:
+              - link "About Us" [ref=e844] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/we-are-bass-fishing/
+            - listitem [ref=e845]:
+              - link "Press Releases" [ref=e846] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/press-releases/
+            - listitem [ref=e847]:
+              - link "Industry News" [ref=e848] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/industry-news/
+            - listitem [ref=e849]:
+              - link "Talent" [ref=e850] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/about/talent/
+            - listitem [ref=e851]:
+              - link "History" [ref=e852] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/about/history/
+            - listitem [ref=e853]:
+              - link "Sponsors" [ref=e854] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/about/sponsors/
+            - listitem [ref=e855]:
+              - link "Contact Us" [ref=e856] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/contact-us-2/
+        - generic [ref=e857]:
+          - heading "Additional Links" [level=4] [ref=e858]
+          - list [ref=e859]:
+            - listitem [ref=e860]:
+              - link "Employment" [ref=e861] [cursor=pointer]:
+                - /url: http://www.outdoorsg.com/about/careers/
+            - listitem [ref=e862]:
+              - link "Privacy Policy" [ref=e863] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/privacy-policy/
+            - listitem [ref=e864]:
+              - link "Social Media Policy" [ref=e865] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/social-media-policy/
+            - listitem [ref=e866]:
+              - link "Terms of Use" [ref=e867] [cursor=pointer]:
+                - /url: https://majorleaguefishing.com/terms-of-use/
+            - listitem [ref=e868]:
+              - link "Your Privacy Choices" [ref=e870] [cursor=pointer]:
+                - /url: "#"
+                - text: Your Privacy Choices
+        - generic [ref=e872]:
+          - heading "Newsletter" [level=4] [ref=e873]
+          - paragraph [ref=e874]: Stay up to date with the latest news, tips and show times. MLF is committed to extending the life of the sport.
+          - generic [ref=e875]:
+            - generic [ref=e876]:
+              - generic [ref=e877]: Email Address
+              - textbox "Email Address" [ref=e878]
+            - generic [ref=e880]: News Preferences
+            - generic [ref=e881]:
+              - generic [ref=e883]:
+                - text: MLF
+                - radio [ref=e884]
+              - generic [ref=e886]:
+                - text: MLF5
+                - radio [ref=e887]
+              - generic [ref=e889]:
+                - text: Both MLF & MLF5
+                - radio [checked] [ref=e890]
+            - button "Submit" [ref=e891] [cursor=pointer]
+          - generic [ref=e892]:
+            - link [ref=e893] [cursor=pointer]:
+              - /url: https://www.facebook.com/MajorLeagueFishing
+            - link [ref=e894] [cursor=pointer]:
+              - /url: https://twitter.com/MajorLeagueFish
+            - link [ref=e895] [cursor=pointer]:
+              - /url: https://www.instagram.com/majorleaguefishingofficial/?hl=en
+            - link [ref=e896] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCQF_5AVYaUcnRFJ_UmMgKTw
+      - paragraph [ref=e897]: © Copyright 2026 MAJOR LEAGUE FISHING

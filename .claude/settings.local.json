@@ -2,7 +2,24 @@
   "permissions": {
     "allow": [
       "Bash(gh auth *)",
-      "PowerShell(gh auth status)"
+      "PowerShell(gh auth status)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "WebSearch",
+      "WebFetch(domain:blog.mikeiaconelli.com)",
+      "WebFetch(domain:majorleaguefishing.com)",
+      "mcp__playwright__browser_navigate",
+      "mcp__youtube-transcript__get_transcript",
+      "mcp__playwright__browser_snapshot",
+      "mcp__playwright__browser_evaluate",
+      "Bash(node pull.mjs DpjIuOKfADs)",
+      "Bash(node pull.mjs NGxU_jeJXP0)",
+      "Bash(node pull.mjs P0wmmiOU3FI)",
+      "Bash(node pull.mjs 7RSTW9JJnCc)",
+      "Bash(node pull.mjs Qa2wTZksT34)",
+      "WebFetch(domain:www.northgafishingguide.com)",
+      "WebFetch(domain:lakesideresort.uchra.com)"
     ]
   }
 }

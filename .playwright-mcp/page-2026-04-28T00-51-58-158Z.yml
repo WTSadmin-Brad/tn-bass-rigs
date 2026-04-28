@@ -1,0 +1,277 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - link "tactiq logo lockup" [ref=e5] [cursor=pointer]:
+        - /url: /?r=0
+        - img "tactiq logo lockup" [ref=e6]
+      - generic [ref=e7]: YouTube Transcript Generator
+  - generic [ref=e8]:
+    - generic [ref=e14]:
+      - heading "Free YouTube Transcript Generator" [level=1] [ref=e15]
+      - paragraph [ref=e16]: Instantly, without uploading video files.
+      - form "YouTube Transcript" [ref=e18]:
+        - textbox "Enter YouTube URL.. https://www.youtube.com/watch?v=Mcm3CDNMnd0" [active] [ref=e21]
+        - button "Get Video Transcript" [ref=e23] [cursor=pointer]
+      - generic [ref=e27]: Quick and simple. No catch.
+    - generic [ref=e30]:
+      - generic [ref=e31]:
+        - heading "How to get the transcript of a YouTube video" [level=2] [ref=e32]
+        - link "Get started" [ref=e35] [cursor=pointer]:
+          - /url: "#youtube-form-link"
+      - generic [ref=e37]:
+        - generic [ref=e39]:
+          - generic [ref=e40]: "1"
+          - heading "Copy the YouTube URL" [level=3] [ref=e41]:
+            - strong [ref=e42]: Copy the YouTube URL
+          - paragraph [ref=e43]:
+            - text: Copy the URL from the address bar of your web browser or right-click the video and select
+            - strong [ref=e44]: “
+            - strong [ref=e45]: Copy Video URL
+            - strong [ref=e46]: ”
+        - generic [ref=e49]:
+          - generic [ref=e50]: "2"
+          - heading "Paste the URL above" [level=3] [ref=e51]:
+            - strong [ref=e52]: Paste the URL above
+          - paragraph [ref=e53]:
+            - text: Simply paste the copied YouTube video
+            - link "URL above" [ref=e54] [cursor=pointer]:
+              - /url: "#youtube-form-link"
+            - text: and click
+            - strong [ref=e55]: “Get Video Transcript.
+            - strong [ref=e56]: ”
+        - generic [ref=e59]:
+          - generic [ref=e60]: "3"
+          - heading "View the Youtube Transcript" [level=3] [ref=e61]:
+            - strong [ref=e62]: View the Youtube Transcript
+          - paragraph [ref=e63]: Instantly view, copy and download the YouTube video's transcript text without entering your email.
+    - generic [ref=e69]:
+      - generic [ref=e70]:
+        - heading "Need to transcribe and summarize your online video calls to text?" [level=2] [ref=e71]
+        - iframe [ref=e74]:
+          - iframe [ref=f94e4]:
+            - generic [active] [ref=f97e1]:
+              - generic "YouTube Video Player" [ref=f97e3]
+              - generic [ref=f97e5]:
+                - generic:
+                  - generic:
+                    - button "Play video" [ref=f97e10] [cursor=pointer]
+                    - button "Hide player controls" [ref=f97e12] [cursor=pointer]
+                    - generic [ref=f97e14]:
+                      - generic [ref=f97e19]:
+                        - generic [ref=f97e20]:
+                          - link "Generate YouTube Transcript with Tactiq! Instant, Simple &Free!" [ref=f97e21] [cursor=pointer]:
+                            - /url: https://www.youtube.com/watch?v=6umk3wMl6OY
+                          - link "Tactiq" [ref=f97e22] [cursor=pointer]:
+                            - /url: /channel/UCuwE53Dx0p0QyOPCDVYsiew
+                            - generic [ref=f97e23]: Tactiq
+                        - generic [ref=f97e24]:
+                          - button [ref=f97e25] [cursor=pointer]
+                          - generic [ref=f97e27]:
+                            - generic: Tactiq
+                            - generic: 4.78K subscribers
+                      - generic [ref=f97e28]:
+                        - button "Share" [ref=f97e31] [cursor=pointer]:
+                          - generic [ref=f97e35]:
+                            - img
+                        - link "Watch on YouTube" [ref=f97e42] [cursor=pointer]:
+                          - /url: https://www.youtube.com/watch?v=6umk3wMl6OY
+                          - generic [ref=f97e45]:
+                            - text: Watch on
+                            - img [ref=f97e47]:
+                              - generic [ref=f97e49]:
+                                - img
+        - paragraph [ref=e76]: Try Tactiq for Free
+      - generic [ref=e78]:
+        - generic [ref=e79]:
+          - img "collaboration icon" [ref=e80]
+          - generic [ref=e81]:
+            - heading "No installations or setup" [level=3] [ref=e82]
+            - paragraph [ref=e83]:
+              - text: Just add Tactiq's
+              - link "Speech to Text chrome extension" [ref=e84] [cursor=pointer]:
+                - /url: /speech-to-text
+              - text: ", and it pops up as soon as you start a new meeting in Google Meet, Zoom, MS Teams or Webex."
+        - generic [ref=e85]:
+          - img "live transcription icon" [ref=e86]
+          - generic [ref=e87]:
+            - heading "Live transcripts" [level=3] [ref=e89]:
+              - strong [ref=e90]: Live transcripts
+            - paragraph [ref=e91]:
+              - text: Our
+              - link "AI note taker" [ref=e92] [cursor=pointer]:
+                - /url: https://tactiq.io/ai-tools/ai-note-taker
+              - text: transcribe your meetings live without any bots joining the call with 100% accurate speaker identification
+        - generic [ref=e93]:
+          - img "ai summary icon" [ref=e94]
+          - generic [ref=e95]:
+            - heading "One-click AI summary" [level=3] [ref=e96]:
+              - strong [ref=e97]: One-click AI summary
+            - paragraph [ref=e98]:
+              - text: Use one-click AI prompts to generate a
+              - link "meeting summary" [ref=e99] [cursor=pointer]:
+                - /url: https://tactiq.io/features/summaries
+              - text: ","
+              - link "action items" [ref=e100] [cursor=pointer]:
+                - /url: https://tactiq.io/features/action-items
+              - text: ", or next meeting agenda from your recorded meeting transcript."
+    - generic [ref=e106]:
+      - heading "Frequently Asked Questions (FAQ)" [level=2] [ref=e108]
+      - generic [ref=e109]:
+        - button "How do I transcribe a YouTube video to text? " [ref=e111] [cursor=pointer]:
+          - strong [ref=e113]: How do I transcribe a YouTube video to text?
+          - generic [ref=e115]: 
+        - button "How do I generate and download a text transcript from YouTube video? " [ref=e117] [cursor=pointer]:
+          - strong [ref=e119]: How do I generate and download a text transcript from YouTube video?
+          - generic [ref=e121]: 
+        - button "Is YouTube Video Transcript Generator Available for Free? " [ref=e123] [cursor=pointer]:
+          - strong [ref=e125]: Is YouTube Video Transcript Generator Available for Free?
+          - generic [ref=e127]: 
+        - button "What is a YouTube video transcript? " [ref=e129] [cursor=pointer]:
+          - strong [ref=e131]: What is a YouTube video transcript?
+          - generic [ref=e133]: 
+        - button "What are YouTube subtitles? " [ref=e135] [cursor=pointer]:
+          - strong [ref=e137]: What are YouTube subtitles?
+          - generic [ref=e139]: 
+        - button "What are YouTube closed captions (CC)? " [ref=e141] [cursor=pointer]:
+          - strong [ref=e143]: What are YouTube closed captions (CC)?
+          - generic [ref=e145]: 
+        - button "Why can't I download the transcript text of the YouTube video? " [ref=e147] [cursor=pointer]:
+          - generic [ref=e148]: Why can't I download the transcript text of the YouTube video?
+          - generic [ref=e150]: 
+    - generic [ref=e156]:
+      - heading "Discover more" [level=4] [ref=e159]
+      - list [ref=e162]:
+        - listitem [ref=e163]:
+          - link "AI Note Taker" [ref=e164] [cursor=pointer]:
+            - /url: /ai-tools/ai-note-taker
+            - heading "AI Note Taker" [level=6] [ref=e168]
+        - listitem [ref=e169]:
+          - link "AI Meeting Automation" [ref=e170] [cursor=pointer]:
+            - /url: /ai-tools/ai-meeting-automation
+            - heading "AI Meeting Automation" [level=6] [ref=e174]
+        - listitem [ref=e175]:
+          - link "AI Transcript Generator" [ref=e176] [cursor=pointer]:
+            - /url: /ai-tools/ai-transcript
+            - heading "AI Transcript Generator" [level=6] [ref=e180]
+        - listitem [ref=e181]:
+          - link "AI Auto Notes" [ref=e182] [cursor=pointer]:
+            - /url: /ai-tools/ai-auto-notes
+            - heading "AI Auto Notes" [level=6] [ref=e186]
+      - list [ref=e188]:
+        - listitem [ref=e189]:
+          - link "Google Meet Transcript" [ref=e190] [cursor=pointer]:
+            - /url: /transcribe/google-meet
+            - heading "Google Meet Transcript" [level=6] [ref=e194]
+        - listitem [ref=e195]:
+          - link "Zoom Transcript" [ref=e196] [cursor=pointer]:
+            - /url: /transcribe/zoom
+            - heading "Zoom Transcript" [level=6] [ref=e200]
+        - listitem [ref=e201]:
+          - link "Microsoft Teams Transcript" [ref=e202] [cursor=pointer]:
+            - /url: /transcribe/microsoft-teams
+            - heading "Microsoft Teams Transcript" [level=6] [ref=e206]
+        - listitem [ref=e207]:
+          - link "French Transcription" [ref=e208] [cursor=pointer]:
+            - /url: /transcribe/french
+            - heading "French Transcription" [level=6] [ref=e212]
+      - list [ref=e214]:
+        - listitem [ref=e215]:
+          - link "Thai Translate" [ref=e216] [cursor=pointer]:
+            - /url: /translate/thai-translate
+            - heading "Thai Translate" [level=6] [ref=e220]
+        - listitem [ref=e221]:
+          - link "Xhosa Translate" [ref=e222] [cursor=pointer]:
+            - /url: /translate/xhosa-translate
+            - heading "Xhosa Translate" [level=6] [ref=e226]
+        - listitem [ref=e227]:
+          - link "Hindi Translate" [ref=e228] [cursor=pointer]:
+            - /url: /translate/hindi-translate
+            - heading "Hindi Translate" [level=6] [ref=e232]
+        - listitem [ref=e233]:
+          - link "German Translation" [ref=e234] [cursor=pointer]:
+            - /url: /translate/german
+            - heading "German Translation" [level=6] [ref=e238]
+    - generic [ref=e240]:
+      - heading "Read more" [level=4] [ref=e243]
+      - list [ref=e246]:
+        - listitem [ref=e247]:
+          - generic [ref=e248]:
+            - link [ref=e249] [cursor=pointer]:
+              - /url: /learn/top-20-ai-workflow-automation-tools
+            - link "Top 20 AI Workflow Automation Tools (with Infographics)" [ref=e251] [cursor=pointer]:
+              - /url: /learn/top-20-ai-workflow-automation-tools
+              - heading "Top 20 AI Workflow Automation Tools (with Infographics)" [level=3] [ref=e252]
+            - generic [ref=e254]: Explore the top 20 AI automation tools to streamline workflows, automate tasks, and enhance productivity. Discover the best tools for optimizing your business.
+        - listitem [ref=e255]:
+          - generic [ref=e256]:
+            - link [ref=e257] [cursor=pointer]:
+              - /url: /learn/ai-workflow-generators
+            - link "Creating AI Workflow Generators for Meetings" [ref=e259] [cursor=pointer]:
+              - /url: /learn/ai-workflow-generators
+              - heading "Creating AI Workflow Generators for Meetings" [level=3] [ref=e260]
+            - generic [ref=e262]: Create AI workflow generators for meetings to save time and boost productivity. Discover how these tools automate tasks and optimize your meeting processes.
+        - listitem [ref=e263]:
+          - generic [ref=e264]:
+            - link [ref=e265] [cursor=pointer]:
+              - /url: /learn/craft-the-perfect-meeting-invitation-message
+            - link "Craft the Perfect Meeting Invitation Message" [ref=e267] [cursor=pointer]:
+              - /url: /learn/craft-the-perfect-meeting-invitation-message
+              - heading "Craft the Perfect Meeting Invitation Message" [level=3] [ref=e268]
+            - generic [ref=e270]: Craft a professional meeting invitation message with clear goals, agenda, and RSVP details to ensure better attendance and preparation.
+        - listitem [ref=e271]:
+          - generic [ref=e272]:
+            - link [ref=e273] [cursor=pointer]:
+              - /url: /learn/claude-hybrid-llms
+            - link "What are Claude Hybrid LLMs? How Hybrid Reasoning Works" [ref=e275] [cursor=pointer]:
+              - /url: /learn/claude-hybrid-llms
+              - heading "What are Claude Hybrid LLMs? How Hybrid Reasoning Works" [level=3] [ref=e276]
+            - generic [ref=e278]: Claude hybrid LLMs combine fast responses with deep reasoning in one model. Learn how hybrid reasoning works, key features, and how to use Claude for complex workflows.
+        - listitem [ref=e279]:
+          - generic [ref=e280]:
+            - link [ref=e281] [cursor=pointer]:
+              - /url: /learn/agentic-workflow-platforms
+            - link "5 Best No-Code Agentic Workflow Platforms in 2025" [ref=e283] [cursor=pointer]:
+              - /url: /learn/agentic-workflow-platforms
+              - heading "5 Best No-Code Agentic Workflow Platforms in 2025" [level=3] [ref=e284]
+            - generic [ref=e286]: Discover the 5 best no-code agentic workflow platforms in 2025 to streamline tasks and boost productivity—no coding skills required.
+        - listitem [ref=e287]:
+          - generic [ref=e288]:
+            - link [ref=e289] [cursor=pointer]:
+              - /url: /learn/comparing-prices-chatgpt-claude-ai-deepseek-and-perplexity
+            - 'link "Comparing Prices: ChatGPT, Claude AI, DeepSeek, and Perplexity" [ref=e291] [cursor=pointer]':
+              - /url: /learn/comparing-prices-chatgpt-claude-ai-deepseek-and-perplexity
+              - 'heading "Comparing Prices: ChatGPT, Claude AI, DeepSeek, and Perplexity" [level=3] [ref=e292]'
+            - generic [ref=e294]: Compare ChatGPT, Claude, DeepSeek, and Perplexity pricing for 2026. Free vs paid plans, key features, and which AI tool fits your budget and workflow.
+        - listitem [ref=e295]:
+          - generic [ref=e296]:
+            - link [ref=e297] [cursor=pointer]:
+              - /url: /learn/best-translation-apps
+            - link "Best Translation Apps for Travelers and Business Use" [ref=e299] [cursor=pointer]:
+              - /url: /learn/best-translation-apps
+              - heading "Best Translation Apps for Travelers and Business Use" [level=3] [ref=e300]
+            - generic [ref=e302]: Discover the best translation apps for travelers and business use. Break language barriers with apps like Google Translate and Tactiq to enhance communication.
+        - listitem [ref=e303]:
+          - generic [ref=e304]:
+            - link [ref=e305] [cursor=pointer]:
+              - /url: /learn/step-by-step-guide-to-creating-srt-files
+            - link "Step-by-Step Guide to Creating SRT Files" [ref=e307] [cursor=pointer]:
+              - /url: /learn/step-by-step-guide-to-creating-srt-files
+              - heading "Step-by-Step Guide to Creating SRT Files" [level=3] [ref=e308]
+            - generic [ref=e310]: Create SRT files to add subtitles to videos. Learn what SRT files are, their benefits, and how to create one on Mac or Windows in this step-by-step guide.
+    - generic [ref=e316]:
+      - heading "Ready to get more out of meetings?" [level=2] [ref=e317]
+      - generic [ref=e318]:
+        - text: Use the
+        - link "Tactiq Chrome Extension" [ref=e319] [cursor=pointer]:
+          - /url: https://chrome.google.com/webstore/detail/tactiq-chatgpt-meeting-su/fggkaccpbmombhnjkjokndojfgagejfb/?utm_source=Organic&utm_medium=Tools&utm_campaign=youtube-transcript
+        - text: for real-time transcription of video meetings and easily share them with participants. Generate one-click AI summaries and actionable insights from meeting transcripts.
+      - link "Get started" [ref=e321] [cursor=pointer]:
+        - /url: https://chrome.google.com/webstore/detail/tactiq-chatgpt-meeting-su/fggkaccpbmombhnjkjokndojfgagejfb/?utm_source=Organic&utm_medium=Tools&utm_campaign=youtube-transcript
+    - contentinfo [ref=e323]:
+      - generic [ref=e325]:
+        - link "tactiq light logo" [ref=e326] [cursor=pointer]:
+          - /url: "#"
+          - img "tactiq light logo" [ref=e327]
+        - generic [ref=e328]: © 2024 Tactiq. All rights reserved. Made with ❤ in Sydney, Australia
+  - iframe [ref=e329]:
+    
