@@ -107,3 +107,32 @@ still owed. Append-only.
 - Phase B (skill packaging) is unblocked. The protocol exercised cleanly end-to-end
   with one operational caveat (MCP serialization, worked around). Skill body can
   reflect what actually worked.
+
+## 2026-09-09 — Center Hill September tournament research (cross-repo run; deliverable in bass-fishing-vault)
+
+- Purpose: scouting brief for Brad's Center Hill tournament Sat 2026-09-12 (Hurricane Bridge). Deliverable, runbook, and
+  research postmortem live in `bass-fishing-vault/field-notes/`. This repo holds the cached sources per `research-protocol.md` § 3.
+- Four Sonnet subagents (recent intel / historical September corpus / conditions baseline / pro September content) plus
+  main-session live-data pulls (USACE CWMS, LRN preschedule, NWS, USNO) and two main-session salvage passes.
+- Cached this run — articles: `omnia-center-hill-september-user-reports-2020-2024.md`,
+  `3bmedianews-center-hill-dale-hollow-sept-2020-series.md`, `omniafishing-center-hill-lake-reports-multi-year-sept.md`,
+  `twra-creel-clerk-center-hill-weekly-report-2024-10-30.md`, `twra-center-hill-reservoir-page-2026.md`,
+  `usace-cwms-center-hill-elevation-september-history.md`, `center-hill-water-temperature-aggregators-2026-09.md`,
+  `dvids-usace-nashville-drought-low-lakes-2026-04.md`, `dvids-center-hill-spillway-gate-replacement-2026-05.md`,
+  `dvids-center-hill-orifice-gate-reinstallation-2024-06.md`, `twra-weekly-report-caney-fork-tailwater-2026-07-16.md`,
+  `twra-weekly-report-center-hill-tailwater-2026-07.md`, `wired2fish-september-2026-lures-roundup.md`,
+  `youtube-rss-roster-scan-2026-09-09.md`.
+- Cached — transcripts: `ottdefoe-technique-of-month-september-scoping-suspenders-2026-09.md`,
+  `wheelerfishing-best-september-bait-2026-09.md`, `wheelerfishing-late-summer-raw-breakdown-2026-08.md`,
+  `tacticalbassin-free-rig-fall-bass-2026-09.md`, `bassfishinghq-late-summer-technique-2026-09.md`.
+- Cached — tournament-reports: `mlf-bfl-dalehollow-2024-09.md` (Pearman, jighead minnow + FFS, largemouth),
+  `mlf-bfl-music-city-dale-hollow-2024-09-preview.md`, `twra-creel-clerk-center-hill-reservoir-reports-2024.md`,
+  `bfl-music-city-center-hill-2026-schedule.md`, `volunteer-bass-trail-2026-schedule.md`.
+- Findings relevant to rig dossiers: DeFoe's September jighead-minnow spec (VMC Redline tungsten / Minnow Shaker 2/0,
+  1/8–3/8 oz, 3–5" Rock and Shad, reel-set) is a Damiki/minnow-rig data point for the deferred Hover/Damiki decision;
+  TacticalBassin's free-rig rock checklist plus the unpulled Steve Rogers "worm weight vs free rig weight in rock" test
+  (IJlNZOCrLwc) feed the Free Rig dossier. Center Hill drop-shot specifics (loose-ends S3.9) still `[THIN]`: one 2020
+  mention only.
+- Tooling: YouTube channel RSS + Node `youtube-transcript@1.3.1` work from the cloud container (rate wall after ~6 pulls);
+  Playwright dead there; MLF via Wayback `id_` snapshots or thebasscast.com mirror; Omnia report data is in static HTML.
+  Details in `NickajackLake/Docs/Tooling/cloud-container-fetch-paths-2026-09-09.md`.
